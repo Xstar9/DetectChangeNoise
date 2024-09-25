@@ -1,0 +1,18 @@
+85b83bb9b3cf6502333457a079dea7acf2da2b19 eb368f13ed3f4eb84d4ac856553bab9ab74e006f    :
+494c02e5c7225931502cd5fe91dbabd82bab9cfe 683c9fe5ac1fea2e495f615f2664cdcb02c00af1    :[src/test/java/org/apache/ibatis/submitted/sqlprovider/OurSqlBuilder.java|CHANGE_PARAMETER_TYPE, src/test/java/org/apache/ibatis/submitted/sqlprovider/SqlProviderTest.java|ADD_METHOD_ANNOTATION, src/test/java/org/apache/ibatis/submitted/sqlprovider/SqlProviderTest.java|REMOVE_METHOD_ANNOTATION, src/test/java/org/apache/ibatis/submitted/sqlprovider/SqlProviderTest.java|RENAME_METHOD]
+c45029f500e8e615b6419c447844db0b9db58a15 494c02e5c7225931502cd5fe91dbabd82bab9cfe    :
+0c5f566cc41117e0a75a42e6dfab8e1dc4a2b62d c45029f500e8e615b6419c447844db0b9db58a15    :[src/test/java/org/apache/ibatis/submitted/sqlprovider/OurSqlBuilder.java|CHANGE_PARAMETER_TYPE, src/test/java/org/apache/ibatis/submitted/sqlprovider/SqlProviderTest.java|ADD_METHOD_ANNOTATION, src/test/java/org/apache/ibatis/submitted/sqlprovider/SqlProviderTest.java|REMOVE_METHOD_ANNOTATION, src/test/java/org/apache/ibatis/submitted/sqlprovider/SqlProviderTest.java|RENAME_METHOD]
+6f22971fdcfb6cadce1aaff76e886de64d3b98cb 0c5f566cc41117e0a75a42e6dfab8e1dc4a2b62d    :[src/test/java/org/apache/ibatis/submitted/sqlprovider/SqlProviderTest.java|ADD_METHOD_ANNOTATION, src/test/java/org/apache/ibatis/submitted/sqlprovider/SqlProviderTest.java|REMOVE_METHOD_ANNOTATION]
+2beff6b74e7fb2f65f956d8a53b09a286e213a00 98edf2d67927cdcd64002e6c7b83caccd8fc653d    :[src/test/java/org/apache/ibatis/submitted/sqlprovider/OurSqlBuilder.java|RENAME_METHOD]
+ce44afae76f17ddff4fc18af3d77c16f157e4fb0 96a270a910e66e6483394881208cdf264499721a    :
+0f01892fcbecb8216a28a4f4cf970c807c2ae957 e23f2fbb87cf8d0b7d39233a794ead636eeebc9c    :[src/main/java/org/apache/ibatis/builder/xml/XMLMapperEntityResolver.java|EXTRACT_VARIABLE]
+dca09fba83e5e509d0b11a7f890ca1bf58f624dc 0f01892fcbecb8216a28a4f4cf970c807c2ae957    :
+413f62d93f8e21273895843d8dcfc9264844940d dca09fba83e5e509d0b11a7f890ca1bf58f624dc    :
+1e5ac2b69aff49902232cb24851e5e13516e7bc5 f6eda2af89fbc5987f54710b435ff3404ecae5d2    :[src/main/java/org/apache/ibatis/builder/xml/XMLMapperEntityResolver.java|ADD_PARAMETER, src/main/java/org/apache/ibatis/builder/xml/XMLMapperEntityResolver.java|INLINE_VARIABLE, src/main/java/org/apache/ibatis/builder/xml/XMLMapperEntityResolver.java|LOCALIZE_PARAMETER, src/main/java/org/apache/ibatis/builder/xml/XMLMapperEntityResolver.java|SPLIT_ATTRIBUTE]
+2c2816fc1ca43dca8dc527cda521b1eee41c0173 1e5ac2b69aff49902232cb24851e5e13516e7bc5    :
+a2cf7d4886170cf0eb6a109c9fa88ce8e7983083 2c2816fc1ca43dca8dc527cda521b1eee41c0173    :
+d654139aa09888804b5ed2509bbbd05d88fc7f05 a2cf7d4886170cf0eb6a109c9fa88ce8e7983083    :[src/test/java/org/apache/ibatis/submitted/generictyperesolution/Mapper.java|MODIFY_METHOD_ANNOTATION]
+09f86b62e4b0c1c13c72be1090a62a2c7bb74995 d654139aa09888804b5ed2509bbbd05d88fc7f05    :[src/main/java/org/apache/ibatis/reflection/TypeParameterResolver.java|EXTRACT_OPERATION, src/main/java/org/apache/ibatis/reflection/TypeParameterResolver.java|INLINE_VARIABLE, src/main/java/org/apache/ibatis/reflection/TypeParameterResolver.java|PARAMETERIZE_VARIABLE, src/main/java/org/apache/ibatis/reflection/TypeParameterResolver.java|RENAME_PARAMETER]
+543d464d93efa273eb5f2c76f049420f0d33716c 09f86b62e4b0c1c13c72be1090a62a2c7bb74995    :
+83bb6d3bfabb88e2614861bbda507b9ae3b5fb83 543d464d93efa273eb5f2c76f049420f0d33716c    :
+971bc241a525f44f333f8da8ad64719368e19362 83bb6d3bfabb88e2614861bbda507b9ae3b5fb83    :[src/main/java/org/apache/ibatis/io/ExternalResources.java|ADD_CLASS_ANNOTATION]

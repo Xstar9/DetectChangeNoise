@@ -1,0 +1,40 @@
+diff --git a/src/main/java/org/springframework/data/neo4j/core/PreparedQuery.java b/src/main/java/org/springframework/data/neo4j/core/PreparedQuery.java
+index 0e0f9f409..55c124d98 100644
+--- a/src/main/java/org/springframework/data/neo4j/core/PreparedQuery.java
++++ b/src/main/java/org/springframework/data/neo4j/core/PreparedQuery.java
+@@ -84,2 +84 @@ public final class PreparedQuery<T> {
+-		lastMappingFunction = Optional.ofNullable(this.mappingFunctionSupplier)
+-				.map(Supplier::get)
++		lastMappingFunction = Optional.ofNullable(this.mappingFunctionSupplier).map(Supplier::get)
+@@ -91,4 +90,2 @@ public final class PreparedQuery<T> {
+-		return lastMappingFunction
+-				.filter(AggregatingMappingFunction.class::isInstance)
+-				.map(AggregatingMappingFunction.class::cast)
+-				.map(AggregatingMappingFunction::hasAggregated)
++		return lastMappingFunction.filter(AggregatingMappingFunction.class::isInstance)
++				.map(AggregatingMappingFunction.class::cast).map(AggregatingMappingFunction::hasAggregated)
+@@ -117 +114,2 @@ public final class PreparedQuery<T> {
+-		public OptionalBuildSteps<CT> withQueryFragmentsAndParameters(QueryFragmentsAndParameters queryFragmentsAndParameters) {
++		public OptionalBuildSteps<CT> withQueryFragmentsAndParameters(
++				QueryFragmentsAndParameters queryFragmentsAndParameters) {
+@@ -130 +128,2 @@ public final class PreparedQuery<T> {
+-		@Nullable Supplier<BiFunction<TypeSystem, MapAccessor, ?>> mappingFunctionSupplier;
++		@Nullable
++		Supplier<BiFunction<TypeSystem, MapAccessor, ?>> mappingFunctionSupplier;
+@@ -148 +147,2 @@ public final class PreparedQuery<T> {
+-		public OptionalBuildSteps<CT> usingMappingFunction(@Nullable Supplier<BiFunction<TypeSystem, MapAccessor, ?>> newMappingFunction) {
++		public OptionalBuildSteps<CT> usingMappingFunction(
++				@Nullable Supplier<BiFunction<TypeSystem, MapAccessor, ?>> newMappingFunction) {
+@@ -183,3 +183,5 @@ public final class PreparedQuery<T> {
+-			List<Path> paths = value.hasType(t.PATH())
+-					? Collections.singletonList(value.asPath())
+-					: value.asList(Value::asPath);
++			List<Path> paths;
++			if (value.hasType(t.PATH()))
++				paths = Collections.singletonList(value.asPath());
++			else
++				paths = value.asList(Value::asPath);
+@@ -252,2 +254 @@ public final class PreparedQuery<T> {
+-						.stream()
+-						.collect(Collectors.partitioningBy(entry -> entry.getValue().hasType(t.PATH())));
++						.stream().collect(Collectors.partitioningBy(entry -> entry.getValue().hasType(t.PATH())));

@@ -1,0 +1,128 @@
+e591f444df6bbdb47bf882cf1be3bad03d1472e9 27b918a097a26f44be464ace410b36314477b568    :
+260628bf3b31afad1fa31da3b4f7ad7f49e03fbb e591f444df6bbdb47bf882cf1be3bad03d1472e9    :[spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/ChainedTransactionManager.java|SPLIT_CONDITIONAL]
+53b08590662b2289ea02d73d1a56eb0cbb159bed 260628bf3b31afad1fa31da3b4f7ad7f49e03fbb    :[spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/ChainedTransactionManager.java|RENAME_VARIABLE]
+e5ec24c6f95815f9405d9ea3d8b2e93534ddde7a 53b08590662b2289ea02d73d1a56eb0cbb159bed    :[spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/ChainedTransactionManager.java|RENAME_ATTRIBUTE, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/ChainedTransactionManager.java|RENAME_VARIABLE]
+61bd4b78b96cbfd053a552a1694dcf64effb0272 e5ec24c6f95815f9405d9ea3d8b2e93534ddde7a    :
+e73875d8dc53cf0eaedb4309bc70e23eba9f97e1 61bd4b78b96cbfd053a552a1694dcf64effb0272    :
+54ca026155422fa0c96014c5f830878c6b2e54a3 e73875d8dc53cf0eaedb4309bc70e23eba9f97e1    :
+9a28d741360105452434fef0359f4e836feddbf4 54ca026155422fa0c96014c5f830878c6b2e54a3    :
+bdbb21e1c9d8a8c6aa80ea127f8c8e8d732daa79 9a28d741360105452434fef0359f4e836feddbf4    :
+5c63fad36d8ec1001fc4e9de22fcb846dbc95567 bdbb21e1c9d8a8c6aa80ea127f8c8e8d732daa79    :
+4789e3e2efdea1e62de0eaef3957f8dea301930b 5c63fad36d8ec1001fc4e9de22fcb846dbc95567    :[spring-data-neo4j-examples/todos/src/main/java/Main.java|RENAME_VARIABLE]
+358375c3b2dad22a72b12a59605ec6be42f85669 4789e3e2efdea1e62de0eaef3957f8dea301930b    :[spring-data-neo4j-examples/todos/src/main/java/Main.java|MERGE_CONDITIONAL]
+69a6a9be07017b1e1b5de6a142ce1a2c2ab07271 358375c3b2dad22a72b12a59605ec6be42f85669    :
+5f82b20045062c13e13db53d01b8ddd8427ec70c 69a6a9be07017b1e1b5de6a142ce1a2c2ab07271    :
+b69840f3133bdad587a5be191970f41c5f07dce3 5f82b20045062c13e13db53d01b8ddd8427ec70c    :
+e2b8afcfe46b1e57b1db06784bfda85d425b36fd b69840f3133bdad587a5be191970f41c5f07dce3    :
+2d79f6dd0f7ebe5b08a0898f47ae83522273e31f e2b8afcfe46b1e57b1db06784bfda85d425b36fd    :[spring-data-neo4j-examples/todos/src/main/java/Main.java|SPLIT_CONDITIONAL]
+2231f31a5fad219196c5db595a1a6d773b09284c 2d79f6dd0f7ebe5b08a0898f47ae83522273e31f    :
+9bedf15ac2cd347f290cd5d7574004b4c55b3a00 2231f31a5fad219196c5db595a1a6d773b09284c    :[spring-data-neo4j-examples/todos/src/main/java/Main.java|EXTRACT_VARIABLE]
+d3975c502733698898fb488a5ca223b713df2a7f 9bedf15ac2cd347f290cd5d7574004b4c55b3a00    :[spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/domain/TopRatedRestaurantFinder.java|RENAME_PARAMETER, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/domain/TopRatedRestaurantFinder.java|RENAME_VARIABLE]
+73e64e43aa736529e724224688be2c556ca43ef4 d3975c502733698898fb488a5ca223b713df2a7f    :
+c073fe9487c997ee6218a6056d60f0d3637285a5 73e64e43aa736529e724224688be2c556ca43ef4    :
+75998e0fbab86a5f7b97ceca8ddec945dff35e9b c073fe9487c997ee6218a6056d60f0d3637285a5    :
+83971328c0c9da9690620cc1659230c69fa97a3f 75998e0fbab86a5f7b97ceca8ddec945dff35e9b    :
+e3a7140929b19bd58b88eb7084de1b6f726ba9c8 83971328c0c9da9690620cc1659230c69fa97a3f    :[spring-data-neo4j-examples/myrestaurants-original/src/main/java/com/springone/myrestaurants/domain/UserAccount.java|RENAME_PARAMETER]
+080698bf619f54e4dfee91432834d740c33c7cc5 e3a7140929b19bd58b88eb7084de1b6f726ba9c8    :
+e122435a923438be16ee4dec6ebf9a4439c718b1 080698bf619f54e4dfee91432834d740c33c7cc5    :
+b66394d4f3047ca5f9faa48d5cd5cabf16385f52 e122435a923438be16ee4dec6ebf9a4439c718b1    :
+913c1d2c18f1e174d92ced677f859c2d67555c89 b66394d4f3047ca5f9faa48d5cd5cabf16385f52    :
+5899a39d8f0b6f03cec031013528be525e72fa61 913c1d2c18f1e174d92ced677f859c2d67555c89    :
+51dca4a7b7abe132a361b33a9fcd37a5730e1c1b 5899a39d8f0b6f03cec031013528be525e72fa61    :[spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/parser/ImdbReader.java|RENAME_PARAMETER]
+343de432e3f3e4b255d17bd66a49a8a1a3e6d05f 51dca4a7b7abe132a361b33a9fcd37a5730e1c1b    :[spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/parser/ImdbReader.java|RENAME_PARAMETER]
+b138b055fbaef45fe2457e9d11ca57330095d8d5 343de432e3f3e4b255d17bd66a49a8a1a3e6d05f    :[spring-data-neo4j-examples/hello-worlds/src/main/java/org/springframework/data/neo4j/examples/hellograph/GalaxyService.java|RENAME_PARAMETER]
+83951a356f8b5b99c0f7e98e2483d9832033aca7 b138b055fbaef45fe2457e9d11ca57330095d8d5    :
+f4260bdd163af6816e20d2404ce0b11bfe53009e 83951a356f8b5b99c0f7e98e2483d9832033aca7    :
+12bed0986cc3d6e2d6aa2045931c33e6bd3f0c17 f4260bdd163af6816e20d2404ce0b11bfe53009e    :
+ab68a15a0314c710e69a490a3faaea4308b83e3f 12bed0986cc3d6e2d6aa2045931c33e6bd3f0c17    :
+369e95ec43b7aed2794d476dc2e38f6824798393 ab68a15a0314c710e69a490a3faaea4308b83e3f    :[spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/service/FriendsMovieRecommendations.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/service/FriendsMovieRecommendations.java|RENAME_VARIABLE]
+12f750d6ca1bd0a4117cc9b4fdc57981588e62d8 369e95ec43b7aed2794d476dc2e38f6824798393    :[spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/domain/Movie.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/domain/Movie.java|RENAME_PARAMETER]
+bea9dfb137a7b9ec18445de9209b5e3987475bbd 12f750d6ca1bd0a4117cc9b4fdc57981588e62d8    :
+85927b1153b8243eda4ddcd172e33a27980c5997 bea9dfb137a7b9ec18445de9209b5e3987475bbd    :
+5e1cbf1b4991b91141d60c0a7aa443a11adc32dd 85927b1153b8243eda4ddcd172e33a27980c5997    :
+07910fa3ae902781ad58eea59fdbde65321dcb2c 5e1cbf1b4991b91141d60c0a7aa443a11adc32dd    :
+f534d893316a88b956ac7284539c151ab7047a04 07910fa3ae902781ad58eea59fdbde65321dcb2c    :
+dbfaaa15a0155c459f34b3dbbfd4b93f02d59108 f534d893316a88b956ac7284539c151ab7047a04    :[spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/service/MovieRecommendations.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/service/MovieRecommendations.java|RENAME_VARIABLE]
+5f8237ff0474f9399c1ce03aa707543b0f2f9dd3 dbfaaa15a0155c459f34b3dbbfd4b93f02d59108    :[spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/service/MovieRecommendations.java|RENAME_ATTRIBUTE]
+b79386749582219e5da2f423d038bccefb872027 5f8237ff0474f9399c1ce03aa707543b0f2f9dd3    :
+c5b3542359ac958c909f98689a9e5e4e7337757d b79386749582219e5da2f423d038bccefb872027    :
+0c4473f879c9e53e908810bbff406cf46e35e97a c5b3542359ac958c909f98689a9e5e4e7337757d    :
+085023d08f17c02a257fd588fb319a436e7e2edc 0c4473f879c9e53e908810bbff406cf46e35e97a    :
+7263587f089eee8d935120803d674c49e7e88acb 085023d08f17c02a257fd588fb319a436e7e2edc    :
+2cf45335eb922c36131c3fe6192b1725cd5e2059 7263587f089eee8d935120803d674c49e7e88acb    :[spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/service/MovieRecommendations.java|RENAME_VARIABLE]
+07d6c245619437612ff7196ab695fb3caed22115 2cf45335eb922c36131c3fe6192b1725cd5e2059    :
+4084a62b5c178a46dbc10b6c0b74898646177849 07d6c245619437612ff7196ab695fb3caed22115    :
+c89b6bf911ca0b12b88b87c4278ebe28bfb16e4a 4084a62b5c178a46dbc10b6c0b74898646177849    :
+51be2e7639361dbde6c37c886a79030284fd5782 c89b6bf911ca0b12b88b87c4278ebe28bfb16e4a    :[spring-data-neo4j-aspects/src/main/java/org/springframework/data/neo4j/aspects/config/Neo4jAspectConfiguration.java|RENAME_VARIABLE]
+fd046e274ecfa570f2ef7b79133f4c4b900b3f99 51be2e7639361dbde6c37c886a79030284fd5782    :
+f468d956a94dd2544320db3f10b1d5c646cfca7c fd046e274ecfa570f2ef7b79133f4c4b900b3f99    :[spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/typerepresentation/ClosableCombiningIterable.java|INVERT_CONDITION]
+f20fc6daa2f1fbecb37c00354f44f1f7501dad42 f468d956a94dd2544320db3f10b1d5c646cfca7c    :
+8be4bf142547d62e823d358f7fb6177e0ef14b1a f20fc6daa2f1fbecb37c00354f44f1f7501dad42    :
+67cfd4285bd3842a0144054f418fa76b4a5534f7 8be4bf142547d62e823d358f7fb6177e0ef14b1a    :[spring-data-neo4j/src/main/java/org/springframework/data/neo4j/lifecycle/BeforeSaveEvent.java|RENAME_PARAMETER, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/mapping/Neo4JPersistentPropertyImpl.java|EXTRACT_VARIABLE, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/mapping/Neo4JPersistentPropertyImpl.java|INVERT_CONDITION, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/path/EntityMapper.java|RENAME_PARAMETER, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/typerepresentation/IndexingNodeTypeRepresentationStrategy.java|RENAME_ATTRIBUTE, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/typerepresentation/IndexingNodeTypeRepresentationStrategy.java|RENAME_PARAMETER]
+edbf133cd52028ee19d9f13d1746b45d24e7b3c3 67cfd4285bd3842a0144054f418fa76b4a5534f7    :
+9e3a617c9d133d545a951c20b1594c7dda4df6b0 edbf133cd52028ee19d9f13d1746b45d24e7b3c3    :
+ee7a40b8d4546f9f74d0b5efcde0e1a419df79c0 9e3a617c9d133d545a951c20b1594c7dda4df6b0    :[spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/ChainedTransactionManager.java|INVERT_CONDITION, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/ChainedTransactionManager.java|RENAME_ATTRIBUTE, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/ChainedTransactionManager.java|RENAME_PARAMETER, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/ChainedTransactionManager.java|RENAME_VARIABLE, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/SpringProvider.java|RENAME_PARAMETER, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/SpringServiceImpl.java|RENAME_PARAMETER, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/SpringServiceImpl.java|RENAME_VARIABLE]
+d013ba07f5beb9646e519f6cf6d4eb24a1cfa171 ee7a40b8d4546f9f74d0b5efcde0e1a419df79c0    :[spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestCypherQueryEngine.java|RENAME_ATTRIBUTE, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestCypherQueryEngine.java|RENAME_PARAMETER]
+c47dcebd9bd4ba0f7d23cc98df54e4e97608a55d d013ba07f5beb9646e519f6cf6d4eb24a1cfa171    :
+1f7de1f5a9a8981a7f97aa6bbbc3d934838ccda8 c47dcebd9bd4ba0f7d23cc98df54e4e97608a55d    :[spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestCypherQueryEngine.java|RENAME_ATTRIBUTE, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestCypherQueryEngine.java|RENAME_PARAMETER]
+58f2f95712751c491ccf2ce277eff14157959c92 1f7de1f5a9a8981a7f97aa6bbbc3d934838ccda8    :[spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestCypherQueryEngine.java|RENAME_PARAMETER]
+b2d56e6cac371f9303cd891942db05aeaeaff875 58f2f95712751c491ccf2ce277eff14157959c92    :[spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestCypherQueryEngine.java|RENAME_ATTRIBUTE]
+26cae717f1c3c909a2058ebbdb15eaad02a7f4e6 b2d56e6cac371f9303cd891942db05aeaeaff875    :
+fac8976e4c2d5aae772e9e30918947f792cb3e88 26cae717f1c3c909a2058ebbdb15eaad02a7f4e6    :
+6525a4210cb3f6f42b6712a653057da3324e9b47 fac8976e4c2d5aae772e9e30918947f792cb3e88    :[spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringHandler.java|RENAME_PARAMETER, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestCypherQueryEngine.java|INVERT_CONDITION, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestGraphDatabase.java|EXTRACT_VARIABLE, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestGremlinQueryEngine.java|INVERT_CONDITION, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestGremlinQueryEngine.java|RENAME_ATTRIBUTE, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestGremlinQueryEngine.java|RENAME_PARAMETER]
+a919a8aa8749e5100adb382d590f09fd2bd915b8 6525a4210cb3f6f42b6712a653057da3324e9b47    :
+392a235d733c83bbf46c90154831ef861a3aad86 a919a8aa8749e5100adb382d590f09fd2bd915b8    :
+f32573f639d3ad0c2215c41806a4d03c5cae677b 392a235d733c83bbf46c90154831ef861a3aad86    :
+116f29003c8262a70919ec4c1db3374cbc672a03 f32573f639d3ad0c2215c41806a4d03c5cae677b    :
+90793914e39a05428e036e5e2f0241fd04bfb65b 116f29003c8262a70919ec4c1db3374cbc672a03    :
+92c280de9fcf70244d1586c5bc8c30d41d49c156 90793914e39a05428e036e5e2f0241fd04bfb65b    :
+751b3247121a66e52e81fc090f4831d220aef95b 92c280de9fcf70244d1586c5bc8c30d41d49c156    :[spring-data-neo4j-examples/todos/src/main/java/Main.java|RENAME_VARIABLE]
+0a8116f031978707f9e84f547c5c05a57fc154ae 751b3247121a66e52e81fc090f4831d220aef95b    :[spring-data-neo4j-examples/todos/src/main/java/Main.java|RENAME_VARIABLE]
+93eb196665a5caa5d112c2cf194b96fac4611dbb 0a8116f031978707f9e84f547c5c05a57fc154ae    :[spring-data-neo4j-examples/todos/src/main/java/Main.java|MERGE_CONDITIONAL]
+06abf0a8f4c37c629755d123c88cb6ef4e07c912 93eb196665a5caa5d112c2cf194b96fac4611dbb    :[spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_PARAMETER, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_VARIABLE, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/TodoController.java|RENAME_PARAMETER, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/TodoController.java|RENAME_VARIABLE]
+6ee7c004b2885164e0bfcb0fa945bc06f0233e0a 06abf0a8f4c37c629755d123c88cb6ef4e07c912    :
+2f15569baec2ab18c915335172442dedf2a1e155 6ee7c004b2885164e0bfcb0fa945bc06f0233e0a    :
+d60153df5eed16615f5b74d4be1d0ce02ec962b6 2f15569baec2ab18c915335172442dedf2a1e155    :[spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/domain/TopRatedRestaurantFinder.java|INVERT_CONDITION]
+1b2fcafbe9bbfe13477ca867736f22f23adb4971 d60153df5eed16615f5b74d4be1d0ce02ec962b6    :
+9c62d8bba87b84bba50c4e84d54f0bcc123e67c0 1b2fcafbe9bbfe13477ca867736f22f23adb4971    :
+81e30c5ba68f6395ffcf41dece67fa98680990d5 9c62d8bba87b84bba50c4e84d54f0bcc123e67c0    :
+137424363af690fdab0842eea374841235ab7094 81e30c5ba68f6395ffcf41dece67fa98680990d5    :
+0eada1185b1c9e01e170ba1c465d4018538c9e9f 137424363af690fdab0842eea374841235ab7094    :
+7bf74e4177d326f3a7e70e242d5eee5d4baf1995 0eada1185b1c9e01e170ba1c465d4018538c9e9f    :
+0bd5eb2718c71112bf441e79623ca352f46a317a 7bf74e4177d326f3a7e70e242d5eee5d4baf1995    :
+5b81d2f518b49a56bde68fb89c4246730283674e 0bd5eb2718c71112bf441e79623ca352f46a317a    :[spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/domain/TopRatedRestaurantFinder.java|RENAME_VARIABLE]
+73de0a3ba7f6e8eba7c150846af84b9123f1b59a 5b81d2f518b49a56bde68fb89c4246730283674e    :[spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/domain/Restaurant.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/domain/Restaurant.java|RENAME_PARAMETER, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/web/FriendController.java|EXTRACT_VARIABLE, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/web/FriendController.java|INVERT_CONDITION]
+
+SPLIT_CONDITIONAL]
+RENAME_VARIABLE]
+RENAME_VARIABLE]
+RENAME_VARIABLE]
+MERGE_CONDITIONAL]
+SPLIT_CONDITIONAL]
+EXTRACT_VARIABLE]
+RENAME_VARIABLE]
+RENAME_PARAMETER]
+RENAME_PARAMETER]
+RENAME_PARAMETER]
+RENAME_PARAMETER]
+RENAME_VARIABLE]
+RENAME_PARAMETER]
+RENAME_VARIABLE]
+RENAME_ATTRIBUTE]
+RENAME_VARIABLE]
+RENAME_VARIABLE]
+INVERT_CONDITION]
+RENAME_PARAMETER]
+RENAME_VARIABLE]
+RENAME_PARAMETER]
+RENAME_PARAMETER]
+RENAME_PARAMETER]
+RENAME_ATTRIBUTE]
+RENAME_PARAMETER]
+RENAME_VARIABLE]
+RENAME_VARIABLE]
+MERGE_CONDITIONAL]
+RENAME_VARIABLE]
+INVERT_CONDITION]
+RENAME_VARIABLE]
+INVERT_CONDITION]

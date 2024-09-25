@@ -1,0 +1,1 @@
+git diff -U0 e344b2c1fee89b505a0a6759363d74fa0f1e5702 8fb3100b99caffcfd93a7483965de562f6b39706 >> D:\JavaProject\SPAT\diffTmp\2.diff

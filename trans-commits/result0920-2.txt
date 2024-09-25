@@ -1,0 +1,709 @@
+ebbd0f1af862a5da4e7305f2b6408a227abc07b4 a02510d62c20c48b31db7c30ccf25f9a27212ba2    :
+2676ac9c4d267bda758ef4878092d9db50981cbb ebbd0f1af862a5da4e7305f2b6408a227abc07b4    :
+2bb3da9c9f7ea1dcb25811f5ab672bad765f4c04 2676ac9c4d267bda758ef4878092d9db50981cbb    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_PARAMETER, symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_VARIABLE]
+92a4b41aced93b9fee7363f58e67d3da1fac7959 2bb3da9c9f7ea1dcb25811f5ab672bad765f4c04    :
+eb586c3329fdc7d26870911bd2b855ed3ab0594f 92a4b41aced93b9fee7363f58e67d3da1fac7959    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_PARAMETER, symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_VARIABLE]
+6e07192e954f2e49af753f47609afb580eebd072 eb586c3329fdc7d26870911bd2b855ed3ab0594f    :
+6ba7ddd5fbb3a9906ad60f7d4d423ebc415025bc 6e07192e954f2e49af753f47609afb580eebd072    :
+66536c2601a4fabf96eae7f505ae51ba522e3366 6ba7ddd5fbb3a9906ad60f7d4d423ebc415025bc    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|EXTRACT_VARIABLE]
+450f37b37db111eaed6bf647f2d70f52a1b2b601 66536c2601a4fabf96eae7f505ae51ba522e3366    :
+904c28dbcb7a06b2bd6682f9a206762d65e1bc50 450f37b37db111eaed6bf647f2d70f52a1b2b601    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|RENAME_PARAMETER]
+7aa3e469193dadb34023f479bb0ef7de8b2dc011 904c28dbcb7a06b2bd6682f9a206762d65e1bc50    :
+7ff71ea88aeca30cbb9a7bfa2748ddec691b909c 7aa3e469193dadb34023f479bb0ef7de8b2dc011    :
+fe46fc7f693cb8452ff9fc6337e7e60dc108ef40 7ff71ea88aeca30cbb9a7bfa2748ddec691b909c    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|RENAME_PARAMETER]
+6a368b236a876f37a6b78760618e1b38d7b8661a fe46fc7f693cb8452ff9fc6337e7e60dc108ef40    :
+41bd725b47c49a3f3c675c6a1882c1f7770b540c 6a368b236a876f37a6b78760618e1b38d7b8661a    :
+f5285314398c8aeff0320541e3d76071f2be9a5a 41bd725b47c49a3f3c675c6a1882c1f7770b540c    :
+fd989c0ce5a0219077008b9d6e89b85fde684e99 f5285314398c8aeff0320541e3d76071f2be9a5a    :
+f67fcb2cd1831eee25341ca6cb3fbd9bb4dd493a fd989c0ce5a0219077008b9d6e89b85fde684e99    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_VARIABLE]
+1138dde69a6c3f01f3d2cee22bcbed1fd0209ca3 f67fcb2cd1831eee25341ca6cb3fbd9bb4dd493a    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_PARAMETER, symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_VARIABLE]
+7106a706b76c7a5ef86f58bd0450e486d0f4102b 1138dde69a6c3f01f3d2cee22bcbed1fd0209ca3    :
+ab3be113186ef24e1a4439793182234e45f205d0 7106a706b76c7a5ef86f58bd0450e486d0f4102b    :
+6b141a8c695acf54a8fb7887c00e57405337cd57 ab3be113186ef24e1a4439793182234e45f205d0    :
+3c0ce73f598690d07f38afca9833c454d5cf4669 6b141a8c695acf54a8fb7887c00e57405337cd57    :
+3789023a61a08594dc7e0f64f746e4c03b903f2b 3c0ce73f598690d07f38afca9833c454d5cf4669    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|RENAME_PARAMETER]
+bd5f5078dee89e9309166e431a12486f3aa2e283 3789023a61a08594dc7e0f64f746e4c03b903f2b    :
+70ff58f8ec11d4dba54600c65e44af928c42611c bd5f5078dee89e9309166e431a12486f3aa2e283    :
+1477a2509f74d55d9018e6ec72d477a70a410a22 70ff58f8ec11d4dba54600c65e44af928c42611c    :
+71d15b84b08d0b850249ba56ca913f32fc3003ea 1477a2509f74d55d9018e6ec72d477a70a410a22    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|RENAME_ATTRIBUTE, symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|RENAME_PARAMETER]
+2af348fe2c4c4eed5e9adfb7785de335c978a1d4 71d15b84b08d0b850249ba56ca913f32fc3003ea    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_PARAMETER, symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_VARIABLE]
+ad43e381c035522ac39613686b6dbcfade224f5a 2af348fe2c4c4eed5e9adfb7785de335c978a1d4    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|EXTRACT_VARIABLE]
+14cf9df498efe75a5545d5daf23bcbff9867c955 ad43e381c035522ac39613686b6dbcfade224f5a    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|RENAME_ATTRIBUTE, symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|RENAME_PARAMETER]
+32c121bf173d48a17bf3bed42462b088e2a06580 14cf9df498efe75a5545d5daf23bcbff9867c955    :
+4c52d543348fdda4397b2f92e4a59a4974a4673f 32c121bf173d48a17bf3bed42462b088e2a06580    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_VARIABLE]
+021bb88c1b1dee40e476f2910e9acd8d84c70217 4c52d543348fdda4397b2f92e4a59a4974a4673f    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|RENAME_PARAMETER]
+45f1421ef05c8fda5cf6d79ad809cdc99032fae8 021bb88c1b1dee40e476f2910e9acd8d84c70217    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_PARAMETER, symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_VARIABLE]
+1bfaf8c4cc811b8bce08b39133dbda7b62d94c7c 45f1421ef05c8fda5cf6d79ad809cdc99032fae8    :
+d7b6e8a205c276c2884bc8183077f963679f5d7b 1bfaf8c4cc811b8bce08b39133dbda7b62d94c7c    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|RENAME_PARAMETER]
+d5373b1966134902fe464631fe57e882e8fbba11 d7b6e8a205c276c2884bc8183077f963679f5d7b    :
+9cc42cb9841b21f43f93525ee48852bf3e3749d0 d5373b1966134902fe464631fe57e882e8fbba11    :
+f8211566c79825fcfa029e6212af5087ad81ac3c 9cc42cb9841b21f43f93525ee48852bf3e3749d0    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_PARAMETER, symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_VARIABLE]
+a80bf2fc85c53a742ccf30e755e5ac8400344c05 f8211566c79825fcfa029e6212af5087ad81ac3c    :
+6827169423b138289385a2c2be66cc8b5adad07e a80bf2fc85c53a742ccf30e755e5ac8400344c05    :
+da23c1dc0be65e1b2c2bbe754d3a193c1113a5f6 6827169423b138289385a2c2be66cc8b5adad07e    :
+1679b751d04094e8005d103f02bb7a6231aaf144 da23c1dc0be65e1b2c2bbe754d3a193c1113a5f6    :
+f30979563f9d59380ef6ea968b0cbbeb37d142a0 1679b751d04094e8005d103f02bb7a6231aaf144    :
+5527ead4c351493381e3c5e4f74783bfef9de6ed f30979563f9d59380ef6ea968b0cbbeb37d142a0    :
+aa7547534d3af10738699f03fd95ce913cf59da9 5527ead4c351493381e3c5e4f74783bfef9de6ed    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|RENAME_PARAMETER]
+f3186edd7db797012fd8b17aae87db062bcd6eb6 aa7547534d3af10738699f03fd95ce913cf59da9    :
+6fd7e06ec75d27215544899b0c9868c947eb868e f3186edd7db797012fd8b17aae87db062bcd6eb6    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/eval/api/function/SetFunction.java|RENAME_PARAMETER]
+498dfde958da65957915f8f89cb38fc3b001e22a 6fd7e06ec75d27215544899b0c9868c947eb868e    :[symja-parser/src/main/java/org/matheclipse/commons/parser/client/ast/ASTNode.java|INVERT_CONDITION]
+75b1881c9fa3cddb50983316b39378711578d82e 498dfde958da65957915f8f89cb38fc3b001e22a    :
+2ebfb553c58dcae65e38d102c28a067fb9c9f3b4 90ae716c45e6e905d925875f75402b3cbc102b25    :[scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_ATTRIBUTE]
+f758361c19dc4674a321cb0a33e07c4e36b0e4b8 2ebfb553c58dcae65e38d102c28a067fb9c9f3b4    :[scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_ATTRIBUTE]
+a7678937fd534042af383b701e4e3e2f787048c3 f758361c19dc4674a321cb0a33e07c4e36b0e4b8    :[scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_ATTRIBUTE]
+9d881be35ab250fbf72f667af147972711142a50 a7678937fd534042af383b701e4e3e2f787048c3    :[scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_ATTRIBUTE, scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_PARAMETER]
+958b62d74ba311cc036d1961e7b2085930da17a6 9d881be35ab250fbf72f667af147972711142a50    :[scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_PARAMETER]
+57fb4e326bbf479841d25473fbc6a4f947ddbe85 958b62d74ba311cc036d1961e7b2085930da17a6    :[scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_ATTRIBUTE, scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_PARAMETER]
+9a9617985107b89a522c70b470c7e006a4fb85cc 57fb4e326bbf479841d25473fbc6a4f947ddbe85    :[scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_ATTRIBUTE]
+69506baa5334cf3039df0ce980ee2d7c4362cc19 9a9617985107b89a522c70b470c7e006a4fb85cc    :[scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_PARAMETER]
+28e09c478866181b5a7778d9c42068a35693e2fe 69506baa5334cf3039df0ce980ee2d7c4362cc19    :[scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_ATTRIBUTE, scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_PARAMETER]
+c59cde3bd646efb4007b3155723e139e63d12e58 28e09c478866181b5a7778d9c42068a35693e2fe    :[scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_ATTRIBUTE, scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_PARAMETER]
+75e8f67a6e09020549e4d065ec2944d47808f143 c59cde3bd646efb4007b3155723e139e63d12e58    :[scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_ATTRIBUTE, scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_PARAMETER]
+89988225ed0552e0a295a210a36f33a66c68e1a7 75e8f67a6e09020549e4d065ec2944d47808f143    :[scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_ATTRIBUTE, scribejava-java8/src/main/java/com/github/scribejava/java8/base64/Java8Base64.java|RENAME_PARAMETER]
+17c1de0c2654f50dd4a048781a49ecfe33279312 89988225ed0552e0a295a210a36f33a66c68e1a7    :[scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OkHttpHttpClientConfig.java|RENAME_ATTRIBUTE, scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OkHttpHttpClientConfig.java|RENAME_PARAMETER]
+d4e01ac8ea66516fafec734cf2713c6bdb1fe21e 17c1de0c2654f50dd4a048781a49ecfe33279312    :[scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OkHttpHttpClientConfig.java|RENAME_ATTRIBUTE, scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OkHttpHttpClientConfig.java|RENAME_PARAMETER]
+76e845889bdb117ba535a0385af822acc2a54bac d4e01ac8ea66516fafec734cf2713c6bdb1fe21e    :[scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OkHttpHttpClientConfig.java|RENAME_ATTRIBUTE, scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OkHttpHttpClientConfig.java|RENAME_PARAMETER]
+5dcc2f2d7b984803e2f1c69cc12e931c0b8501d1 76e845889bdb117ba535a0385af822acc2a54bac    :[scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OkHttpHttpClientConfig.java|RENAME_ATTRIBUTE, scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OkHttpHttpClientConfig.java|RENAME_PARAMETER]
+4384fb5f2e4ab4a0678b1cb0b01d876066a6b9b5 5dcc2f2d7b984803e2f1c69cc12e931c0b8501d1    :[scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OkHttpHttpClientConfig.java|RENAME_ATTRIBUTE, scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OkHttpHttpClientConfig.java|RENAME_PARAMETER]
+d1813e2870d647726aba60695222c688811c6bc1 4384fb5f2e4ab4a0678b1cb0b01d876066a6b9b5    :[scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OAuthAsyncCompletionHandler.java|RENAME_PARAMETER, scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OAuthAsyncCompletionHandler.java|RENAME_VARIABLE, scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OkHttpHttpClientConfig.java|RENAME_ATTRIBUTE, scribejava-httpclient-okhttp/src/main/java/com/github/scribejava/httpclient/okhttp/OkHttpHttpClientConfig.java|RENAME_PARAMETER]
+97cc9d746b29e80179ed0c34b1a0e7803196cc0a d1813e2870d647726aba60695222c688811c6bc1    :
+48969bd01ee878dc1c9354a3e6f82f0542f6c267 97cc9d746b29e80179ed0c34b1a0e7803196cc0a    :
+7f3a8cd08c1535c0a2abad632f748c56c8c7a3c7 48969bd01ee878dc1c9354a3e6f82f0542f6c267    :
+ebf9ce166574d6f96d877bd7b038701c840a1a68 7f3a8cd08c1535c0a2abad632f748c56c8c7a3c7    :[scribejava-httpclient-ning/src/main/java/com/github/scribejava/httpclient/ning/NingProvider.java|RENAME_PARAMETER]
+4653191825c5a8eb65ae15c88c7cb9dcdcc81146 ebf9ce166574d6f96d877bd7b038701c840a1a68    :
+f564ea6120c8d227b6b46cbec2e959ba387fec3b 4653191825c5a8eb65ae15c88c7cb9dcdcc81146    :[scribejava-httpclient-ning/src/main/java/com/github/scribejava/httpclient/ning/NingProvider.java|RENAME_PARAMETER]
+d45d887907c2f4b2d726dc901579e0a82765dd12 f564ea6120c8d227b6b46cbec2e959ba387fec3b    :
+ab503a7bd714062d8e5fc57e2f9cffc932a0ae26 d45d887907c2f4b2d726dc901579e0a82765dd12    :[scribejava-httpclient-ning/src/main/java/com/github/scribejava/httpclient/ning/NingProvider.java|RENAME_PARAMETER]
+d7fe6039b258f55f5dc8c0e8b188cb4147dd92af ab503a7bd714062d8e5fc57e2f9cffc932a0ae26    :
+a00c96c55bc7ba57cabbb382190ecd1b4d48c99a d7fe6039b258f55f5dc8c0e8b188cb4147dd92af    :[scribejava-httpclient-ning/src/main/java/com/github/scribejava/httpclient/ning/NingProvider.java|RENAME_PARAMETER, scribejava-httpclient-ning/src/main/java/com/github/scribejava/httpclient/ning/OAuthAsyncCompletionHandler.java|RENAME_PARAMETER]
+14af84e99cfdeaa0532ce5899141e97cffeb1d2a a00c96c55bc7ba57cabbb382190ecd1b4d48c99a    :[scribejava-httpclient-armeria/src/main/java/com/github/scribejava/httpclient/armeria/ArmeriaProvider.java|RENAME_PARAMETER]
+dc07575a50ed84db4fa3e2ccd7f540b3d70a6e4e 14af84e99cfdeaa0532ce5899141e97cffeb1d2a    :[scribejava-httpclient-armeria/src/main/java/com/github/scribejava/httpclient/armeria/ArmeriaProvider.java|INVERT_CONDITION]
+51c40ffc73b10c0f0bda7c4833a9a163e935da94 dc07575a50ed84db4fa3e2ccd7f540b3d70a6e4e    :[scribejava-httpclient-armeria/src/main/java/com/github/scribejava/httpclient/armeria/ArmeriaProvider.java|RENAME_PARAMETER]
+0bf39ffc946408dceb4815be0a2677ac0ae79318 51c40ffc73b10c0f0bda7c4833a9a163e935da94    :
+7cbb2c98d99a5a1a688b1cda4204a223e3fc5a0e 0bf39ffc946408dceb4815be0a2677ac0ae79318    :[scribejava-httpclient-armeria/src/main/java/com/github/scribejava/httpclient/armeria/ArmeriaWebClientBuilder.java|RENAME_ATTRIBUTE, scribejava-httpclient-armeria/src/main/java/com/github/scribejava/httpclient/armeria/ArmeriaWebClientBuilder.java|RENAME_PARAMETER, scribejava-httpclient-armeria/src/main/java/com/github/scribejava/httpclient/armeria/ArmeriaWebClientBuilder.java|RENAME_VARIABLE]
+d2d46487481294f311e8f073cb0e6416c30b66d3 7cbb2c98d99a5a1a688b1cda4204a223e3fc5a0e    :[scribejava-httpclient-apache/src/main/java/com/github/scribejava/httpclient/apache/OAuthAsyncCompletionHandler.java|SPLIT_CONDITIONAL]
+523970d6af56b61b5fb2a29568e02ca243bc6fb7 d2d46487481294f311e8f073cb0e6416c30b66d3    :
+4d09d5d38308fc51bccb80edf324f5c1d8481d39 523970d6af56b61b5fb2a29568e02ca243bc6fb7    :
+1163a953ab496e8704d2f6a9e56723d59a757d33 4d09d5d38308fc51bccb80edf324f5c1d8481d39    :
+74b02d84bec9657f4a8f30a416475e9a28907581 1163a953ab496e8704d2f6a9e56723d59a757d33    :
+bc471a048a23a4924d599eca83179d1783b3581d 74b02d84bec9657f4a8f30a416475e9a28907581    :
+315d374656f4b3665a82110831fa4d505d1ce234 bc471a048a23a4924d599eca83179d1783b3581d    :
+6dc56b3bb1319d62103eaed39cd28d4f2a1d8e4c 315d374656f4b3665a82110831fa4d505d1ce234    :
+70a6aef2d9d1ceb2a96fbe7eaa93f8a4a2859a78 6dc56b3bb1319d62103eaed39cd28d4f2a1d8e4c    :[scribejava-httpclient-apache/src/main/java/com/github/scribejava/httpclient/apache/OAuthAsyncCompletionHandler.java|EXTRACT_VARIABLE, scribejava-httpclient-apache/src/main/java/com/github/scribejava/httpclient/apache/OAuthAsyncCompletionHandler.java|RENAME_VARIABLE]
+ac4276ed2cc19447fc316b5d70fd65d07588def9 70a6aef2d9d1ceb2a96fbe7eaa93f8a4a2859a78    :[scribejava-httpclient-apache/src/main/java/com/github/scribejava/httpclient/apache/OAuthAsyncCompletionHandler.java|SPLIT_CONDITIONAL]
+c71766f6d2d07168f3733c990347961dfb4e2693 ac4276ed2cc19447fc316b5d70fd65d07588def9    :
+6ca77b483a0272305630539cfcaae78a3117950f c71766f6d2d07168f3733c990347961dfb4e2693    :
+ed5471806f201165e14302c1c9865215a1dc3527 6ca77b483a0272305630539cfcaae78a3117950f    :
+c1195da45b2812f1dcb15833620ea4141f2ee71c ed5471806f201165e14302c1c9865215a1dc3527    :
+78a77a2d32eb7f69eaa07c0d6f244d7789c09d8e c1195da45b2812f1dcb15833620ea4141f2ee71c    :
+1799e64509189c898f5670a69b26ba7496f9782e 78a77a2d32eb7f69eaa07c0d6f244d7789c09d8e    :
+b449942eba4b122284def213b31db8c737a93a85 1799e64509189c898f5670a69b26ba7496f9782e    :
+31cfdb4eb57ebe4b69a0fff4674bb40542e153ad b449942eba4b122284def213b31db8c737a93a85    :[scribejava-httpclient-apache/src/main/java/com/github/scribejava/httpclient/apache/OAuthAsyncCompletionHandler.java|EXTRACT_VARIABLE]
+2730b123e96dac9f9429c82e469ccaeeef89c8cd 31cfdb4eb57ebe4b69a0fff4674bb40542e153ad    :[scribejava-httpclient-apache/src/main/java/com/github/scribejava/httpclient/apache/ApacheHttpClient.java|INVERT_CONDITION, scribejava-httpclient-apache/src/main/java/com/github/scribejava/httpclient/apache/ApacheHttpClient.java|RENAME_PARAMETER]
+ec5b39293b1c141a28b997b9bcb13de49f275430 2730b123e96dac9f9429c82e469ccaeeef89c8cd    :[scribejava-httpclient-ahc/src/main/java/com/github/scribejava/httpclient/ahc/AhcHttpClient.java|RENAME_PARAMETER]
+f40419230a349be5ee3b1174ad8be8e2a37fd3f9 ec5b39293b1c141a28b997b9bcb13de49f275430    :
+c97cea9d34193e5a68706cc31540153726eaacae f40419230a349be5ee3b1174ad8be8e2a37fd3f9    :
+96e974fa3a6d92b5a181a14dd12a51c2deea8cbd c97cea9d34193e5a68706cc31540153726eaacae    :[scribejava-httpclient-ahc/src/main/java/com/github/scribejava/httpclient/ahc/AhcHttpClient.java|RENAME_PARAMETER]
+39060ac364cc5cfa869e87075d955d4e3669a4f7 96e974fa3a6d92b5a181a14dd12a51c2deea8cbd    :
+913b97b9b9aea7220cf94751ba75e9551ab06d37 39060ac364cc5cfa869e87075d955d4e3669a4f7    :
+d310f7ce05d038679bf2fef4f09349f876de7669 913b97b9b9aea7220cf94751ba75e9551ab06d37    :
+3d42e19091b567e96c6b9b950ccfe7a6c1efab91 d310f7ce05d038679bf2fef4f09349f876de7669    :
+711bebd584b5fdea36a7136b6f114911bd150206 3d42e19091b567e96c6b9b950ccfe7a6c1efab91    :
+a2375aa865ab879d761f5e3ddcc3b29bfa6574ad 711bebd584b5fdea36a7136b6f114911bd150206    :
+38154c472689f2192928dae1b78b4fe0e0d0f877 a2375aa865ab879d761f5e3ddcc3b29bfa6574ad    :[scribejava-httpclient-ahc/src/main/java/com/github/scribejava/httpclient/ahc/AhcHttpClient.java|RENAME_PARAMETER]
+5e0732c45bf4d9d5debbb29b6c1d8f808bc90d68 38154c472689f2192928dae1b78b4fe0e0d0f877    :
+b3d5ccb7e9dca74cfe22cd43514bf064bd6a6429 5e0732c45bf4d9d5debbb29b6c1d8f808bc90d68    :
+bc82d4feee45e125392cc883d1418e2b8b526e53 b3d5ccb7e9dca74cfe22cd43514bf064bd6a6429    :
+70280ef31564c0030151a3cc0dbf83fe591a1279 bc82d4feee45e125392cc883d1418e2b8b526e53    :
+f7a581bb4383fb38d68d751d9c200ec118d4be87 70280ef31564c0030151a3cc0dbf83fe591a1279    :
+bab67d386a6d566727ac3486325fd80b7cc7aad1 f7a581bb4383fb38d68d751d9c200ec118d4be87    :
+67d83ef35fbc6f1aa896022b058057ea4c8e1be0 bab67d386a6d566727ac3486325fd80b7cc7aad1    :[scribejava-httpclient-ahc/src/main/java/com/github/scribejava/httpclient/ahc/AhcProvider.java|RENAME_PARAMETER, scribejava-httpclient-ahc/src/main/java/com/github/scribejava/httpclient/ahc/OAuthAsyncCompletionHandler.java|EXTRACT_VARIABLE, scribejava-httpclient-ahc/src/main/java/com/github/scribejava/httpclient/ahc/OAuthAsyncCompletionHandler.java|RENAME_PARAMETER, scribejava-httpclient-ahc/src/main/java/com/github/scribejava/httpclient/ahc/OAuthAsyncCompletionHandler.java|RENAME_VARIABLE]
+2552eada49919cccb33455e4e27935ae26d3a05f 67d83ef35fbc6f1aa896022b058057ea4c8e1be0    :
+d1d72d826bb07be925d7217d93d46ad59a65f6c9 2552eada49919cccb33455e4e27935ae26d3a05f    :
+681b4f3c09677df551e8b86f82a869c2c0c54ee6 d1d72d826bb07be925d7217d93d46ad59a65f6c9    :[scribejava-core/src/main/java/com/github/scribejava/core/oauth/OAuth20Service.java|RENAME_PARAMETER, scribejava-core/src/main/java/com/github/scribejava/core/oauth/OAuth20Service.java|RENAME_VARIABLE]
+bfe2a23192e5e9c727583c508b643778a87d08ed 681b4f3c09677df551e8b86f82a869c2c0c54ee6    :
+11f3dbc98f4c257097aef7ea87063600f9c9adbb bfe2a23192e5e9c727583c508b643778a87d08ed    :
+a5e296d62748d1af6207a47cb2ffc8b19a1ccb8b 11f3dbc98f4c257097aef7ea87063600f9c9adbb    :
+a0b0ee1c09f430ce4ad72f23c88dcbc7a0b757e7 a5e296d62748d1af6207a47cb2ffc8b19a1ccb8b    :
+ae00bf8e562b7ad081961213c6a555183e2ccc8a a0b0ee1c09f430ce4ad72f23c88dcbc7a0b757e7    :[scribejava-core/src/main/java/com/github/scribejava/core/oauth/OAuth20Service.java|EXTRACT_VARIABLE]
+370cba98ff758db65ac27b1b8a3b45deef7bc75a ae00bf8e562b7ad081961213c6a555183e2ccc8a    :
+77eec9480d53ff5373f9c65f2603269c4c881658 370cba98ff758db65ac27b1b8a3b45deef7bc75a    :
+e6caf24fb4bee805e195e17d44fabfe29a59cbfd 77eec9480d53ff5373f9c65f2603269c4c881658    :
+f7af06c539d5d66ba2ec5417f9dd8fe5e9780a1b e6caf24fb4bee805e195e17d44fabfe29a59cbfd    :[scribejava-core/src/main/java/com/github/scribejava/core/oauth/OAuth20Service.java|INVERT_CONDITION]
+7506149ec00e7c77d227cf5f16737fa3f7c89f09 f7af06c539d5d66ba2ec5417f9dd8fe5e9780a1b    :
+fa030bc6f3ecd739b379a650f282820839eb91d7 7506149ec00e7c77d227cf5f16737fa3f7c89f09    :
+01018e7fd07a2b0f4ca74f13faf3c97cc75d545f fa030bc6f3ecd739b379a650f282820839eb91d7    :
+ffd49363c6fde9c935a3016d98d0d52949e56cee 01018e7fd07a2b0f4ca74f13faf3c97cc75d545f    :[scribejava-core/src/main/java/com/github/scribejava/core/oauth/OAuth20Service.java|EXTRACT_VARIABLE]
+07feffff6a44f49be3a43ce5a568adb8efa61e5f ffd49363c6fde9c935a3016d98d0d52949e56cee    :[scribejava-core/src/main/java/com/github/scribejava/core/builder/ScopeBuilder.java|RENAME_VARIABLE, scribejava-core/src/main/java/com/github/scribejava/core/httpclient/jdk/JDKHttpClient.java|EXTRACT_VARIABLE, scribejava-core/src/main/java/com/github/scribejava/core/httpclient/jdk/JDKHttpClient.java|INVERT_CONDITION, scribejava-core/src/main/java/com/github/scribejava/core/utils/StreamUtils.java|RENAME_PARAMETER, scribejava-core/src/main/java/com/github/scribejava/core/utils/StreamUtils.java|RENAME_VARIABLE]
+cab055c5f163decc67edff4e62c2680efec89bc2 07feffff6a44f49be3a43ce5a568adb8efa61e5f    :[scribejava-apis/src/main/java/com/github/scribejava/apis/openid/OpenIdJsonTokenExtractor.java|RENAME_PARAMETER, scribejava-apis/src/main/java/com/github/scribejava/apis/openid/OpenIdJsonTokenExtractor.java|RENAME_VARIABLE]
+c0df60e8de69cdf05c4e8e13fb7261cd75c5cba0 cab055c5f163decc67edff4e62c2680efec89bc2    :
+7b65118d248d5c8c3258093dff9de034783e9fba c0df60e8de69cdf05c4e8e13fb7261cd75c5cba0    :
+b6e880cf50d6c1f450026a71465ca5eb13ad5cf8 7b65118d248d5c8c3258093dff9de034783e9fba    :[scribejava-apis/src/main/java/com/github/scribejava/apis/StackExchangeApi.java|RENAME_ATTRIBUTE]
+6fccacbacbc02809e25b10d0d236fa37d13a209e b6e880cf50d6c1f450026a71465ca5eb13ad5cf8    :[scribejava-apis/src/main/java/com/github/scribejava/apis/openid/OpenIdJsonTokenExtractor.java|RENAME_ATTRIBUTE, scribejava-apis/src/main/java/com/github/scribejava/apis/openid/OpenIdJsonTokenExtractor.java|RENAME_PARAMETER]
+49e02fdd46dc68fe2b7ac4f22b0bfb9b78fd0a08 6fccacbacbc02809e25b10d0d236fa37d13a209e    :[scribejava-apis/src/main/java/com/github/scribejava/apis/StackExchangeApi.java|RENAME_ATTRIBUTE]
+71168d13571edd5b6c09d7428993da21ef556975 c50410c4a2d7d5d30fe530742f15b2cb6374e3fa    :[src/main/java/org/apache/ibatis/type/TypeReference.java|RENAME_PARAMETER, src/main/java/org/apache/ibatis/type/TypeReference.java|RENAME_VARIABLE]
+0f78676afb2410e438f8de0c3c5be4a9f99abb16 71168d13571edd5b6c09d7428993da21ef556975    :[src/main/java/org/apache/ibatis/type/TypeReference.java|INVERT_CONDITION]
+36e633e775b8540001385ee08edcd5cbfcc16bb8 0f78676afb2410e438f8de0c3c5be4a9f99abb16    :
+7472059fe5abf4d347084fd0bc6069b2432819c6 36e633e775b8540001385ee08edcd5cbfcc16bb8    :
+01bed8c60e61569306a3e93733433222a8775496 7472059fe5abf4d347084fd0bc6069b2432819c6    :[src/main/java/org/apache/ibatis/executor/resultset/ResultSetWrapper.java|EXTRACT_VARIABLE]
+42b7fafa1ef3affbe9942042cc038d7c45986f6f 01bed8c60e61569306a3e93733433222a8775496    :[src/main/java/org/apache/ibatis/builder/MapperBuilderAssistant.java|EXTRACT_VARIABLE, src/main/java/org/apache/ibatis/builder/MapperBuilderAssistant.java|INVERT_CONDITION, src/main/java/org/apache/ibatis/builder/MapperBuilderAssistant.java|RENAME_PARAMETER, src/main/java/org/apache/ibatis/builder/annotation/ProviderContext.java|RENAME_ATTRIBUTE, src/main/java/org/apache/ibatis/builder/annotation/ProviderContext.java|RENAME_PARAMETER, src/main/java/org/apache/ibatis/builder/annotation/ProviderSqlSource.java|CHANGE_ATTRIBUTE_TYPE, src/main/java/org/apache/ibatis/builder/annotation/ProviderSqlSource.java|INLINE_OPERATION, src/main/java/org/apache/ibatis/builder/annotation/ProviderSqlSource.java|MOVE_CODE, src/main/java/org/apache/ibatis/builder/annotation/ProviderSqlSource.java|REMOVE_ATTRIBUTE_MODIFIER, src/main/java/org/apache/ibatis/builder/annotation/ProviderSqlSource.java|REMOVE_METHOD_ANNOTATION, src/main/java/org/apache/ibatis/builder/annotation/ProviderSqlSource.java|RENAME_ATTRIBUTE, src/main/java/org/apache/ibatis/builder/annotation/ProviderSqlSource.java|RENAME_PARAMETER, src/main/java/org/apache/ibatis/builder/annotation/ProviderSqlSource.java|RENAME_VARIABLE, src/main/java/org/apache/ibatis/builder/annotation/ProviderSqlSource.java|REPLACE_VARIABLE_WITH_ATTRIBUTE, src/main/java/org/apache/ibatis/datasource/pooled/PooledConnection.java|INVERT_CONDITION, src/main/java/org/apache/ibatis/executor/ErrorContext.java|INLINE_VARIABLE, src/main/java/org/apache/ibatis/executor/ErrorContext.java|RENAME_ATTRIBUTE, src/main/java/org/apache/ibatis/executor/ErrorContext.java|RENAME_PARAMETER, src/main/java/org/apache/ibatis/reflection/factory/DefaultObjectFactory.java|CHANGE_OPERATION_ACCESS_MODIFIER, src/main/java/org/apache/ibatis/reflection/factory/DefaultObjectFactory.java|CHANGE_VARIABLE_TYPE, src/main/java/org/apache/ibatis/reflection/factory/DefaultObjectFactory.java|REPLACE_PIPELINE_WITH_LOOP, src/main/java/org/apache/ibatis/reflection/property/PropertyNamer.java|EXTRACT_VARIABLE, src/main/java/org/apache/ibatis/scripting/ScriptingException.java|RENAME_PARAMETER, src/main/java/org/apache/ibatis/scripting/xmltags/StaticTextSqlNode.java|RENAME_ATTRIBUTE, src/main/java/org/apache/ibatis/scripting/xmltags/StaticTextSqlNode.java|RENAME_PARAMETER, src/main/java/org/apache/ibatis/type/EnumOrdinalTypeHandler.java|INLINE_OPERATION, src/main/java/org/apache/ibatis/type/EnumOrdinalTypeHandler.java|LOCALIZE_PARAMETER, src/main/java/org/apache/ibatis/type/EnumOrdinalTypeHandler.java|REMOVE_ATTRIBUTE_MODIFIER, src/main/java/org/apache/ibatis/type/EnumOrdinalTypeHandler.java|RENAME_PARAMETER, src/main/java/org/apache/ibatis/type/EnumOrdinalTypeHandler.java|RENAME_VARIABLE]
+2b24dfaa429dfa2a8dde358634d589a6be280f16 42b7fafa1ef3affbe9942042cc038d7c45986f6f    :[src/main/java/org/apache/ibatis/session/Configuration.java|ADD_METHOD_ANNOTATION]
+b4ae220c1490078969c92c1524741092b337125a 2b24dfaa429dfa2a8dde358634d589a6be280f16    :[src/test/java/org/apache/ibatis/reflection/property/PropertyCopierTest.java|CHANGE_VARIABLE_TYPE, src/test/java/org/apache/ibatis/reflection/property/PropertyCopierTest.java|RENAME_VARIABLE, src/test/java/org/apache/ibatis/reflection/property/SourceBeanCopierData.java|RENAME_CLASS]
+5ded7bc7c0b29fc9be5599ff7cc32b6b2ff40921 bc77b9d49fd7156b3ff96a1663d7ba85ecc9ec46    :[src/main/java/org/apache/ibatis/session/Configuration.java|ADD_METHOD_ANNOTATION]
+109f2ef5835172f1c3d6b21900215a2f15e468c6 765cf7ffa404970198fa2d2f3ff2d8ef89fccba3    :
+0323da92e7916ad6f863286407e1afc8d158bb72 109f2ef5835172f1c3d6b21900215a2f15e468c6    :
+6c6b3751c788cbf496d0e8ffcc5d7c7346c34742 f5e94ecca7cca3bd86ad3757859a56ccca9e0088    :
+f064b71bf3023e35109a7592398656f73eff3384 6c6b3751c788cbf496d0e8ffcc5d7c7346c34742    :
+6fe120414e40e3d41dea04b034bb1bf0c2b53b39 146ee1b7d979625a36eac3696513cb196ea50a30    :
+41455eeaa2a0fe5b5b965a03009f9db80119247b 6fe120414e40e3d41dea04b034bb1bf0c2b53b39    :
+4858fda9b80286e87f5fe9d76784537eddcf4b40 41455eeaa2a0fe5b5b965a03009f9db80119247b    :
+a8b592bc254ed4c42425478c2f7ab6a721173d23 4858fda9b80286e87f5fe9d76784537eddcf4b40    :
+0fe3d6fd6061acd5c8db3f47bef8e766dcf4e59b a8b592bc254ed4c42425478c2f7ab6a721173d23    :
+882d7d72a7e75f1bc706783bc92f7a4dbde9898c 0fe3d6fd6061acd5c8db3f47bef8e766dcf4e59b    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_ATTRIBUTE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_VARIABLE]
+31121bad309af2f4c5c5ac95471ecddca0d4dcbd 882d7d72a7e75f1bc706783bc92f7a4dbde9898c    :
+08a779fb4e9c2bc232025d55a05a11efc4814ccc 31121bad309af2f4c5c5ac95471ecddca0d4dcbd    :
+26460ced5349d3e2f9bfeb6c1ef348751aed578c 08a779fb4e9c2bc232025d55a05a11efc4814ccc    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_PARAMETER]
+f7ab93538b64e31458b2163ae6bf31fff9e32020 26460ced5349d3e2f9bfeb6c1ef348751aed578c    :
+4b309a2583442215c6056613a324c19a18e4955d f7ab93538b64e31458b2163ae6bf31fff9e32020    :
+84f686ab2de52577d19ba623a9269a9418cb2d92 4b309a2583442215c6056613a324c19a18e4955d    :
+ada1c0750129b7bfb43cdbbf3b8f3ac3901dc992 84f686ab2de52577d19ba623a9269a9418cb2d92    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_PARAMETER]
+371c268b395412e66c7deb85d149462ff023f759 ada1c0750129b7bfb43cdbbf3b8f3ac3901dc992    :
+a210b5dbcc81c3345f7a3c9304046cee35144299 371c268b395412e66c7deb85d149462ff023f759    :
+b1a03d5f06bfaa1897ec556c969694075f6b3e7e a210b5dbcc81c3345f7a3c9304046cee35144299    :
+2c8be3a66fe77282e757bff3db383b726f1c1f30 b1a03d5f06bfaa1897ec556c969694075f6b3e7e    :
+d43a2c3441ccfe30b22f0da564f5a41167d84727 2c8be3a66fe77282e757bff3db383b726f1c1f30    :
+86470f70dcce3304043df3d2dcd12044ca42339a d43a2c3441ccfe30b22f0da564f5a41167d84727    :
+fc583249604e19287b3d908e7fa38ec012d468bc 86470f70dcce3304043df3d2dcd12044ca42339a    :
+b7b03aeae3a9f59c62c1623eb0f559476313cf14 fc583249604e19287b3d908e7fa38ec012d468bc    :
+32d3cf463e510b14088275f432f1790f2e76b55b b7b03aeae3a9f59c62c1623eb0f559476313cf14    :
+c9a6a6b3b7902b50f2f8af0628fda9e1a0b7ecd7 32d3cf463e510b14088275f432f1790f2e76b55b    :
+e9fc2cf9a300857502cf824077cb78001a050d22 c9a6a6b3b7902b50f2f8af0628fda9e1a0b7ecd7    :
+ef640572992fd76a6b725f719fdf773434035f4c e9fc2cf9a300857502cf824077cb78001a050d22    :
+073bc022e46a9edb65eb50cd6f6c4cefc3d58ce2 ef640572992fd76a6b725f719fdf773434035f4c    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_PARAMETER]
+353b37af918c015201fce0f2dc4a461ac8510720 073bc022e46a9edb65eb50cd6f6c4cefc3d58ce2    :
+18b1132a833864a28bcf7b8795c9ddbdb01d9e48 353b37af918c015201fce0f2dc4a461ac8510720    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_VARIABLE]
+b95a27154ed692a08b69b83bce6123e965a3058f 18b1132a833864a28bcf7b8795c9ddbdb01d9e48    :
+a4435e3cac1de97304dbf90d687df68ae2deca11 b95a27154ed692a08b69b83bce6123e965a3058f    :
+cf84c1765f67b00ec2ca4c914a154c0833593e5d a4435e3cac1de97304dbf90d687df68ae2deca11    :
+053c90ee58f4c039b808f85fd86b5a6f5138d815 cf84c1765f67b00ec2ca4c914a154c0833593e5d    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|INVERT_CONDITION]
+ba5ab5f5b77135ca65b81c6c0043971722709d28 053c90ee58f4c039b808f85fd86b5a6f5138d815    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|INVERT_CONDITION]
+8739c49e7dc176bcff71c26516df7633336569a4 ba5ab5f5b77135ca65b81c6c0043971722709d28    :
+3f444a7e21ab637fa05ec08bb9b054c414892a35 8739c49e7dc176bcff71c26516df7633336569a4    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_ATTRIBUTE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_PARAMETER]
+3ed464e59782f7e6fa7633a9585449b3596ab124 3f444a7e21ab637fa05ec08bb9b054c414892a35    :
+43cf15939adf933e3191a4734c8f8d20dc07f5a6 3ed464e59782f7e6fa7633a9585449b3596ab124    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_ATTRIBUTE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_PARAMETER]
+c609583cff56cff936da220617196a2afa924d50 43cf15939adf933e3191a4734c8f8d20dc07f5a6    :
+9f845f6e9f2a9fffa42fab7bdd178e2d39907fd9 c609583cff56cff936da220617196a2afa924d50    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_PARAMETER, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_VARIABLE]
+a3794b6938607db650ba557d9107389677b698a0 9f845f6e9f2a9fffa42fab7bdd178e2d39907fd9    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_PARAMETER, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_VARIABLE]
+e32bf4385bb24b022be475f3cc04c80fa8013c71 a3794b6938607db650ba557d9107389677b698a0    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_ATTRIBUTE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_PARAMETER]
+a27a00f37a84373bcea7c1650a158accaffe3f07 e32bf4385bb24b022be475f3cc04c80fa8013c71    :
+f47a1681dfa9f48a6917148f5f8f4724360d0dd2 a27a00f37a84373bcea7c1650a158accaffe3f07    :
+0fff35533c54cd0eae251a668c28321fa30db8a0 f47a1681dfa9f48a6917148f5f8f4724360d0dd2    :
+8a6ab99ef0f342ac841a66a7de8834bd0d560b41 0fff35533c54cd0eae251a668c28321fa30db8a0    :
+bcde8b08d1172e4d222138d2d6c229d584967039 8a6ab99ef0f342ac841a66a7de8834bd0d560b41    :[spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/repository/PersonRepository.java|RENAME_PARAMETER]
+bd5534ad1868fd80a5dc77b6d1cbac40c0db2c8e bcde8b08d1172e4d222138d2d6c229d584967039    :[spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/repository/PersonRepository.java|RENAME_PARAMETER]
+b752d96c8c283c9c59578be53612e7d6bf117085 bd5534ad1868fd80a5dc77b6d1cbac40c0db2c8e    :[spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/repository/PersonRepository.java|RENAME_PARAMETER]
+4e5a2daf6981750a1662b6cd02cc0c8d6e77a05d b752d96c8c283c9c59578be53612e7d6bf117085    :[spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/repository/PersonRepository.java|RENAME_PARAMETER]
+a11f6135d8afbf1392b8b757bc0559f0899852eb 4e5a2daf6981750a1662b6cd02cc0c8d6e77a05d    :
+67701fd49b49d1d4e92a19f16a7a5fd0fbe151ff a11f6135d8afbf1392b8b757bc0559f0899852eb    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_VARIABLE]
+74be8161dc97152237a2f4f6b753a6167c713d22 67701fd49b49d1d4e92a19f16a7a5fd0fbe151ff    :
+221f4504d276ba2ca47839428a6df50a62e4043a 74be8161dc97152237a2f4f6b753a6167c713d22    :
+5f8c11b06824c39b46590807272112005747c4ec 221f4504d276ba2ca47839428a6df50a62e4043a    :
+6823748561afd268d42dc86fe53ed1d43a50e480 5f8c11b06824c39b46590807272112005747c4ec    :
+bdbc889bb8d1f9bb2636023d321ebe43ac8b2f84 6823748561afd268d42dc86fe53ed1d43a50e480    :
+a768d832d001f319ddd8bbf7da115a9aa28e9c90 bdbc889bb8d1f9bb2636023d321ebe43ac8b2f84    :
+89570bc7471b1fa3e5625967d00246977291fb67 a768d832d001f319ddd8bbf7da115a9aa28e9c90    :
+b7e64f3592f28657a5cc6265fb31f6d261930973 89570bc7471b1fa3e5625967d00246977291fb67    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_VARIABLE]
+1c37891e723f66c5788de9aca07b8d805754695b b7e64f3592f28657a5cc6265fb31f6d261930973    :
+451c18db953a379b36c1e4bd28e91cb3685b1363 1c37891e723f66c5788de9aca07b8d805754695b    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|INVERT_CONDITION]
+e8ebd5a2ddb14738aeb089d490a8cb8c298f1166 451c18db953a379b36c1e4bd28e91cb3685b1363    :
+9b9ea42ea0d96a9cd019907b99b20415a78dcf1b e8ebd5a2ddb14738aeb089d490a8cb8c298f1166    :
+aa49436d5b70bf6bf135f30efb2374b597425f8a 9b9ea42ea0d96a9cd019907b99b20415a78dcf1b    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_PARAMETER, spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_VARIABLE]
+94bd9d901afb8bc0238cc89deb234ebcecb5fb3a aa49436d5b70bf6bf135f30efb2374b597425f8a    :
+acac0c744ae1ea41d044ade78497ef406b40b1b9 94bd9d901afb8bc0238cc89deb234ebcecb5fb3a    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_ATTRIBUTE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_VARIABLE]
+93cdaec7c266b4cb4afb297ae8c54a0482cdf668 acac0c744ae1ea41d044ade78497ef406b40b1b9    :
+c9afb92343751918b8968ce39f43bad03fefc564 93cdaec7c266b4cb4afb297ae8c54a0482cdf668    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_ATTRIBUTE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_VARIABLE]
+1581550504e27348fe02c597df51ffcd8b5bb997 c9afb92343751918b8968ce39f43bad03fefc564    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_ATTRIBUTE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_VARIABLE]
+45867feecfd90eadd0e4b604afd4d6e2a122357b 1581550504e27348fe02c597df51ffcd8b5bb997    :
+a596d7f7d6013f0d26ffddad32ca41ee05337e8c 45867feecfd90eadd0e4b604afd4d6e2a122357b    :
+50b6975c71107d1b94709b87e649d43dca255bd9 a596d7f7d6013f0d26ffddad32ca41ee05337e8c    :
+41fc39c4ed9f571f52eae4c3cd8ab3e9e0f90c97 50b6975c71107d1b94709b87e649d43dca255bd9    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_PARAMETER]
+25b2571e734d5d34e3f449fa1d3a1706e7c355f9 41fc39c4ed9f571f52eae4c3cd8ab3e9e0f90c97    :
+1a647121753a71d844c779e8c2284d614d4ded92 25b2571e734d5d34e3f449fa1d3a1706e7c355f9    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_VARIABLE]
+1c8559301474f648f08b9e3c7bc2e5f37a3fae06 1a647121753a71d844c779e8c2284d614d4ded92    :
+7619b3c981abbde30f5be3c6a76ddfe294c54455 1c8559301474f648f08b9e3c7bc2e5f37a3fae06    :
+0f29bcaedb3ba0106806e7d69e2da022a0a511f5 7619b3c981abbde30f5be3c6a76ddfe294c54455    :
+bfcf8e59576e8faaa2ffa7d5671cc011aeb52297 0f29bcaedb3ba0106806e7d69e2da022a0a511f5    :
+c3a42784ee2b028dd9b0264bfe42571371e33edc bfcf8e59576e8faaa2ffa7d5671cc011aeb52297    :
+8fe12d68317cad027bd0c0dd695c5b6b6bc2caf8 c3a42784ee2b028dd9b0264bfe42571371e33edc    :
+719050df47c9fb2a076b581c839a1aed5554c726 8fe12d68317cad027bd0c0dd695c5b6b6bc2caf8    :[spring-data-jpa/src/main/java/org/springframework/data/jpa/provider/ProxyIdAccessor.java|RENAME_PARAMETER, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/config/JpaRepositoryConfigExtension.java|EXTRACT_VARIABLE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/config/JpaRepositoryConfigExtension.java|RENAME_ATTRIBUTE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/config/JpaRepositoryConfigExtension.java|RENAME_PARAMETER, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/config/JpaRepositoryConfigExtension.java|RENAME_VARIABLE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/AbstractStringBasedJpaQuery.java|EXTRACT_VARIABLE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/AbstractStringBasedJpaQuery.java|RENAME_ATTRIBUTE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/AbstractStringBasedJpaQuery.java|RENAME_PARAMETER, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/AbstractStringBasedJpaQuery.java|RENAME_VARIABLE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/DeclaredQuery.java|RENAME_PARAMETER, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/HqlQueryIntrospector.java|MERGE_CONDITIONAL, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_PARAMETER, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/JpaKeysetScrollQueryCreator.java|RENAME_VARIABLE, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/ParsedQueryIntrospector.java|RENAME_PARAMETER, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/query/StringQuery.java|MERGE_CONDITIONAL, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/support/QueryHints.java|RENAME_CLASS, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/support/QueryHints.java|RENAME_PARAMETER, spring-data-jpa/src/main/java/org/springframework/data/jpa/repository/support/QueryHints.java|RENAME_VARIABLE]
+3a21264a2fc1a59762751413bed8fd3611af576b 719050df47c9fb2a076b581c839a1aed5554c726    :[spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/repository/PersonRepository.java|RENAME_PARAMETER]
+0887a66b3a2ed3d2d894137bb0b5720f679a42f4 3a21264a2fc1a59762751413bed8fd3611af576b    :[spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/repository/PersonRepository.java|RENAME_PARAMETER]
+8c8aec789e3038c7fa636c5fccc8fbfacd4b0fc2 0887a66b3a2ed3d2d894137bb0b5720f679a42f4    :[spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/model/Person.java|ADD_PARAMETER, spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/model/Person.java|REMOVE_PARAMETER, spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/model/Person.java|RENAME_ATTRIBUTE, spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/model/Person.java|RENAME_PARAMETER, spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/model/Profile.java|RENAME_ATTRIBUTE, spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/model/Profile.java|RENAME_PARAMETER, spring-data-jpa-performance/src/main/java/org/springframework/data/jpa/repository/PersonRepository.java|RENAME_PARAMETER]
+c2f37fe4ca2636d927e4e361b4d0816ef31a64b0 8c8aec789e3038c7fa636c5fccc8fbfacd4b0fc2    :
+789cd3dcdea9835a9d9add9f9bb4eeb15b6de36f c2f37fe4ca2636d927e4e361b4d0816ef31a64b0    :
+859adf95eaf1e8959547f288d2d0f292ea223713 789cd3dcdea9835a9d9add9f9bb4eeb15b6de36f    :
+a327196151f5da1905ddb3781118d578a179ef59 859adf95eaf1e8959547f288d2d0f292ea223713    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_PARAMETER]
+afe7541fd54565bcc73878720aa581862e8aec53 a327196151f5da1905ddb3781118d578a179ef59    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_PARAMETER, spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_VARIABLE]
+b302280900410c4538011f5d83fa54b98e449d3b afe7541fd54565bcc73878720aa581862e8aec53    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_PARAMETER]
+c419b93fc665b7b0093ffc5738ba8a78248056cb b302280900410c4538011f5d83fa54b98e449d3b    :
+7e3472198db023078e175ad569a297d9d44f3e24 c419b93fc665b7b0093ffc5738ba8a78248056cb    :
+be3d2873b79b72bd654547846d0e60b282ef8cbb 7e3472198db023078e175ad569a297d9d44f3e24    :
+8ebfb641c95bf269955c3ad2579204a92a182d5f be3d2873b79b72bd654547846d0e60b282ef8cbb    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_VARIABLE]
+e875b8191d14e0ac3608beab0b61a27f8edb7be4 8ebfb641c95bf269955c3ad2579204a92a182d5f    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_VARIABLE]
+e185e6dba61b3b417886a0e0649560ac8a1a1823 e875b8191d14e0ac3608beab0b61a27f8edb7be4    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_PARAMETER]
+491e6aebca041eefe8026d6c183c3705018c879e e185e6dba61b3b417886a0e0649560ac8a1a1823    :
+eae3fb5a2908a50960b851d81ba97923fc3d42ed 491e6aebca041eefe8026d6c183c3705018c879e    :
+ee9c158f3ca33cff2df73dec4717ee59f71ee600 eae3fb5a2908a50960b851d81ba97923fc3d42ed    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|EXTRACT_VARIABLE]
+b4b42231ecd2a40eaa54db69af03894bd2d347a7 ee9c158f3ca33cff2df73dec4717ee59f71ee600    :
+3600b9cb57c7696687918411fbd9f8088b1c89eb b4b42231ecd2a40eaa54db69af03894bd2d347a7    :
+5e21d00092d09b69d61852e22f526b2d8e6d5f0f 3600b9cb57c7696687918411fbd9f8088b1c89eb    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|RENAME_PARAMETER]
+f727965c66ad2d1adea8b50c601e3cd92c2330d8 5e21d00092d09b69d61852e22f526b2d8e6d5f0f    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|INVERT_CONDITION]
+87cc57b0b5222040c5fead396412897a7acd2109 f727965c66ad2d1adea8b50c601e3cd92c2330d8    :[spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryFactoryBean.java|RENAME_PARAMETER, spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryFactoryBean.java|RENAME_VARIABLE, spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/EnversRevisionRepositoryImpl.java|INVERT_CONDITION, spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/ReflectionRevisionEntityInformation.java|RENAME_ATTRIBUTE, spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/ReflectionRevisionEntityInformation.java|RENAME_PARAMETER, spring-data-envers/src/main/java/org/springframework/data/envers/repository/support/ReflectionRevisionEntityInformation.java|RENAME_VARIABLE]
+47970bed7e22d7ded1b394ebeb964b725c66fb2f 69b3b5718b0a98a3ca5c419101c323ad24f11599    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+a9eafbad7b72a15a952947f6397407c5c74e14d9 47970bed7e22d7ded1b394ebeb964b725c66fb2f    :
+f10e524e57888c37aae637cec3e5710693f90a48 a9eafbad7b72a15a952947f6397407c5c74e14d9    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+dfb058088f13d540a99dafe75d468c7bf82dc5fe f10e524e57888c37aae637cec3e5710693f90a48    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+a812202425036ae92b008613cb541ae8518bd5fa dfb058088f13d540a99dafe75d468c7bf82dc5fe    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_VARIABLE]
+ee323fe4e9863e4a26df59bc26cc0a63dee617e3 a812202425036ae92b008613cb541ae8518bd5fa    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+440a6466826f027c6a2a76f2ead2bfdd35235a99 ee323fe4e9863e4a26df59bc26cc0a63dee617e3    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER, src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_VARIABLE]
+68e7aa88e5775a302806294064175472a91561d2 440a6466826f027c6a2a76f2ead2bfdd35235a99    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+94bbe71971283df048735f4f99d4762724067871 68e7aa88e5775a302806294064175472a91561d2    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_VARIABLE]
+146141970ff1fb5af466736f9031f0fbdb64bfc8 94bbe71971283df048735f4f99d4762724067871    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+28a35365276ee525f044a613fc6d52f1935efba2 146141970ff1fb5af466736f9031f0fbdb64bfc8    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER, src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_VARIABLE]
+71751ff7aa04232e02e4f25f9d08ac99ce7fc59e 28a35365276ee525f044a613fc6d52f1935efba2    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+74dd027693e295c811c8d915b4cf2a791b368c45 71751ff7aa04232e02e4f25f9d08ac99ce7fc59e    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+64798d78ed57352abc9ebecd710c983c2c53ecf9 74dd027693e295c811c8d915b4cf2a791b368c45    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER, src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_VARIABLE]
+15bc3f54155a45421f4b0b0e773beb022ddaf563 64798d78ed57352abc9ebecd710c983c2c53ecf9    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+751d3a32a234e798fde2740d6b876dcb14ab0577 15bc3f54155a45421f4b0b0e773beb022ddaf563    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+2f534cbc45ab5f1500c7e7be41e48ee11c1fcd7d 751d3a32a234e798fde2740d6b876dcb14ab0577    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+a7860f3e9effefb384c1cac7a0befb3e1ed53cea 2f534cbc45ab5f1500c7e7be41e48ee11c1fcd7d    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER, src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_VARIABLE]
+40f55391f60ee31ac8d016810f6579665f4aec69 a7860f3e9effefb384c1cac7a0befb3e1ed53cea    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+1c29d42b1a30ecf115815b710c6b73d387c85c6d 40f55391f60ee31ac8d016810f6579665f4aec69    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER, src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_VARIABLE]
+b2a1bf36a923f7891ee5f012296b178f7e0b60a9 1c29d42b1a30ecf115815b710c6b73d387c85c6d    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER, src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_VARIABLE]
+7bd5bc1921ae3a5c4844d37973a1969d46f6565c b2a1bf36a923f7891ee5f012296b178f7e0b60a9    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+b2af645a7acad8bcc29345450e9d5ff4d9eac3b8 7bd5bc1921ae3a5c4844d37973a1969d46f6565c    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+96d57e6e98f21908baa03507ab101ebeb37a4ef3 b2af645a7acad8bcc29345450e9d5ff4d9eac3b8    :
+4224e9d3ccb6efcddb8f6329269aa594bed1821f 96d57e6e98f21908baa03507ab101ebeb37a4ef3    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER]
+1a1af21ef5df03c9c06005ebd53eb8222df786ae 4224e9d3ccb6efcddb8f6329269aa594bed1821f    :
+46051e5f144d8d9d94e290d763c189acb7db51f3 1a1af21ef5df03c9c06005ebd53eb8222df786ae    :
+257170f2fceb5afdb369e032b7a1cbf4159e013e 46051e5f144d8d9d94e290d763c189acb7db51f3    :
+f3cf1769d3e5017c14789f48f0642993c5880b9f 257170f2fceb5afdb369e032b7a1cbf4159e013e    :
+5cde9e867e6fe2de51a3487e939a2e20f94e4d63 f3cf1769d3e5017c14789f48f0642993c5880b9f    :
+11609a061185362f34e8de893e88d70473f91f1c 5cde9e867e6fe2de51a3487e939a2e20f94e4d63    :
+b254241bbd718f1f0fc2d2c80fd1a67570ae204e 11609a061185362f34e8de893e88d70473f91f1c    :[src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_PARAMETER, src/main/java/org/springframework/hateoas/mvc/ResourceAssemblerSupport.java|RENAME_VARIABLE]
+0c084693958595e55a6d869287971f5c2c062924 b254241bbd718f1f0fc2d2c80fd1a67570ae204e    :
+84a4bffa6f47b166e308db62c351a334de30a76e 8bf05b6bd01b524ab231524d8c494b2bd5288275    :[ruoyi-system/src/main/java/com/ruoyi/system/service/ISysDictTypeService.java|RENAME_PARAMETER]
+a4068237b304786ddd7f0267daa14f4a98b82d6d 84a4bffa6f47b166e308db62c351a334de30a76e    :[ruoyi-system/src/main/java/com/ruoyi/system/service/ISysDictTypeService.java|RENAME_PARAMETER]
+d02b0968ec01c675de69bb1baee55936f925ef34 a4068237b304786ddd7f0267daa14f4a98b82d6d    :[ruoyi-system/src/main/java/com/ruoyi/system/service/ISysDictTypeService.java|RENAME_PARAMETER]
+9ee65a8e5ac4db04132d7bd1390add9fa1f67408 d02b0968ec01c675de69bb1baee55936f925ef34    :[ruoyi-system/src/main/java/com/ruoyi/system/service/ISysDictTypeService.java|RENAME_PARAMETER]
+8620875664242b35f7cbef015f4d301ec5eab87e 9ee65a8e5ac4db04132d7bd1390add9fa1f67408    :[ruoyi-system/src/main/java/com/ruoyi/system/service/ISysDictTypeService.java|RENAME_PARAMETER]
+45e93f14644fe055b962776c548fbc4feb4a79b1 8620875664242b35f7cbef015f4d301ec5eab87e    :[ruoyi-quartz/src/main/java/com/ruoyi/quartz/util/QuartzJobExecution.java|RENAME_PARAMETER]
+a0573354a39d5f6737bc183650f42466a5418c41 45e93f14644fe055b962776c548fbc4feb4a79b1    :[ruoyi-quartz/src/main/java/com/ruoyi/quartz/util/QuartzJobExecution.java|RENAME_PARAMETER]
+1750618ecd9919b84e7f4654ef06856be1587544 a0573354a39d5f6737bc183650f42466a5418c41    :[ruoyi-generator/src/main/java/com/ruoyi/generator/mapper/GenTableColumnMapper.java|RENAME_PARAMETER]
+7a1dbcbd96e954579410762d870b7f34e9d75691 1750618ecd9919b84e7f4654ef06856be1587544    :[ruoyi-generator/src/main/java/com/ruoyi/generator/mapper/GenTableColumnMapper.java|RENAME_PARAMETER]
+e29eed7c8460816055c0b2f072a225a606fb123e 7a1dbcbd96e954579410762d870b7f34e9d75691    :[ruoyi-generator/src/main/java/com/ruoyi/generator/mapper/GenTableColumnMapper.java|RENAME_PARAMETER]
+f6fdca5c997c1be6973ab1047711ed8c2f0acc4c e29eed7c8460816055c0b2f072a225a606fb123e    :[ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_ATTRIBUTE, ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_VARIABLE]
+145deb2478fbf0b08bb524bd47784ca09b468e41 f6fdca5c997c1be6973ab1047711ed8c2f0acc4c    :
+863f4a5a8fb2508fccf9c4edfb29b0eec98bc3ff 145deb2478fbf0b08bb524bd47784ca09b468e41    :[ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_ATTRIBUTE, ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_PARAMETER]
+18c136848918c79e3424bc08b474217df1dfca87 863f4a5a8fb2508fccf9c4edfb29b0eec98bc3ff    :[ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_ATTRIBUTE, ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_PARAMETER]
+53abfa190654d912e6a449dbd17e28057950a6cb 18c136848918c79e3424bc08b474217df1dfca87    :[ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_ATTRIBUTE, ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_PARAMETER]
+f2eb9ac2758c9b87d0f14941b3252145050ef981 53abfa190654d912e6a449dbd17e28057950a6cb    :[ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_ATTRIBUTE, ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_PARAMETER]
+dfedcedddd352c64d66560b7fff09180e0eec0aa f2eb9ac2758c9b87d0f14941b3252145050ef981    :
+2e7c91bef972b5ed48bb7464ef51c30466d4bf7b dfedcedddd352c64d66560b7fff09180e0eec0aa    :
+24ade7d124f1b1158bcdc1b3ab7428c5d9870e93 2e7c91bef972b5ed48bb7464ef51c30466d4bf7b    :
+e220692b475625e858d76d93e46be041d3f6d108 24ade7d124f1b1158bcdc1b3ab7428c5d9870e93    :
+4b3ed0d6c2c78e389a4544af5131516c9a7fe952 e220692b475625e858d76d93e46be041d3f6d108    :
+c62f4fa0869286ad32c34336b5441ae959540f16 4b3ed0d6c2c78e389a4544af5131516c9a7fe952    :
+e687dc0f441048bd5a205316340802b7346039f4 c62f4fa0869286ad32c34336b5441ae959540f16    :
+d5d4c073e3fa71df920d38d8069a6dda1bc281d6 e687dc0f441048bd5a205316340802b7346039f4    :[ruoyi-common/src/main/java/com/ruoyi/common/utils/http/HttpUtils.java|SPLIT_CONDITIONAL]
+8915b2923b30129bf067651461e88f9f3cf7c49d d5d4c073e3fa71df920d38d8069a6dda1bc281d6    :
+fe846c88721c0449e11434bfef684c671f13630a 8915b2923b30129bf067651461e88f9f3cf7c49d    :
+6479bd0fec0dff4336777a68989c03269ffa150c fe846c88721c0449e11434bfef684c671f13630a    :
+7ec5236e8dd560ad4496eb0dda575ffe88c59854 6479bd0fec0dff4336777a68989c03269ffa150c    :
+2be42b0bccb5310a277765c7beed15a2dd033bdc 7ec5236e8dd560ad4496eb0dda575ffe88c59854    :
+7c5eb1aa600cd283262881b73c7dfd914ca3bc66 2be42b0bccb5310a277765c7beed15a2dd033bdc    :[ruoyi-common/src/main/java/com/ruoyi/common/utils/http/HttpUtils.java|RENAME_VARIABLE]
+879ebbddbb42c48d24016fc7d0305a17e4c21ad7 7c5eb1aa600cd283262881b73c7dfd914ca3bc66    :
+89cc3e5e6752183017b0865fbe1e00b72af0335f 879ebbddbb42c48d24016fc7d0305a17e4c21ad7    :
+586b526c83289b7168606b4ea25cfa41e2b3adcd 89cc3e5e6752183017b0865fbe1e00b72af0335f    :
+2c64ae537b87da3f591fc5c91b02073a63c0805d 586b526c83289b7168606b4ea25cfa41e2b3adcd    :[ruoyi-common/src/main/java/com/ruoyi/common/utils/http/HttpUtils.java|RENAME_PARAMETER]
+142de8e5389d2cf186d9c49ca435ac9e80386df8 2c64ae537b87da3f591fc5c91b02073a63c0805d    :
+90625d40d3dba65da02c5565ccce3003aa477c08 142de8e5389d2cf186d9c49ca435ac9e80386df8    :
+06e891546d9c0c6ab2a2d8cc588d431f680699c3 90625d40d3dba65da02c5565ccce3003aa477c08    :
+dbb1d29cfa9fdc29fa4d8735b5b8c9ce982fe79d 06e891546d9c0c6ab2a2d8cc588d431f680699c3    :
+dbb77a9fa046abc8fa86c0aeee7a6e872bbf13a5 dbb1d29cfa9fdc29fa4d8735b5b8c9ce982fe79d    :
+d99e740d39ec27c1e0a8e5d9fbf3e9ca9a763ba7 dbb77a9fa046abc8fa86c0aeee7a6e872bbf13a5    :
+be3661680cf187ef8f273cc3e529c5a14730b6d2 d99e740d39ec27c1e0a8e5d9fbf3e9ca9a763ba7    :[ruoyi-common/src/main/java/com/ruoyi/common/utils/http/HttpUtils.java|RENAME_VARIABLE]
+9a6e2323e520940e63b61d99c07bf521191c1105 be3661680cf187ef8f273cc3e529c5a14730b6d2    :
+7307627c0f262a03df72d3cf131ff28c23b9677d 9a6e2323e520940e63b61d99c07bf521191c1105    :
+edd45a116e86c766be75e9625a2a0398bbbe56e6 7307627c0f262a03df72d3cf131ff28c23b9677d    :
+28789235e2e19a593a5ad22e02af315ea79c17fe edd45a116e86c766be75e9625a2a0398bbbe56e6    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/tool/BuildController.java|RENAME_ATTRIBUTE]
+396976cdfa56fbeb61ed14f801303d3377e8fe5f 28789235e2e19a593a5ad22e02af315ea79c17fe    :
+264e78793d9eebf146d605071426e215493635dd 396976cdfa56fbeb61ed14f801303d3377e8fe5f    :
+b662e15315501b3fa76d211b0c6ab1d8a251712f 264e78793d9eebf146d605071426e215493635dd    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|RENAME_VARIABLE]
+4bfd687bc885f0616e283e6c75030698e705fdde b662e15315501b3fa76d211b0c6ab1d8a251712f    :
+320d35bd97f5b419803d864698139afbd4d2c166 4bfd687bc885f0616e283e6c75030698e705fdde    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|SPLIT_CONDITIONAL]
+93a7c004cb678adaf3584fbe409eed3dbe1aee1e 320d35bd97f5b419803d864698139afbd4d2c166    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|RENAME_PARAMETER, ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|RENAME_VARIABLE]
+3c623ba2f53271b21f695a838efb636fd21b6f25 93a7c004cb678adaf3584fbe409eed3dbe1aee1e    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|RENAME_PARAMETER, ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|RENAME_VARIABLE]
+b416ebf16cb390157acc2e20af97e3f1ebe95c66 3c623ba2f53271b21f695a838efb636fd21b6f25    :
+51776aca60ff660499d3f36dceee16ace1ee5092 b416ebf16cb390157acc2e20af97e3f1ebe95c66    :
+9cb58446b4b194571c32b745e12d35a602f6817c 51776aca60ff660499d3f36dceee16ace1ee5092    :
+23d9476ef589c5526cefdf9c3947f39efe582af2 9cb58446b4b194571c32b745e12d35a602f6817c    :
+c547a94b29521291de2e845e6b8902362a048c09 23d9476ef589c5526cefdf9c3947f39efe582af2    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/tool/BuildController.java|RENAME_ATTRIBUTE]
+6d88b3381b2a33547fd2dd818d662111e29a68c7 c547a94b29521291de2e845e6b8902362a048c09    :
+313e290cc051a35c8e2d6f0ec5afeb7433c391b2 6d88b3381b2a33547fd2dd818d662111e29a68c7    :[ruoyi-system/src/main/java/com/ruoyi/system/service/ISysDictTypeService.java|RENAME_PARAMETER]
+ebc84e93671b30fa43aebe5117d067017c889fa4 313e290cc051a35c8e2d6f0ec5afeb7433c391b2    :[ruoyi-system/src/main/java/com/ruoyi/system/service/ISysDictTypeService.java|RENAME_PARAMETER]
+a6dc7e8848bf2781ee06c13ddeeab0ad8d042c2e ebc84e93671b30fa43aebe5117d067017c889fa4    :[ruoyi-system/src/main/java/com/ruoyi/system/service/ISysDictTypeService.java|RENAME_PARAMETER]
+42f3ccc656dbaa1bc74708040c309e7e0c86489c a6dc7e8848bf2781ee06c13ddeeab0ad8d042c2e    :
+2bc514f8118c8fc93c4053b084374f39d565670c 42f3ccc656dbaa1bc74708040c309e7e0c86489c    :
+221382939017c349b3ff85485a36581bc04bac63 2bc514f8118c8fc93c4053b084374f39d565670c    :
+b2ecc66f8d4fed3566a2f2aa186183cda5bd62f9 221382939017c349b3ff85485a36581bc04bac63    :[ruoyi-system/src/main/java/com/ruoyi/system/service/impl/SysDeptServiceImpl.java|INVERT_CONDITION]
+492a26045ae701a5992f1f697b818555eeb4336e b2ecc66f8d4fed3566a2f2aa186183cda5bd62f9    :
+e7362e479724fe9776d55671eaa84a2b951c1c2a 492a26045ae701a5992f1f697b818555eeb4336e    :[ruoyi-system/src/main/java/com/ruoyi/system/domain/SysLogininfor.java|RENAME_ATTRIBUTE, ruoyi-system/src/main/java/com/ruoyi/system/domain/SysLogininfor.java|RENAME_PARAMETER, ruoyi-system/src/main/java/com/ruoyi/system/domain/SysNotice.java|RENAME_ATTRIBUTE, ruoyi-system/src/main/java/com/ruoyi/system/domain/SysNotice.java|RENAME_PARAMETER, ruoyi-system/src/main/java/com/ruoyi/system/mapper/SysPostMapper.java|RENAME_PARAMETER, ruoyi-system/src/main/java/com/ruoyi/system/service/ISysDictDataService.java|RENAME_PARAMETER, ruoyi-system/src/main/java/com/ruoyi/system/service/ISysMenuService.java|RENAME_PARAMETER, ruoyi-system/src/main/java/com/ruoyi/system/service/impl/SysConfigServiceImpl.java|INVERT_CONDITION, ruoyi-system/src/main/java/com/ruoyi/system/service/impl/SysConfigServiceImpl.java|RENAME_VARIABLE]
+083dfead640bef81aae2f852055a424fc306ba7f e7362e479724fe9776d55671eaa84a2b951c1c2a    :[ruoyi-quartz/src/main/java/com/ruoyi/quartz/util/QuartzJobExecution.java|RENAME_PARAMETER]
+85b2398b9c23d8afdcfe32a158128764b8045d13 083dfead640bef81aae2f852055a424fc306ba7f    :[ruoyi-quartz/src/main/java/com/ruoyi/quartz/util/QuartzJobExecution.java|RENAME_PARAMETER]
+f180aac7094ba747e3d734bbd08bf1689a3be86e 85b2398b9c23d8afdcfe32a158128764b8045d13    :[ruoyi-quartz/src/main/java/com/ruoyi/quartz/util/QuartzJobExecution.java|RENAME_PARAMETER]
+53b4e82c8690862d613b8e62a095518fa50835d4 f180aac7094ba747e3d734bbd08bf1689a3be86e    :[ruoyi-quartz/src/main/java/com/ruoyi/quartz/util/QuartzJobExecution.java|RENAME_PARAMETER]
+3ddcbbf080de52f3441a4a68962710ab6b772367 53b4e82c8690862d613b8e62a095518fa50835d4    :[ruoyi-quartz/src/main/java/com/ruoyi/quartz/controller/SysJobController.java|INVERT_CONDITION, ruoyi-quartz/src/main/java/com/ruoyi/quartz/mapper/SysJobLogMapper.java|RENAME_PARAMETER, ruoyi-quartz/src/main/java/com/ruoyi/quartz/mapper/SysJobMapper.java|RENAME_PARAMETER, ruoyi-quartz/src/main/java/com/ruoyi/quartz/service/ISysJobLogService.java|RENAME_PARAMETER, ruoyi-quartz/src/main/java/com/ruoyi/quartz/service/ISysJobService.java|RENAME_PARAMETER, ruoyi-quartz/src/main/java/com/ruoyi/quartz/service/impl/SysJobLogServiceImpl.java|RENAME_ATTRIBUTE, ruoyi-quartz/src/main/java/com/ruoyi/quartz/service/impl/SysJobLogServiceImpl.java|RENAME_PARAMETER, ruoyi-quartz/src/main/java/com/ruoyi/quartz/util/ScheduleUtils.java|INVERT_CONDITION, ruoyi-quartz/src/main/java/com/ruoyi/quartz/util/ScheduleUtils.java|RENAME_PARAMETER, ruoyi-quartz/src/main/java/com/ruoyi/quartz/util/ScheduleUtils.java|RENAME_VARIABLE]
+96203fb2bb80f2eb260030355784282963b744cc 3ddcbbf080de52f3441a4a68962710ab6b772367    :[ruoyi-generator/src/main/java/com/ruoyi/generator/mapper/GenTableColumnMapper.java|RENAME_PARAMETER]
+ffa9daab201f88b98248817073141f65ee82f0ed 96203fb2bb80f2eb260030355784282963b744cc    :[ruoyi-generator/src/main/java/com/ruoyi/generator/mapper/GenTableColumnMapper.java|RENAME_PARAMETER]
+dfc1f0c3fcce852e68f7562efef2cd5d087a44e2 ffa9daab201f88b98248817073141f65ee82f0ed    :[ruoyi-generator/src/main/java/com/ruoyi/generator/controller/GenController.java|RENAME_PARAMETER, ruoyi-generator/src/main/java/com/ruoyi/generator/controller/GenController.java|RENAME_VARIABLE, ruoyi-generator/src/main/java/com/ruoyi/generator/domain/GenTable.java|EXTRACT_VARIABLE, ruoyi-generator/src/main/java/com/ruoyi/generator/domain/GenTable.java|RENAME_ATTRIBUTE, ruoyi-generator/src/main/java/com/ruoyi/generator/domain/GenTable.java|RENAME_PARAMETER, ruoyi-generator/src/main/java/com/ruoyi/generator/mapper/GenTableColumnMapper.java|RENAME_PARAMETER, ruoyi-generator/src/main/java/com/ruoyi/generator/service/IGenTableColumnService.java|RENAME_PARAMETER, ruoyi-generator/src/main/java/com/ruoyi/generator/service/impl/GenTableServiceImpl.java|INVERT_CONDITION, ruoyi-generator/src/main/java/com/ruoyi/generator/service/impl/GenTableServiceImpl.java|RENAME_PARAMETER, ruoyi-generator/src/main/java/com/ruoyi/generator/service/impl/GenTableServiceImpl.java|RENAME_VARIABLE, ruoyi-generator/src/main/java/com/ruoyi/generator/util/GenUtils.java|EXTRACT_VARIABLE, ruoyi-generator/src/main/java/com/ruoyi/generator/util/GenUtils.java|INVERT_CONDITION, ruoyi-generator/src/main/java/com/ruoyi/generator/util/GenUtils.java|RENAME_PARAMETER, ruoyi-generator/src/main/java/com/ruoyi/generator/util/GenUtils.java|RENAME_VARIABLE]
+e11ad4d2f627a73eb0a78b3859eaaf3b44fb5eec dfc1f0c3fcce852e68f7562efef2cd5d087a44e2    :[ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_PARAMETER, ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_VARIABLE]
+b748f5dd90a13c93786df982e168902098b47c1e e11ad4d2f627a73eb0a78b3859eaaf3b44fb5eec    :
+af162ad8c9ee7e1d9e8892b04d23688f8b9e0fc5 b748f5dd90a13c93786df982e168902098b47c1e    :[ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_PARAMETER]
+35a30bdb0c482c170fe9cfc1f8b8d8aadd76540f af162ad8c9ee7e1d9e8892b04d23688f8b9e0fc5    :
+c991777831881c2c68cd1a1125c7a560613ca93f 35a30bdb0c482c170fe9cfc1f8b8d8aadd76540f    :[ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_PARAMETER, ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|RENAME_VARIABLE]
+be4c701b5f603d48ef9539b6109fade5b6050f49 c991777831881c2c68cd1a1125c7a560613ca93f    :
+8b306bb14c8cc8af410833ae31f7793ec94094ff be4c701b5f603d48ef9539b6109fade5b6050f49    :
+2a8eb74e18f18747840f9e76e0c0706c2c67bdf4 8b306bb14c8cc8af410833ae31f7793ec94094ff    :[ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/service/SysShiroService.java|INVERT_CONDITION]
+69937a2c3e0410acd713443721ea5196807bb471 2a8eb74e18f18747840f9e76e0c0706c2c67bdf4    :[ruoyi-framework/src/main/java/com/ruoyi/framework/config/DruidConfig.java|REMOVE_VARIABLE_MODIFIER, ruoyi-framework/src/main/java/com/ruoyi/framework/config/DruidConfig.java|RENAME_PARAMETER, ruoyi-framework/src/main/java/com/ruoyi/framework/config/DruidConfig.java|RENAME_VARIABLE, ruoyi-framework/src/main/java/com/ruoyi/framework/config/properties/DruidProperties.java|RENAME_ATTRIBUTE, ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/web/filter/sync/SyncOnlineSessionFilter.java|RENAME_ATTRIBUTE, ruoyi-framework/src/main/java/com/ruoyi/framework/shiro/web/filter/sync/SyncOnlineSessionFilter.java|RENAME_PARAMETER, ruoyi-framework/src/main/java/com/ruoyi/framework/web/domain/server/Cpu.java|RENAME_ATTRIBUTE, ruoyi-framework/src/main/java/com/ruoyi/framework/web/domain/server/Cpu.java|RENAME_PARAMETER, ruoyi-framework/src/main/java/com/ruoyi/framework/web/domain/server/Mem.java|RENAME_ATTRIBUTE, ruoyi-framework/src/main/java/com/ruoyi/framework/web/domain/server/Mem.java|RENAME_PARAMETER]
+d946b58b855f517833b9179c58097dd845198e83 69937a2c3e0410acd713443721ea5196807bb471    :[ruoyi-common/src/main/java/com/ruoyi/common/utils/http/HttpUtils.java|RENAME_PARAMETER, ruoyi-common/src/main/java/com/ruoyi/common/utils/http/HttpUtils.java|RENAME_VARIABLE]
+ebb331c53411cf4cee3a8d4d9eabeeabd2d1f452 d946b58b855f517833b9179c58097dd845198e83    :
+daa9d777d757e9eca48f44cec49180b5ff5931d0 ebb331c53411cf4cee3a8d4d9eabeeabd2d1f452    :[ruoyi-common/src/main/java/com/ruoyi/common/utils/http/HttpUtils.java|SPLIT_CONDITIONAL]
+e2d0da9997d919c4b4afa5e3bbed14d7908c68b1 daa9d777d757e9eca48f44cec49180b5ff5931d0    :
+3f6c7d15d0f2c47f93bde2c95330080712422a81 e2d0da9997d919c4b4afa5e3bbed14d7908c68b1    :
+57a5cde8cc02b42ff432707987a07399b6f5cdac 3f6c7d15d0f2c47f93bde2c95330080712422a81    :[ruoyi-common/src/main/java/com/ruoyi/common/utils/http/HttpUtils.java|EXTRACT_VARIABLE]
+87def13d651890ed493990a7d806424b68f7799d 57a5cde8cc02b42ff432707987a07399b6f5cdac    :
+6fa4a9943d4c1e38529df88c053cc349bd5fe64b 87def13d651890ed493990a7d806424b68f7799d    :
+e6f9dd280f9fd00e6e82bef7cbaf7cb0950138de 6fa4a9943d4c1e38529df88c053cc349bd5fe64b    :
+0c5da44ec687bc17c8a880b54a0709222175c65e e6f9dd280f9fd00e6e82bef7cbaf7cb0950138de    :[ruoyi-common/src/main/java/com/ruoyi/common/utils/http/HttpUtils.java|EXTRACT_VARIABLE]
+813123fe502151095bb0dd1aa5d16fbdcbd7edc2 0c5da44ec687bc17c8a880b54a0709222175c65e    :
+95f9b5f1c9c0a7e7431aa5bdac41438917b74d17 813123fe502151095bb0dd1aa5d16fbdcbd7edc2    :
+b8875b5b5c27a3487bd7951d1fc5b3dc49519574 95f9b5f1c9c0a7e7431aa5bdac41438917b74d17    :
+555704b21dfa649b452a6e641f3b663eaddbe23f b8875b5b5c27a3487bd7951d1fc5b3dc49519574    :
+669485e502f60f6b975fcafe4d66f168f8cdb0bf 555704b21dfa649b452a6e641f3b663eaddbe23f    :
+345bd505047590caceef8b2fd78a4adbae4ddc96 669485e502f60f6b975fcafe4d66f168f8cdb0bf    :
+e3639d700f461576a30a7f75946162f938ab8253 345bd505047590caceef8b2fd78a4adbae4ddc96    :
+378a489c212966ec173d01e959a1532a24f37ad3 e3639d700f461576a30a7f75946162f938ab8253    :
+2c0186ab3279e89fe45b41fbdaf1b7f34ba8c031 378a489c212966ec173d01e959a1532a24f37ad3    :
+449a4a6fced0aafd1d871fdd9e56c321ec7ca4c0 2c0186ab3279e89fe45b41fbdaf1b7f34ba8c031    :[ruoyi-common/src/main/java/com/ruoyi/common/utils/http/HttpUtils.java|RENAME_VARIABLE]
+b08e542497521cb10449a562e380e169c74e5e9d 449a4a6fced0aafd1d871fdd9e56c321ec7ca4c0    :[ruoyi-common/src/main/java/com/ruoyi/common/utils/http/HttpUtils.java|EXTRACT_VARIABLE]
+b7974e00deb2518fcb84a73d88f2908f1b8e0f43 b08e542497521cb10449a562e380e169c74e5e9d    :
+b92de66ecef76d7b529a06ac6093dc6eedecaec8 b7974e00deb2518fcb84a73d88f2908f1b8e0f43    :[ruoyi-common/src/main/java/com/ruoyi/common/core/text/StrFormatter.java|ADD_VARIABLE_MODIFIER, ruoyi-common/src/main/java/com/ruoyi/common/core/text/StrFormatter.java|INVERT_CONDITION, ruoyi-common/src/main/java/com/ruoyi/common/core/text/StrFormatter.java|RENAME_VARIABLE, ruoyi-common/src/main/java/com/ruoyi/common/utils/DateUtils.java|EXTRACT_VARIABLE, ruoyi-common/src/main/java/com/ruoyi/common/utils/LogUtils.java|INVERT_CONDITION, ruoyi-common/src/main/java/com/ruoyi/common/utils/LogUtils.java|RENAME_PARAMETER, ruoyi-common/src/main/java/com/ruoyi/common/utils/LogUtils.java|RENAME_VARIABLE, ruoyi-common/src/main/java/com/ruoyi/common/utils/ServletUtils.java|EXTRACT_VARIABLE, ruoyi-common/src/main/java/com/ruoyi/common/utils/file/FileUtils.java|ADD_VARIABLE_MODIFIER, ruoyi-common/src/main/java/com/ruoyi/common/utils/file/FileUtils.java|MERGE_CONDITIONAL, ruoyi-common/src/main/java/com/ruoyi/common/utils/file/FileUtils.java|RENAME_PARAMETER, ruoyi-common/src/main/java/com/ruoyi/common/utils/file/FileUtils.java|RENAME_VARIABLE, ruoyi-common/src/main/java/com/ruoyi/common/xss/XssHttpServletRequestWrapper.java|RENAME_PARAMETER, ruoyi-common/src/main/java/com/ruoyi/common/xss/XssHttpServletRequestWrapper.java|RENAME_VARIABLE]
+8d0dbf0ef02b74a3dc2705d84b2816c3858a9be7 b92de66ecef76d7b529a06ac6093dc6eedecaec8    :
+fb943ddb9ec879c7068801c33f10e3e882d76c2d 8d0dbf0ef02b74a3dc2705d84b2816c3858a9be7    :
+84a7d95e69b012c1e7d23ac704e8e22e4cd2c0e6 fb943ddb9ec879c7068801c33f10e3e882d76c2d    :
+eea57fff58eb66e54be7a9b89400b693396fc451 84a7d95e69b012c1e7d23ac704e8e22e4cd2c0e6    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/tool/BuildController.java|RENAME_ATTRIBUTE]
+98c009597a0db0d8c57601b95318d5bf185117d8 eea57fff58eb66e54be7a9b89400b693396fc451    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|INVERT_CONDITION]
+873a1ed3f914019c127e9ab102f9440727988e5f 98c009597a0db0d8c57601b95318d5bf185117d8    :
+c176ae4b3d1e8feb74a7b36a960c6ba36cc43ae4 873a1ed3f914019c127e9ab102f9440727988e5f    :
+121ef0e015f5f7743c3e13546c2114b6f462a83d c176ae4b3d1e8feb74a7b36a960c6ba36cc43ae4    :
+a7731b7226e651f73417d3bd5c52e32af6ccece3 121ef0e015f5f7743c3e13546c2114b6f462a83d    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|RENAME_PARAMETER, ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|RENAME_VARIABLE]
+63d3c46bba9dd62cdaa3f7a0a245dddc65c446fa a7731b7226e651f73417d3bd5c52e32af6ccece3    :
+b39ba31358e4c927b0df2c35312df2e9921e9dcc 63d3c46bba9dd62cdaa3f7a0a245dddc65c446fa    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/tool/BuildController.java|RENAME_ATTRIBUTE]
+b616e57cef11081bd54c3620bf564a7ea7a8976e b39ba31358e4c927b0df2c35312df2e9921e9dcc    :
+e86fca4bdb74506fa11611e208cffaf5447a328d b616e57cef11081bd54c3620bf564a7ea7a8976e    :
+abd3a4cc59a46fe76aef73e9b413c26aa67a9315 e86fca4bdb74506fa11611e208cffaf5447a328d    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|RENAME_ATTRIBUTE, ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|RENAME_PARAMETER]
+bdc29b7cecca3527abb2bfe236aa8fce499e96de abd3a4cc59a46fe76aef73e9b413c26aa67a9315    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|RENAME_VARIABLE]
+dde99215b6ed6e05e8115fecc0b8bc56d8915ac0 bdc29b7cecca3527abb2bfe236aa8fce499e96de    :
+f2b63da3b90ae1a2498964e4e22bfab7e58ffe8a dde99215b6ed6e05e8115fecc0b8bc56d8915ac0    :
+fbff0a3eb2d5c62fcc8b180a34857e7c6f21aac1 f2b63da3b90ae1a2498964e4e22bfab7e58ffe8a    :
+aeefef68709b987dbfc2bc0a5d87f73107c0f0ba fbff0a3eb2d5c62fcc8b180a34857e7c6f21aac1    :
+e3c15b320279ad4246b3f8412bb6f590450981cc aeefef68709b987dbfc2bc0a5d87f73107c0f0ba    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|EXTRACT_VARIABLE]
+dad5c154505cc81b75e7a4c5b966990abb76fcce e3c15b320279ad4246b3f8412bb6f590450981cc    :
+e7fcfb97c967c8826189f8471cf53b20138b92d7 dad5c154505cc81b75e7a4c5b966990abb76fcce    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|INVERT_CONDITION]
+99c13a1464a75311a3af7cf94647eff8084ae7f5 e7fcfb97c967c8826189f8471cf53b20138b92d7    :[ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysIndexController.java|EXTRACT_VARIABLE]
+6374f3e3ff6eee3ba75d4abb7226ffdeed5c5496 99c13a1464a75311a3af7cf94647eff8084ae7f5    :
+0a383753a3b4f54e5ec9cd45d1b5eda1a1493115 6374f3e3ff6eee3ba75d4abb7226ffdeed5c5496    :[ruoyi-admin/src/main/java/com/ruoyi/RuoYiApplication.java|RENAME_PARAMETER, ruoyi-admin/src/main/java/com/ruoyi/web/controller/demo/controller/DemoDialogController.java|RENAME_ATTRIBUTE, ruoyi-admin/src/main/java/com/ruoyi/web/controller/monitor/CacheController.java|RENAME_ATTRIBUTE, ruoyi-admin/src/main/java/com/ruoyi/web/controller/monitor/CacheController.java|RENAME_PARAMETER, ruoyi-admin/src/main/java/com/ruoyi/web/controller/monitor/SysUserOnlineController.java|RENAME_ATTRIBUTE, ruoyi-admin/src/main/java/com/ruoyi/web/controller/monitor/SysUserOnlineController.java|RENAME_VARIABLE, ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysDeptController.java|INVERT_CONDITION, ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysUserController.java|RENAME_PARAMETER, ruoyi-admin/src/main/java/com/ruoyi/web/controller/system/SysUserController.java|RENAME_VARIABLE]
+ffcffde3a1f489ebaddffad624e591ae351f0863 10e538b5a6e843d54dcdd8f4aa462dc4e3d13565    :
+2583e0529c71156756b82837aedcbaab174c67ea ffcffde3a1f489ebaddffad624e591ae351f0863    :
+7abfb686c8d06b374685cd4aaf37f5ae0bd0ad56 2583e0529c71156756b82837aedcbaab174c67ea    :
+92bd90f71b77d9a9e9c0556d2c631d1e6ea14fb0 7abfb686c8d06b374685cd4aaf37f5ae0bd0ad56    :
+8df28322b9f228e59829e40e46b55d0d1989721a 92bd90f71b77d9a9e9c0556d2c631d1e6ea14fb0    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_VARIABLE]
+b77fecf219535e4cd53b5602a92ac46981cf29b0 8df28322b9f228e59829e40e46b55d0d1989721a    :
+12a14b8f15ef3dadf1c6e4cac2311b9181870869 b77fecf219535e4cd53b5602a92ac46981cf29b0    :
+8b4bce030a6dfec6558a81c55315e57001329b89 12a14b8f15ef3dadf1c6e4cac2311b9181870869    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|INLINE_VARIABLE]
+7927332b3c01918ef4d24816acafd61eeee4343e 8b4bce030a6dfec6558a81c55315e57001329b89    :
+b8e6d08a244c50ad892a5dd8a504846dd7e1cb2a 7927332b3c01918ef4d24816acafd61eeee4343e    :
+81d3cca0bedb4341710204a4221d0272bbcb7cf8 b8e6d08a244c50ad892a5dd8a504846dd7e1cb2a    :
+836c01be37cd3ffeed6059a3f2a079880bc30de9 81d3cca0bedb4341710204a4221d0272bbcb7cf8    :
+4ef203337de37d8bf5c02e8282a1525cfd030641 836c01be37cd3ffeed6059a3f2a079880bc30de9    :
+34810b4d99de65ee010a0c7394f35652deced1cd 4ef203337de37d8bf5c02e8282a1525cfd030641    :
+4c6e53ff4e0e04726c14194716aed3c1a57cd98a 34810b4d99de65ee010a0c7394f35652deced1cd    :
+b7f2b68f0fe6c589f34480368b521aee37a71684 4c6e53ff4e0e04726c14194716aed3c1a57cd98a    :
+514044743245ee3ecf272f767014dda98aecb4a2 b7f2b68f0fe6c589f34480368b521aee37a71684    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|EXTRACT_VARIABLE]
+ff9e9d44b4cc30ca8eb0083fa2b0fced9cceb64d 514044743245ee3ecf272f767014dda98aecb4a2    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_PARAMETER, src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_VARIABLE]
+0a72bb73dc57db21a690f78a47d947c14ffbe1c4 ff9e9d44b4cc30ca8eb0083fa2b0fced9cceb64d    :
+55d3dbba86f23393e622cbe0289111dc541afc9a 0a72bb73dc57db21a690f78a47d947c14ffbe1c4    :
+62ed0417c4726ea481d80085ef06e304563707a6 55d3dbba86f23393e622cbe0289111dc541afc9a    :
+171cf5a03b99627b54dbb425e368836a47a74282 62ed0417c4726ea481d80085ef06e304563707a6    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_ATTRIBUTE, src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_VARIABLE]
+a05954785e665d75e3ffd392f815d67aad772424 171cf5a03b99627b54dbb425e368836a47a74282    :
+7894182ddac91143241fc1c412fc604347e76822 a05954785e665d75e3ffd392f815d67aad772424    :
+6c3ddeeb76a850e36cd206f7c1f7ed37ba9dbdf8 7894182ddac91143241fc1c412fc604347e76822    :
+0ca9de7529447d7d736cf07f47431197fb26264f 6c3ddeeb76a850e36cd206f7c1f7ed37ba9dbdf8    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|EXTRACT_VARIABLE]
+901dc99d60aa6366f26dd6631f052acca4211f4a 0ca9de7529447d7d736cf07f47431197fb26264f    :
+52acd46e5bf6b47c9bdd3c6f3f0bf47dd35b14d4 901dc99d60aa6366f26dd6631f052acca4211f4a    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_PARAMETER, src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_VARIABLE]
+4fca0f4d3b476b9a92c310b22a88d591704ca26a 52acd46e5bf6b47c9bdd3c6f3f0bf47dd35b14d4    :
+c111eabbc2c180c16425e1f4a3b148feb4937a7e 4fca0f4d3b476b9a92c310b22a88d591704ca26a    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|EXTRACT_VARIABLE]
+ce21eb6adcf88e91c34a0807482f66fc4dadbbc4 c111eabbc2c180c16425e1f4a3b148feb4937a7e    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_ATTRIBUTE, src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_PARAMETER]
+c401ae6be4acfc6434f6e82c8927daa466ccee1c ce21eb6adcf88e91c34a0807482f66fc4dadbbc4    :
+9784105aaa4cf91ce2780dcd9385b024471b0838 c401ae6be4acfc6434f6e82c8927daa466ccee1c    :
+20bdd7a963cc71acb6f7238322795d6953a6a213 9784105aaa4cf91ce2780dcd9385b024471b0838    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_ATTRIBUTE]
+974618aad611f98c38b4f8d1c9dda5f5931542a9 20bdd7a963cc71acb6f7238322795d6953a6a213    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_ATTRIBUTE, src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_PARAMETER]
+36fa23d8100388e5a2d44b223c37553fb565e209 974618aad611f98c38b4f8d1c9dda5f5931542a9    :
+8fd2bfe5aa78cde829b72f676f631266a8b68e23 36fa23d8100388e5a2d44b223c37553fb565e209    :
+f8eaf6311821afffe2aa62f30c6c7698e190349d 8fd2bfe5aa78cde829b72f676f631266a8b68e23    :
+f4dee44ec594a48273fe2983e32b4346e511fbfd f8eaf6311821afffe2aa62f30c6c7698e190349d    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_ATTRIBUTE, src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_PARAMETER]
+f88ba4a3d4be23c5d002481173b1c44dadc8633a f4dee44ec594a48273fe2983e32b4346e511fbfd    :
+a933fd2811d8386716a6d749f064620e9f079541 f88ba4a3d4be23c5d002481173b1c44dadc8633a    :
+3c0df8509735756441afcc3a7817e19612e8ec14 a933fd2811d8386716a6d749f064620e9f079541    :
+f9398b2859a850a674f6c738e96ab7febaf10b8f 3c0df8509735756441afcc3a7817e19612e8ec14    :
+0530b8604ed43ee5f757a7e1fc5241967f8d9646 f9398b2859a850a674f6c738e96ab7febaf10b8f    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_ATTRIBUTE, src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_PARAMETER]
+aa4a4e32a3bd5ec11ae197da84b0b6055f4f2e2e 0530b8604ed43ee5f757a7e1fc5241967f8d9646    :
+8994c5f66c4a2cc1bb956a9bad915fcbb8d3bd2e aa4a4e32a3bd5ec11ae197da84b0b6055f4f2e2e    :
+908562250a6d9723c2a6c4a18882f4521be71108 8994c5f66c4a2cc1bb956a9bad915fcbb8d3bd2e    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_ATTRIBUTE, src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_PARAMETER]
+50baa398e8c3d5d973c924e208ac11a4ae0498bc 908562250a6d9723c2a6c4a18882f4521be71108    :
+f85c6d3f696cbf7032417ad1690429ca3e007c14 50baa398e8c3d5d973c924e208ac11a4ae0498bc    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_ATTRIBUTE, src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_PARAMETER]
+a0062c7e234033d40846500f41880ebe597f911f f85c6d3f696cbf7032417ad1690429ca3e007c14    :[src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_ATTRIBUTE, src/main/java/org/owasp/webgoat/lessons/logging/LogBleedingTask.java|RENAME_PARAMETER]
+353a2ceed11912b7962455ac25e032b82d09e0c2 a0062c7e234033d40846500f41880ebe597f911f    :
+5b58f987fc653d5f9bdb35681843a6a9f11291fe 4460770f163b2b48628d56608a1277c9bc18ea8e    :
+516d7c51d3a1c88075548eb30bd719bf18930646 5b58f987fc653d5f9bdb35681843a6a9f11291fe    :
+44f3ff6c7194992615c6bb445ee7399ecf8cbd53 516d7c51d3a1c88075548eb30bd719bf18930646    :
+0928d36d154163a76633fe658d21b8c108b89062 44f3ff6c7194992615c6bb445ee7399ecf8cbd53    :
+d8b7500538750e3a14f580e3de713147fda08d8c 0928d36d154163a76633fe658d21b8c108b89062    :[spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/PropertyConverter.java|RENAME_ATTRIBUTE, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/PropertyConverter.java|RENAME_VARIABLE]
+505014cc4826d15a6a3120555cd7fed052e7c58d d8b7500538750e3a14f580e3de713147fda08d8c    :[spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/PropertyConverter.java|INVERT_CONDITION]
+6b3504324eed014301010a71736a3b38bcb1c11d 505014cc4826d15a6a3120555cd7fed052e7c58d    :
+03dd7566545159f113e5d7c357b0f53dfa874820 6b3504324eed014301010a71736a3b38bcb1c11d    :
+33134801b8b00b505656cf8a2792ad702f55a022 03dd7566545159f113e5d7c357b0f53dfa874820    :
+32a819e239be053efce0b2f6ce65b39131078eba 33134801b8b00b505656cf8a2792ad702f55a022    :
+707d467c0d596c1b27dcba1d570ac01ab0a270b4 32a819e239be053efce0b2f6ce65b39131078eba    :[spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/PropertyConverter.java|EXTRACT_VARIABLE]
+e2e5dacc2130a5a04ac34018e82f4ed468e792f3 707d467c0d596c1b27dcba1d570ac01ab0a270b4    :
+9c2229bda56a632d10672d7f79ab889cfb11319d e2e5dacc2130a5a04ac34018e82f4ed468e792f3    :[spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/PropertyConverter.java|RENAME_ATTRIBUTE]
+7391801739f6c1ae63fbde6d59d73ad766449f9f 9c2229bda56a632d10672d7f79ab889cfb11319d    :
+7a65abdf0d5ac924940d1834ab780c8c5b2ffa61 7391801739f6c1ae63fbde6d59d73ad766449f9f    :
+bd3561f3affa1ddd1312d1c516821295e683b81f 7a65abdf0d5ac924940d1834ab780c8c5b2ffa61    :[spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/PropertyConverter.java|RENAME_ATTRIBUTE, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/PropertyConverter.java|RENAME_PARAMETER]
+3a6b50311b81cf0e16382d6682364f083669f3fd bd3561f3affa1ddd1312d1c516821295e683b81f    :
+dbd455b749551455f95333bf588cedafafef8e6c 3a6b50311b81cf0e16382d6682364f083669f3fd    :
+b3f8bb5667faea88a57cb92bfcdaa22e2f6bcefb dbd455b749551455f95333bf588cedafafef8e6c    :
+c850ce0ed1d18a0e761d4207c5a188a014e3ffb1 b3f8bb5667faea88a57cb92bfcdaa22e2f6bcefb    :
+c75b7f1976e8c42b62994b85848d310bf1480870 c850ce0ed1d18a0e761d4207c5a188a014e3ffb1    :[spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/PropertyConverter.java|RENAME_ATTRIBUTE, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/PropertyConverter.java|RENAME_VARIABLE]
+6f69a542dd15d838731deadb7d8d572a486a1edc c75b7f1976e8c42b62994b85848d310bf1480870    :[spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/PropertyConverter.java|RENAME_PARAMETER]
+cb2e39e45af2faa1ebfbfa8e15a8126f761f716f 6f69a542dd15d838731deadb7d8d572a486a1edc    :
+980d626d82bf3fee8ac6f64bbf8f6d2469b8b154 cb2e39e45af2faa1ebfbfa8e15a8126f761f716f    :
+5081fbe43acb0382c7bffe52027f210b301d1c06 980d626d82bf3fee8ac6f64bbf8f6d2469b8b154    :
+2b5ca1bdf189d9ea5a8b6b98337feb782166fc3e 5081fbe43acb0382c7bffe52027f210b301d1c06    :[spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/Neo4jConversionServiceFactoryBean.java|INVERT_CONDITION, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/Neo4jConversionServiceFactoryBean.java|RENAME_PARAMETER, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/fieldaccess/Neo4jConversionServiceFactoryBean.java|RENAME_VARIABLE, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/lifecycle/BeforeSaveEvent.java|RENAME_PARAMETER, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/mapping/Neo4JPersistentPropertyImpl.java|EXTRACT_VARIABLE, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/mapping/Neo4JPersistentPropertyImpl.java|INVERT_CONDITION, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/mapping/SourceStateTransmitter.java|INVERT_CONDITION, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/mapping/SourceStateTransmitter.java|RENAME_PARAMETER, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/mapping/SourceStateTransmitter.java|RENAME_VARIABLE, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/path/EntityMapper.java|RENAME_PARAMETER, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/typerepresentation/IndexingNodeTypeRepresentationStrategy.java|RENAME_ATTRIBUTE, spring-data-neo4j/src/main/java/org/springframework/data/neo4j/support/typerepresentation/IndexingNodeTypeRepresentationStrategy.java|RENAME_PARAMETER]
+64bbd48f01720d5a4d469932ed8d83b5e9e94a4b 2b5ca1bdf189d9ea5a8b6b98337feb782166fc3e    :[spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/SpringProvider.java|RENAME_PARAMETER]
+43be5d3ae85fd66ef1919d323cc09b590eafcaaa 64bbd48f01720d5a4d469932ed8d83b5e9e94a4b    :[spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/SpringProvider.java|RENAME_PARAMETER]
+ea4973121990ff9ef082655885cde92e0362513b 43be5d3ae85fd66ef1919d323cc09b590eafcaaa    :[spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/SpringProvider.java|RENAME_PARAMETER]
+74fb43767db8f5f136d145c193ea9b781cb5c0b2 ea4973121990ff9ef082655885cde92e0362513b    :[spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/SpringProvider.java|RENAME_PARAMETER]
+d2b03abc13d45cd8edf2071ce1584e57292f811b 74fb43767db8f5f136d145c193ea9b781cb5c0b2    :[spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/ChainedTransactionManager.java|INVERT_CONDITION, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/ChainedTransactionManager.java|RENAME_ATTRIBUTE, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/ChainedTransactionManager.java|RENAME_PARAMETER, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/ChainedTransactionManager.java|RENAME_VARIABLE, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/MultiTransactionStatus.java|RENAME_ATTRIBUTE, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/MultiTransactionStatus.java|RENAME_PARAMETER, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/MultiTransactionStatus.java|RENAME_VARIABLE, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/SpringProvider.java|RENAME_PARAMETER, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/SpringServiceImpl.java|RENAME_PARAMETER, spring-data-neo4j-tx/src/main/java/org/springframework/data/neo4j/transaction/SpringServiceImpl.java|RENAME_VARIABLE]
+199d2e991fdfe1a7e0d5a11a177f98feed2f66de d2b03abc13d45cd8edf2071ce1584e57292f811b    :[spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestResult.java|RENAME_PARAMETER, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestResult.java|RENAME_VARIABLE]
+d96a57b668babacbd35907bf18f58e203e4b3545 199d2e991fdfe1a7e0d5a11a177f98feed2f66de    :[spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringHandler.java|RENAME_PARAMETER, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestCypherQueryEngine.java|RENAME_ATTRIBUTE, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestCypherQueryEngine.java|RENAME_PARAMETER, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestGraphDatabase.java|EXTRACT_VARIABLE, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestGraphDatabase.java|RENAME_PARAMETER, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestGremlinQueryEngine.java|RENAME_ATTRIBUTE, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestGremlinQueryEngine.java|RENAME_PARAMETER, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestResult.java|RENAME_PARAMETER, spring-data-neo4j-rest/src/main/java/org/springframework/data/neo4j/rest/SpringRestResult.java|RENAME_VARIABLE]
+a429b568193c56548cccf22516599aa1035f3cdc d96a57b668babacbd35907bf18f58e203e4b3545    :[spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_ATTRIBUTE]
+a7327a53b05d588270a1c25c8726d34863215fe3 a429b568193c56548cccf22516599aa1035f3cdc    :[spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_PARAMETER]
+a58b8f2586efa374cf501acb3ea52b075b3422f4 a7327a53b05d588270a1c25c8726d34863215fe3    :[spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_VARIABLE]
+edf712755f03cff367ff413b0a015d4d39b9f8ca a58b8f2586efa374cf501acb3ea52b075b3422f4    :[spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_PARAMETER]
+05040ad505f1ef7d4e4a7d6c2790b4b632375fd6 edf712755f03cff367ff413b0a015d4d39b9f8ca    :[spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_PARAMETER]
+12da8c659f2171ef6c1ffbf7669caa7cdd8c3ce1 05040ad505f1ef7d4e4a7d6c2790b4b632375fd6    :[spring-data-neo4j-examples/todos/src/main/java/Main.java|EXTRACT_VARIABLE, spring-data-neo4j-examples/todos/src/main/java/Main.java|RENAME_VARIABLE, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_PARAMETER, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/Todo.java|RENAME_VARIABLE, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/TodoController.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/TodoController.java|RENAME_PARAMETER, spring-data-neo4j-examples/todos/src/main/java/org/neo4j/app/todos/TodoController.java|RENAME_VARIABLE]
+2506230a8d41fa16038101968d3bd7b373350dc1 12da8c659f2171ef6c1ffbf7669caa7cdd8c3ce1    :
+b160343746ffaa04c22701f4fe3f7610526a5215 2506230a8d41fa16038101968d3bd7b373350dc1    :
+1df430130d2ae39c5141651b85bec36275518a98 b160343746ffaa04c22701f4fe3f7610526a5215    :
+5040ac27682a703d1f175ecb167c882fcdd7ce0d 1df430130d2ae39c5141651b85bec36275518a98    :
+4ac72ab3418622033367a438e5fd66474dac34cd 5040ac27682a703d1f175ecb167c882fcdd7ce0d    :
+5b366735af422f38df43347482374dec135d1f3f 4ac72ab3418622033367a438e5fd66474dac34cd    :
+c465d81643aaa8eb3468a662ed29d6baf1e91ce9 5b366735af422f38df43347482374dec135d1f3f    :
+78c826c2527a7ad4289374b94e4a4c526674fe34 c465d81643aaa8eb3468a662ed29d6baf1e91ce9    :
+57d2bb079d1c65e637dbb729445a1a29b5f4f0f2 78c826c2527a7ad4289374b94e4a4c526674fe34    :[spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/data/UserAccountRepository.java|RENAME_VARIABLE]
+428b3598bd236db2d36ea118b251c6dd973f2da7 57d2bb079d1c65e637dbb729445a1a29b5f4f0f2    :
+c2a383e5f82a8aacd7ab6ae44cf00ea75223f150 428b3598bd236db2d36ea118b251c6dd973f2da7    :[spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/data/UserAccountRepository.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/data/UserAccountRepository.java|RENAME_VARIABLE]
+7325a32775155df1e18b0372d823125d9c89c06e c2a383e5f82a8aacd7ab6ae44cf00ea75223f150    :[spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/data/UserAccountRepository.java|RENAME_PARAMETER]
+bd2ee8eef80da56a0da8e2aca02d61f1e863c06e 7325a32775155df1e18b0372d823125d9c89c06e    :[spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/data/UserAccountRepository.java|RENAME_PARAMETER]
+7a541d3404448b349e777e49a7d2c28adab0d1d1 bd2ee8eef80da56a0da8e2aca02d61f1e863c06e    :
+f189aa3ac6aa65ceebb451d0e019902286dcde2d 7a541d3404448b349e777e49a7d2c28adab0d1d1    :
+9c843b62e410322540003d7140a9ee08f55a1508 f189aa3ac6aa65ceebb451d0e019902286dcde2d    :
+7cbfdb1069a1dbf5a99b3f300498e9dbdfd64487 9c843b62e410322540003d7140a9ee08f55a1508    :[spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/data/UserAccountRepository.java|RENAME_PARAMETER, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/data/UserAccountRepository.java|RENAME_VARIABLE]
+2d9683531a259f7b95dc49a2f4f51bf680b3c82c 7cbfdb1069a1dbf5a99b3f300498e9dbdfd64487    :
+1a94ebe2af64ffef288c2490d40bf2b4d416a91e 2d9683531a259f7b95dc49a2f4f51bf680b3c82c    :
+967f6ecc23815ca043025b2762530da949838473 1a94ebe2af64ffef288c2490d40bf2b4d416a91e    :[spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/domain/Restaurant.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/domain/Restaurant.java|RENAME_PARAMETER, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/domain/TopRatedRestaurantFinder.java|RENAME_PARAMETER, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/domain/TopRatedRestaurantFinder.java|RENAME_VARIABLE, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/web/BaseApplicationController.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/web/BaseApplicationController.java|RENAME_PARAMETER, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/web/BaseApplicationController.java|RENAME_VARIABLE, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/web/FriendController.java|EXTRACT_VARIABLE, spring-data-neo4j-examples/myrestaurants-social/src/main/java/com/springone/myrestaurants/web/FriendController.java|INVERT_CONDITION]
+ed5a2281c4d8b9bac03f4fafc7263fac110d34f2 967f6ecc23815ca043025b2762530da949838473    :[spring-data-neo4j-examples/myrestaurants-original/src/main/java/com/springone/myrestaurants/dao/RestaurantDao.java|RENAME_PARAMETER]
+c9fbb94b4fc8da09225c8e3626bc78dc0fec36fc ed5a2281c4d8b9bac03f4fafc7263fac110d34f2    :[spring-data-neo4j-examples/myrestaurants-original/src/main/java/com/springone/myrestaurants/dao/RestaurantDao.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/myrestaurants-original/src/main/java/com/springone/myrestaurants/dao/RestaurantDao.java|RENAME_PARAMETER]
+704e7b65b1ffdcc631a125947235ddb53b5f4dc6 c9fbb94b4fc8da09225c8e3626bc78dc0fec36fc    :
+7d403b86ea4e28e65081927fbe35ee72754e9f0f 704e7b65b1ffdcc631a125947235ddb53b5f4dc6    :
+93b9393fe3a0f719bfefccd6949e447501d07b52 7d403b86ea4e28e65081927fbe35ee72754e9f0f    :
+29372f431cdc5c655b4ad910ca2a7547d7c808bc 93b9393fe3a0f719bfefccd6949e447501d07b52    :
+ba5864539a5c3a872b5b133cc0543dad9bd2025e 29372f431cdc5c655b4ad910ca2a7547d7c808bc    :[spring-data-neo4j-examples/myrestaurants-original/src/main/java/com/springone/myrestaurants/dao/RestaurantDao.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/myrestaurants-original/src/main/java/com/springone/myrestaurants/dao/RestaurantDao.java|RENAME_PARAMETER]
+816ea32384888f6a9fa5ec5f98b9a5f3f729af9d ba5864539a5c3a872b5b133cc0543dad9bd2025e    :
+0f354f30b1d362c3b7c1b7540b09e5cb3f2de1a0 816ea32384888f6a9fa5ec5f98b9a5f3f729af9d    :
+c67285bc241adf5b3edd4783da04319ffb4d7f88 0f354f30b1d362c3b7c1b7540b09e5cb3f2de1a0    :[spring-data-neo4j-examples/myrestaurants-original/src/main/java/com/springone/myrestaurants/domain/UserAccount.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/myrestaurants-original/src/main/java/com/springone/myrestaurants/domain/UserAccount.java|RENAME_PARAMETER, spring-data-neo4j-examples/myrestaurants-original/src/main/java/com/springone/myrestaurants/domain/UserAccount.java|RENAME_VARIABLE, spring-data-neo4j-examples/myrestaurants-original/src/main/java/com/springone/myrestaurants/web/BaseApplicationController.java|RENAME_PARAMETER, spring-data-neo4j-examples/myrestaurants-original/src/main/java/com/springone/myrestaurants/web/BaseApplicationController.java|RENAME_VARIABLE]
+6ea77ea527bd9e4f7578036c4583a517991dccdf c67285bc241adf5b3edd4783da04319ffb4d7f88    :
+c394fe098d0f93ed1f96032fe888f1ad5f678d84 6ea77ea527bd9e4f7578036c4583a517991dccdf    :[spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ImdbSetupControllerDelegate.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ImdbSetupControllerDelegate.java|RENAME_VARIABLE]
+ce8393c2dc521d9e2d597a70bdb12dc027b1caaa c394fe098d0f93ed1f96032fe888f1ad5f678d84    :[spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ImdbSetupControllerDelegate.java|RENAME_ATTRIBUTE]
+7ca97eb56aaa8b64ba9d25512efcc343c66b0164 ce8393c2dc521d9e2d597a70bdb12dc027b1caaa    :
+11e1b844ed2e7dd289a1125933649698ffa4ff3f 7ca97eb56aaa8b64ba9d25512efcc343c66b0164    :[spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ImdbSetupControllerDelegate.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ImdbSetupControllerDelegate.java|RENAME_PARAMETER]
+6f6cc4ee255406cd506d58cbbbdef8f1ff95201c 11e1b844ed2e7dd289a1125933649698ffa4ff3f    :[spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ImdbSetupControllerDelegate.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ImdbSetupControllerDelegate.java|RENAME_PARAMETER]
+30b035f17f47f21128a306a16f88082939235190 6f6cc4ee255406cd506d58cbbbdef8f1ff95201c    :[spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ImdbSetupControllerDelegate.java|RENAME_VARIABLE]
+8709bbc5dea38ec4b3f40049e68275122f1a36ee 30b035f17f47f21128a306a16f88082939235190    :
+71624c6d50ce7d8cb27c7d8569ae13a0381b48ca 8709bbc5dea38ec4b3f40049e68275122f1a36ee    :[spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/parser/ActorData.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/parser/ActorData.java|RENAME_PARAMETER, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/parser/ImdbParser.java|ADD_VARIABLE_MODIFIER, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/parser/ImdbReader.java|RENAME_PARAMETER, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/parser/RoleData.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/parser/RoleData.java|RENAME_PARAMETER, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ActorFindControllerDelegate.java|INVERT_CONDITION, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ActorFindControllerDelegate.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ActorFindControllerDelegate.java|RENAME_PARAMETER, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ActorFindControllerDelegate.java|RENAME_VARIABLE, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ActorInfo.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/ActorInfo.java|RENAME_PARAMETER, spring-data-neo4j-examples/imdb/src/main/java/org/neo4j/examples/imdb/web/SetupControllerDelegate.java|RENAME_PARAMETER]
+511f8c9e7efd9e74911ccd6b3f2e4d14fc7bb90a 71624c6d50ce7d8cb27c7d8569ae13a0381b48ca    :
+5a6cf441eca2ddffb86e2f18461c64b8a2b3f143 511f8c9e7efd9e74911ccd6b3f2e4d14fc7bb90a    :
+0061be1036776e0d0845fce30a15f759cfe5e4f8 5a6cf441eca2ddffb86e2f18461c64b8a2b3f143    :
+8118c819beccc310c8cf095c25db51e6feca7a9d 0061be1036776e0d0845fce30a15f759cfe5e4f8    :
+1da1dda38ebd354f3bf7bad1e128fea0229d4dd5 8118c819beccc310c8cf095c25db51e6feca7a9d    :
+373e0459675ffee4ae623f7904de77b8f4a2a6ae 1da1dda38ebd354f3bf7bad1e128fea0229d4dd5    :
+d351f969b4a2a47b20cc3fb5b2b9464b0b3d6632 373e0459675ffee4ae623f7904de77b8f4a2a6ae    :
+6f00c04c53c64b971f850cb9e9e34c5831f277e2 d351f969b4a2a47b20cc3fb5b2b9464b0b3d6632    :
+3ffd2a5618720751392831757eb44f298744bc58 6f00c04c53c64b971f850cb9e9e34c5831f277e2    :
+13beef8ed50723f627c3395ffce53ddf959c02de 3ffd2a5618720751392831757eb44f298744bc58    :
+d7cf86a6de8f8227459a01e5eded79f6eb225d30 13beef8ed50723f627c3395ffce53ddf959c02de    :
+25c7848e909e506f035ac564a58da62170404d93 d7cf86a6de8f8227459a01e5eded79f6eb225d30    :[spring-data-neo4j-examples/hello-worlds/src/main/java/org/springframework/data/neo4j/examples/hellograph/GalaxyService.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/hello-worlds/src/main/java/org/springframework/data/neo4j/examples/hellograph/GalaxyService.java|RENAME_PARAMETER, spring-data-neo4j-examples/hello-worlds/src/main/java/org/springframework/data/neo4j/examples/hellograph/GalaxyService.java|RENAME_VARIABLE]
+3514ac731393f504b374a48df1eab2fada0cd4c9 25c7848e909e506f035ac564a58da62170404d93    :[spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/service/DatabasePopulator.java|RENAME_VARIABLE]
+a9a5d8224d4d716f04529d6797dce3cc35e851cb 3514ac731393f504b374a48df1eab2fada0cd4c9    :
+7b44df66c5a5ee203fa9b8fa5a1be2c40744d466 a9a5d8224d4d716f04529d6797dce3cc35e851cb    :[spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/controller/ImportController.java|EXTRACT_VARIABLE, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/controller/MovieController.java|EXTRACT_VARIABLE, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/controller/MovieController.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/controller/MovieController.java|RENAME_VARIABLE, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/domain/Actor.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/domain/Actor.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/domain/Director.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/domain/Role.java|INVERT_CONDITION, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/domain/Role.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/domain/User.java|EXTRACT_VARIABLE, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/movieimport/MovieDbImportService.java|INVERT_CONDITION, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/movieimport/MovieDbImportService.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/movieimport/MovieDbImportService.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts/src/main/java/org/neo4j/cineasts/movieimport/MovieDbImportService.java|RENAME_VARIABLE]
+78a4d84bc21e319c099935e6c2c4aeb65e459cb3 7b44df66c5a5ee203fa9b8fa5a1be2c40744d466    :[spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/domain/Person.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/domain/Person.java|RENAME_PARAMETER]
+9d1e3d93a58c2e1721411fad14f6f942fb28a00b 78a4d84bc21e319c099935e6c2c4aeb65e459cb3    :[spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/domain/Person.java|RENAME_PARAMETER]
+c1ad9cc552e358cb7a35392bc1f37d8e43380b13 9d1e3d93a58c2e1721411fad14f6f942fb28a00b    :
+7f39d4733fc5b6ef5e3dfd86008eb9b05e6e2be4 c1ad9cc552e358cb7a35392bc1f37d8e43380b13    :
+f057775c4dddbea5df76e2c65f53f630cfb9e694 7f39d4733fc5b6ef5e3dfd86008eb9b05e6e2be4    :
+376dbe166237e2ebfcdc51c05bd6b31f6fc67f92 f057775c4dddbea5df76e2c65f53f630cfb9e694    :[spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/domain/Person.java|RENAME_ATTRIBUTE]
+e486b776b1ffb2d28dbe6e0c2d453199b9136ecd 376dbe166237e2ebfcdc51c05bd6b31f6fc67f92    :
+69a59656f0c1cb92a7779a1534b8446b8c4e4c51 e486b776b1ffb2d28dbe6e0c2d453199b9136ecd    :[spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/domain/Person.java|RENAME_ATTRIBUTE]
+5ce2c76d53b0b129ca1de0326147dfdd71ce91d5 69a59656f0c1cb92a7779a1534b8446b8c4e4c51    :[spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/domain/Movie.java|EXTRACT_VARIABLE, spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/domain/Movie.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/domain/Movie.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/movieimport/MovieDbJsonMapper.java|EXTRACT_VARIABLE, spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/service/DatabasePopulator.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/service/DatabasePopulator.java|RENAME_VARIABLE, spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/service/FriendsMovieRecommendations.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/service/FriendsMovieRecommendations.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts-rest/src/main/java/org/neo4j/cineasts/service/FriendsMovieRecommendations.java|RENAME_VARIABLE]
+49ea434e4ab355c78392ccd72820bb2812d6f510 5ce2c76d53b0b129ca1de0326147dfdd71ce91d5    :[spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/repository/PersonRepository.java|RENAME_PARAMETER]
+058c48a362a6e71796364479f0c750285f20d607 49ea434e4ab355c78392ccd72820bb2812d6f510    :[spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/repository/PersonRepository.java|RENAME_PARAMETER]
+284c151bf0ebf2c7a9d026bd4a919ec4c6bc48e8 058c48a362a6e71796364479f0c750285f20d607    :[spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/repository/PersonRepository.java|RENAME_PARAMETER]
+e18fce4c6d4a371a01373bba36dad5d6a906cc92 284c151bf0ebf2c7a9d026bd4a919ec4c6bc48e8    :[spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/repository/PersonRepository.java|RENAME_PARAMETER]
+ef94b2396c04d1ab48051d8d8b3b8350e16f1c87 e18fce4c6d4a371a01373bba36dad5d6a906cc92    :[spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/repository/PersonRepository.java|RENAME_PARAMETER]
+50c7f82ec539c94e5182b1c83029da3275d58edb ef94b2396c04d1ab48051d8d8b3b8350e16f1c87    :
+c8cefa96747389272f64a2e1568a1cc264a409e2 50c7f82ec539c94e5182b1c83029da3275d58edb    :
+7e51a3699fa0f91c972edaecbb9ad1b33cdb1243 c8cefa96747389272f64a2e1568a1cc264a409e2    :
+9e49e7f176cffa4094ba32b141944b726681b734 7e51a3699fa0f91c972edaecbb9ad1b33cdb1243    :[spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/service/CineastsUserDetailsService.java|EXTRACT_VARIABLE]
+469806f53ef472c6f2843552c3c80504048966ff 9e49e7f176cffa4094ba32b141944b726681b734    :[spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/service/CineastsUserDetailsService.java|EXTRACT_VARIABLE]
+678becf0ba668f34c4e97eb6b64ca86d734d825f 469806f53ef472c6f2843552c3c80504048966ff    :[spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/service/CineastsUserDetailsService.java|SPLIT_CONDITIONAL]
+7b7365817439f72043c8b785a227ecac2fc90074 678becf0ba668f34c4e97eb6b64ca86d734d825f    :
+ef5672b024425a151a693f96407d6e91d88881dc 7b7365817439f72043c8b785a227ecac2fc90074    :
+3892d1957b16cabbc5a64c9e0fdda1fb80cdc627 ef5672b024425a151a693f96407d6e91d88881dc    :[spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/controller/ImportController.java|EXTRACT_VARIABLE, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/controller/ImportController.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/controller/ImportController.java|RENAME_VARIABLE, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/controller/MovieController.java|EXTRACT_VARIABLE, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/controller/MovieController.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/controller/MovieController.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/controller/MovieController.java|RENAME_VARIABLE, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/domain/Movie.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/domain/Movie.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/domain/Movie.java|RENAME_VARIABLE, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/domain/Rating.java|EXTRACT_VARIABLE, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/domain/Role.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/domain/Role.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/service/MovieRecommendations.java|RENAME_ATTRIBUTE, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/service/MovieRecommendations.java|RENAME_PARAMETER, spring-data-neo4j-examples/cineasts-aspects/src/main/java/org/neo4j/cineasts/service/MovieRecommendations.java|RENAME_VARIABLE]
+2605c4df66a496abc7ac9cd3da3c82c0411367d0 3892d1957b16cabbc5a64c9e0fdda1fb80cdc627    :[spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeDelegatingFieldAccessorFactory.java|RENAME_PARAMETER]
+a9de744ce2b41a44cbd97782a457f244aa2cbd4f 2605c4df66a496abc7ac9cd3da3c82c0411367d0    :[spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeDelegatingFieldAccessorFactory.java|RENAME_PARAMETER]
+3ef4f851b06e2b4f35fd552864ef1f71d34ee3a2 a9de744ce2b41a44cbd97782a457f244aa2cbd4f    :[spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeDelegatingFieldAccessorFactory.java|RENAME_PARAMETER]
+379312449833a6099199c949f4a6d693159e97bb 3ef4f851b06e2b4f35fd552864ef1f71d34ee3a2    :[spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeDelegatingFieldAccessorFactory.java|RENAME_PARAMETER]
+be83f08dbae96c788bdbab6f68409bc3285a76cf 379312449833a6099199c949f4a6d693159e97bb    :[spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/fieldaccess/JpaIdFieldAccessListenerFactory.java|ADD_PARAMETER, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/fieldaccess/JpaIdFieldAccessListenerFactory.java|REMOVE_PARAMETER, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/fieldaccess/JpaIdFieldAccessListenerFactory.java|RENAME_ATTRIBUTE, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/fieldaccess/JpaIdFieldAccessListenerFactory.java|RENAME_PARAMETER, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeDelegatingFieldAccessorFactory.java|RENAME_PARAMETER, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeEntityInstantiator.java|RENAME_ATTRIBUTE, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeEntityInstantiator.java|RENAME_PARAMETER, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeEntityInstantiator.java|RENAME_VARIABLE, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeEntityState.java|EXTRACT_VARIABLE, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeEntityState.java|RENAME_PARAMETER, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeEntityState.java|RENAME_VARIABLE, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeEntityStateFactory.java|RENAME_ATTRIBUTE, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeEntityStateFactory.java|RENAME_PARAMETER, spring-data-neo4j-cross-store/src/main/java/org/springframework/data/neo4j/cross_store/support/node/CrossStoreNodeEntityStateFactory.java|RENAME_VARIABLE]
+61443ee5d3572a385164455fe18ffbd741e328a3 be83f08dbae96c788bdbab6f68409bc3285a76cf    :
+03e7f499d836dac5503a4f0d33f7ad2f82ae8dbe 61443ee5d3572a385164455fe18ffbd741e328a3    :[spring-data-neo4j-aspects/src/main/java/org/springframework/data/neo4j/aspects/core/NodeBacked.java|RENAME_PARAMETER]
+89e2681b9fdb4791fb9a1de70c1a5150f1b73322 3c729632f715fd331c02f39813dcbeb7cb95145d    :[helios-tools/src/main/java/com/spotify/helios/cli/command/JobRemoveCommand.java|INVERT_CONDITION]
+e8fb43c65350352224a6cfca548aaca04c9f902b 89e2681b9fdb4791fb9a1de70c1a5150f1b73322    :
+8cc26adca4a7decd17435b68db82b61052e1122b e8fb43c65350352224a6cfca548aaca04c9f902b    :[helios-tools/src/main/java/com/spotify/helios/cli/command/JobRemoveCommand.java|RENAME_PARAMETER, helios-tools/src/main/java/com/spotify/helios/cli/command/JobRemoveCommand.java|RENAME_VARIABLE]
+f61afc72642f92157e60e9c1a0ef7172b4024748 8cc26adca4a7decd17435b68db82b61052e1122b    :
+86c34b491d755965b149b32e0631874a36aaa6fd f61afc72642f92157e60e9c1a0ef7172b4024748    :
+6ef04b242ba255b95a1acf8eec0d5a9ca9973ae1 86c34b491d755965b149b32e0631874a36aaa6fd    :
+b60bbf2153927bbf1e6d63772fcad1ebe0a88c64 6ef04b242ba255b95a1acf8eec0d5a9ca9973ae1    :
+44015df435bb68f3f4bf4353ad295212eb06198f b60bbf2153927bbf1e6d63772fcad1ebe0a88c64    :[helios-tools/src/main/java/com/spotify/helios/cli/command/JobRemoveCommand.java|RENAME_PARAMETER, helios-tools/src/main/java/com/spotify/helios/cli/command/JobRemoveCommand.java|RENAME_VARIABLE]
+0fc29ca8fd0c11970bf290a5fc2fc8541c9c3071 44015df435bb68f3f4bf4353ad295212eb06198f    :
+bb9c9086d79e20bff3e154e7be94204d45e97a62 0fc29ca8fd0c11970bf290a5fc2fc8541c9c3071    :
+2a143fc18c41d9f666ddc411618f5d5b6bd0a425 bb9c9086d79e20bff3e154e7be94204d45e97a62    :
+a0c1034e4cf8b61d8c2a1316ae297a60ca20ce23 2a143fc18c41d9f666ddc411618f5d5b6bd0a425    :
+490a09b263492b9724f71c093cbe7a55fb44db0c a0c1034e4cf8b61d8c2a1316ae297a60ca20ce23    :[helios-tools/src/main/java/com/spotify/helios/cli/command/JobRemoveCommand.java|RENAME_PARAMETER, helios-tools/src/main/java/com/spotify/helios/cli/command/JobRemoveCommand.java|RENAME_VARIABLE]
+f9a142adfa4350098ef082eb67ab11f8b2500158 490a09b263492b9724f71c093cbe7a55fb44db0c    :
+4499302df0025eebf3fc3e92021fcfe3011c23a4 f9a142adfa4350098ef082eb67ab11f8b2500158    :
+1ebc08879fe79e5d7df5af2b363a8fd4190f78dd 4499302df0025eebf3fc3e92021fcfe3011c23a4    :
+1158bab774149f6ede9318fdfd8a399154c0f1f6 1ebc08879fe79e5d7df5af2b363a8fd4190f78dd    :
+abc30f89578fea7d937a1b89ebd867d86b5dc7d8 1158bab774149f6ede9318fdfd8a399154c0f1f6    :[helios-tools/src/main/java/com/spotify/helios/cli/command/JobRemoveCommand.java|RENAME_ATTRIBUTE, helios-tools/src/main/java/com/spotify/helios/cli/command/JobRemoveCommand.java|RENAME_VARIABLE]
+d42b9464b7e6270b1a6172d51fd6ba5f389cc1f8 abc30f89578fea7d937a1b89ebd867d86b5dc7d8    :
+1bf57be83e7a32e45da690e94844413814cc5cf7 d42b9464b7e6270b1a6172d51fd6ba5f389cc1f8    :[helios-tools/src/main/java/com/spotify/helios/cli/CliConfig.java|RENAME_ATTRIBUTE, helios-tools/src/main/java/com/spotify/helios/cli/CliConfig.java|RENAME_PARAMETER, helios-tools/src/main/java/com/spotify/helios/cli/CliConfig.java|RENAME_VARIABLE, helios-tools/src/main/java/com/spotify/helios/cli/Target.java|EXTRACT_VARIABLE, helios-tools/src/main/java/com/spotify/helios/cli/command/DeploymentGroupRemoveCommand.java|RENAME_ATTRIBUTE, helios-tools/src/main/java/com/spotify/helios/cli/command/DeploymentGroupRemoveCommand.java|RENAME_PARAMETER, helios-tools/src/main/java/com/spotify/helios/cli/command/DeploymentGroupRemoveCommand.java|RENAME_VARIABLE, helios-tools/src/main/java/com/spotify/helios/cli/command/DeploymentGroupStatusCommand.java|RENAME_ATTRIBUTE, helios-tools/src/main/java/com/spotify/helios/cli/command/DeploymentGroupStatusCommand.java|RENAME_PARAMETER, helios-tools/src/main/java/com/spotify/helios/cli/command/DeploymentGroupStatusCommand.java|RENAME_VARIABLE, helios-tools/src/main/java/com/spotify/helios/cli/command/JobCreateCommand.java|EXTRACT_VARIABLE, helios-tools/src/main/java/com/spotify/helios/cli/command/JobCreateCommand.java|RENAME_ATTRIBUTE, helios-tools/src/main/java/com/spotify/helios/cli/command/JobCreateCommand.java|RENAME_VARIABLE, helios-tools/src/main/java/com/spotify/helios/cli/command/JobListCommand.java|RENAME_PARAMETER, helios-tools/src/main/java/com/spotify/helios/cli/command/JobListCommand.java|RENAME_VARIABLE, helios-tools/src/main/java/com/spotify/helios/cli/command/JobStartCommand.java|RENAME_ATTRIBUTE, helios-tools/src/main/java/com/spotify/helios/cli/command/JobStartCommand.java|RENAME_PARAMETER, helios-tools/src/main/java/com/spotify/helios/cli/command/JobStatusCommand.java|INVERT_CONDITION, helios-tools/src/main/java/com/spotify/helios/cli/command/JobStatusCommand.java|MERGE_CONDITIONAL, helios-tools/src/main/java/com/spotify/helios/cli/command/JobStatusCommand.java|RENAME_PARAMETER, helios-tools/src/main/java/com/spotify/helios/cli/command/JobStatusCommand.java|RENAME_VARIABLE, helios-tools/src/main/java/com/spotify/helios/cli/command/JobWatchCommand.java|RENAME_PARAMETER, helios-tools/src/main/java/com/spotify/helios/cli/command/JobWatchCommand.java|RENAME_VARIABLE]
+0e12d6263c6c1956b04bad853003f5888ad181dc 1bf57be83e7a32e45da690e94844413814cc5cf7    :
+530a1cb32b988b9cbe7920460273d902346cb862 0e12d6263c6c1956b04bad853003f5888ad181dc    :
+c030aa1e48171ebf0140bb1a1b18c77262fd5266 530a1cb32b988b9cbe7920460273d902346cb862    :
+7c83d86550fcec2eacb58b3fc80e56101dbd6c9d c030aa1e48171ebf0140bb1a1b18c77262fd5266    :[helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|RENAME_PARAMETER, helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|RENAME_VARIABLE]
+495f247231e68b5bd253b8b6ac91e546fa54f31a 7c83d86550fcec2eacb58b3fc80e56101dbd6c9d    :
+063b0a777fed4f5114b74fe0b34527f4cc2b05a8 495f247231e68b5bd253b8b6ac91e546fa54f31a    :[helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|INVERT_CONDITION]
+f1192ef1fd393ca419a11a86933eed6c9aa677a6 063b0a777fed4f5114b74fe0b34527f4cc2b05a8    :[helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|RENAME_ATTRIBUTE, helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|RENAME_PARAMETER]
+ad9aef9264b33606c81618f9404f332c7012997b f1192ef1fd393ca419a11a86933eed6c9aa677a6    :
+7179464a66a30200eb69bbd8d6918dc745826867 ad9aef9264b33606c81618f9404f332c7012997b    :
+8caae60b8a214374d149986383e568ace36b0be2 7179464a66a30200eb69bbd8d6918dc745826867    :
+68f26c3ad8db7a80f3808ca6e5523b57d1637fc3 8caae60b8a214374d149986383e568ace36b0be2    :
+7ca3e85b16764ae199561d1f99dd1db703813d79 68f26c3ad8db7a80f3808ca6e5523b57d1637fc3    :[helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|RENAME_VARIABLE]
+53e4f067778340f7d13d58f0cd6d69c53afa2883 7ca3e85b16764ae199561d1f99dd1db703813d79    :[helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|RENAME_ATTRIBUTE, helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|RENAME_VARIABLE]
+86d15b30b32c3881931b017aff785790f154b44b 53e4f067778340f7d13d58f0cd6d69c53afa2883    :
+5e59666215b9a5efd525ac828455b7e79d7080f1 86d15b30b32c3881931b017aff785790f154b44b    :[helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|RENAME_ATTRIBUTE, helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|RENAME_VARIABLE]
+f01555909616badb01e444f640431e981666795d 5e59666215b9a5efd525ac828455b7e79d7080f1    :[helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|RENAME_VARIABLE]
+5632763fb53efaab4d73a87fe4522ad3a9048d95 f01555909616badb01e444f640431e981666795d    :
+46f029469537aa94800befb5f99f4b1569a08228 5632763fb53efaab4d73a87fe4522ad3a9048d95    :
+356f3a44a860f163db6a8fc1b7fbd31cdfaa9e41 46f029469537aa94800befb5f99f4b1569a08228    :
+29632d56e87b55e9372e918ed43187c40ab85484 356f3a44a860f163db6a8fc1b7fbd31cdfaa9e41    :
+8d08887e87bc2b7be98379f31b23ce57c74fa6e5 29632d56e87b55e9372e918ed43187c40ab85484    :
+add4742c671a84b9906a2f1a6a742cd3d2c5f7b5 8d08887e87bc2b7be98379f31b23ce57c74fa6e5    :[helios-testing/src/main/java/com/spotify/helios/testing/DefaultProber.java|INVERT_CONDITION, helios-testing/src/main/java/com/spotify/helios/testing/DefaultProber.java|RENAME_PARAMETER, helios-testing/src/main/java/com/spotify/helios/testing/DefaultProber.java|RENAME_VARIABLE, helios-testing/src/main/java/com/spotify/helios/testing/HeliosConfig.java|RENAME_ATTRIBUTE, helios-testing/src/main/java/com/spotify/helios/testing/HeliosConfig.java|RENAME_PARAMETER, helios-testing/src/main/java/com/spotify/helios/testing/HeliosConfig.java|RENAME_VARIABLE, helios-testing/src/main/java/com/spotify/helios/testing/HeliosDeploymentException.java|RENAME_PARAMETER, helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|RENAME_ATTRIBUTE, helios-testing/src/main/java/com/spotify/helios/testing/HeliosSoloLogService.java|RENAME_VARIABLE, helios-testing/src/main/java/com/spotify/helios/testing/InMemoryLogStreamFollower.java|INVERT_CONDITION, helios-testing/src/main/java/com/spotify/helios/testing/InMemoryLogStreamFollower.java|RENAME_ATTRIBUTE, helios-testing/src/main/java/com/spotify/helios/testing/InMemoryLogStreamFollower.java|RENAME_PARAMETER, helios-testing/src/main/java/com/spotify/helios/testing/InMemoryLogStreamFollower.java|RENAME_VARIABLE]
+b905dbc5c3a63bbcf642a372c310cb6242496fb1 add4742c671a84b9906a2f1a6a742cd3d2c5f7b5    :
+152cf0d02587b301f960a978b5ae647713f4ec3b b905dbc5c3a63bbcf642a372c310cb6242496fb1    :[helios-testing-common/src/main/java/com/spotify/helios/TemporaryPorts.java|RENAME_ATTRIBUTE]
+380ad8b2bf6f6b1171fc9b19664ed6394fd5190b 152cf0d02587b301f960a978b5ae647713f4ec3b    :[helios-testing-common/src/main/java/com/spotify/helios/Parallelized.java|RENAME_PARAMETER, helios-testing-common/src/main/java/com/spotify/helios/Parallelized.java|RENAME_VARIABLE]
+408fc21bfe9b236e68602d250fc778ec4c65b6eb 380ad8b2bf6f6b1171fc9b19664ed6394fd5190b    :[helios-testing-common/src/main/java/com/spotify/helios/TemporaryPorts.java|RENAME_ATTRIBUTE]
+c96616f21cca2b12e80d3bd1080a50689749c9c7 408fc21bfe9b236e68602d250fc778ec4c65b6eb    :
+830ae9295a267e5a23bbf7abe6a767f19397dbeb c96616f21cca2b12e80d3bd1080a50689749c9c7    :
+6f05a01bd0e5e0afd5adb0f4417d5b646019e632 830ae9295a267e5a23bbf7abe6a767f19397dbeb    :[helios-testing-common/src/main/java/com/spotify/helios/TemporaryPorts.java|RENAME_ATTRIBUTE]
+b454f646772d47c118c1b1b2f39af07df7bfe722 6f05a01bd0e5e0afd5adb0f4417d5b646019e632    :
+f33ab2ec5b00f9016770e477e634815eb326d145 b454f646772d47c118c1b1b2f39af07df7bfe722    :
+d37e781c79b75528d38ae6beaebbf19a9ade769b f33ab2ec5b00f9016770e477e634815eb326d145    :[helios-testing-common/src/main/java/com/spotify/helios/TemporaryPorts.java|RENAME_ATTRIBUTE]
+957e93456a679f8dcde294a6f57dc1e04e868ff8 d37e781c79b75528d38ae6beaebbf19a9ade769b    :[helios-testing-common/src/main/java/com/spotify/helios/Parallelized.java|RENAME_PARAMETER, helios-testing-common/src/main/java/com/spotify/helios/Parallelized.java|RENAME_VARIABLE]
+9cf2118ba90e5f77bf30f6c17a934121f2916c5d 957e93456a679f8dcde294a6f57dc1e04e868ff8    :[helios-testing-common/src/main/java/com/spotify/helios/Polling.java|RENAME_PARAMETER, helios-testing-common/src/main/java/com/spotify/helios/Polling.java|RENAME_VARIABLE]
+1a23d348d96a6b8d6cdb066225a3f7ed42dc365b 9cf2118ba90e5f77bf30f6c17a934121f2916c5d    :
+d84941bfea1a0a70fba06c78fcfd0f9ca4545a75 1a23d348d96a6b8d6cdb066225a3f7ed42dc365b    :
+1b81e6b79bc40051976dc5fe370d003da655a4f4 d84941bfea1a0a70fba06c78fcfd0f9ca4545a75    :[helios-testing-common/src/main/java/com/spotify/helios/Parallelized.java|RENAME_PARAMETER, helios-testing-common/src/main/java/com/spotify/helios/Parallelized.java|RENAME_VARIABLE]
+2473745b57ef782695eda72db13520d89a4ce93e 1b81e6b79bc40051976dc5fe370d003da655a4f4    :[helios-testing-common/src/main/java/com/spotify/helios/ZooKeeperTestManager.java|RENAME_PARAMETER, helios-testing-common/src/main/java/com/spotify/helios/ZooKeeperTestingClusterManager.java|RENAME_ATTRIBUTE, helios-testing-common/src/main/java/com/spotify/helios/ZooKeeperTestingClusterManager.java|RENAME_PARAMETER, helios-testing-common/src/main/java/com/spotify/helios/ZooKeeperTestingClusterManager.java|RENAME_VARIABLE, helios-testing-common/src/main/java/com/spotify/helios/ZooKeeperTestingServerManager.java|RENAME_ATTRIBUTE, helios-testing-common/src/main/java/com/spotify/helios/ZooKeeperTestingServerManager.java|RENAME_PARAMETER, helios-testing-common/src/main/java/com/spotify/helios/ZooKeeperTestingServerManager.java|RENAME_VARIABLE]
+a930c02d557edcb8236676e795e82b91aef4dbe6 2473745b57ef782695eda72db13520d89a4ce93e    :[helios-system-tests/src/main/java/com/spotify/helios/system/ClusterDeploymentTest.java|RENAME_ATTRIBUTE, helios-system-tests/src/main/java/com/spotify/helios/system/ClusterDeploymentTest.java|RENAME_PARAMETER]
+a30e1822ea2077fe9a6278eb0ead82b5f571e30c a930c02d557edcb8236676e795e82b91aef4dbe6    :[helios-system-tests/src/main/java/com/spotify/helios/system/ClusterDeploymentTest.java|RENAME_PARAMETER]
+d7a70d4f1b04b594127c9fea34890219107c5eb4 a30e1822ea2077fe9a6278eb0ead82b5f571e30c    :[helios-system-tests/src/main/java/com/spotify/helios/system/ClusterDeploymentTest.java|RENAME_ATTRIBUTE, helios-system-tests/src/main/java/com/spotify/helios/system/ClusterDeploymentTest.java|RENAME_PARAMETER]
+29671354178c80b4de8deca9dce347336a14d7fa d7a70d4f1b04b594127c9fea34890219107c5eb4    :[helios-system-tests/src/main/java/com/spotify/helios/system/CliJobCreationTest.java|RENAME_VARIABLE, helios-system-tests/src/main/java/com/spotify/helios/system/ClusterDeploymentTest.java|RENAME_ATTRIBUTE, helios-system-tests/src/main/java/com/spotify/helios/system/ClusterDeploymentTest.java|RENAME_PARAMETER, helios-system-tests/src/main/java/com/spotify/helios/system/JobWatchExactTest.java|MERGE_CONDITIONAL, helios-system-tests/src/main/java/com/spotify/helios/system/LabelTest.java|RENAME_VARIABLE, helios-system-tests/src/main/java/com/spotify/helios/system/MultipleJobsTest.java|RENAME_VARIABLE, helios-system-tests/src/main/java/com/spotify/helios/system/PortCollisionJobTest.java|RENAME_ATTRIBUTE, helios-system-tests/src/main/java/com/spotify/helios/system/PortCollisionJobTest.java|RENAME_VARIABLE, helios-system-tests/src/main/java/com/spotify/helios/system/SystemTestBase.java|EXTRACT_VARIABLE, helios-system-tests/src/main/java/com/spotify/helios/system/VolumeTest.java|RENAME_ATTRIBUTE, helios-system-tests/src/main/java/com/spotify/helios/system/VolumeTest.java|RENAME_PARAMETER, helios-system-tests/src/main/java/com/spotify/helios/system/VolumeTest.java|RENAME_VARIABLE]
+f5ca2fed1af3b713111d3c621529405737e06150 29671354178c80b4de8deca9dce347336a14d7fa    :[helios-services/src/main/java/com/spotify/helios/master/metrics/TotalHealthCheckGauge.java|RENAME_ATTRIBUTE, helios-services/src/main/java/com/spotify/helios/master/metrics/TotalHealthCheckGauge.java|RENAME_VARIABLE]
+c064cf0d5d00b8594823e5bf951259075854ab4a f5ca2fed1af3b713111d3c621529405737e06150    :[helios-services/src/main/java/com/spotify/helios/master/metrics/TotalHealthCheckGauge.java|RENAME_ATTRIBUTE, helios-services/src/main/java/com/spotify/helios/master/metrics/TotalHealthCheckGauge.java|RENAME_PARAMETER]
+2d5998e209ad71abfa34d11bfd89f19a845f0c44 c064cf0d5d00b8594823e5bf951259075854ab4a    :
+15d5de67ced7ab8de15e8ff8d74006acf6ca5133 2d5998e209ad71abfa34d11bfd89f19a845f0c44    :[helios-services/src/main/java/com/spotify/helios/agent/BindVolumeContainerDecorator.java|EXTRACT_VARIABLE, helios-services/src/main/java/com/spotify/helios/agent/BindVolumeContainerDecorator.java|INVERT_CONDITION, helios-services/src/main/java/com/spotify/helios/agent/NoOpContainerDecorator.java|RENAME_PARAMETER, helios-services/src/main/java/com/spotify/helios/agent/PollingDockerClient.java|RENAME_PARAMETER, helios-services/src/main/java/com/spotify/helios/agent/SignalAwaitingService.java|RENAME_ATTRIBUTE, helios-services/src/main/java/com/spotify/helios/agent/SignalAwaitingService.java|RENAME_PARAMETER, helios-services/src/main/java/com/spotify/helios/master/resources/VersionResource.java|INVERT_CONDITION, helios-services/src/main/java/com/spotify/helios/rollingupdate/RollingUndeployPlanner.java|RENAME_PARAMETER, helios-services/src/main/java/com/spotify/helios/servicescommon/CommonConfiguration.java|RENAME_PARAMETER, helios-services/src/main/java/com/spotify/helios/servicescommon/DefaultReactor.java|RENAME_ATTRIBUTE, helios-services/src/main/java/com/spotify/helios/servicescommon/DefaultReactor.java|RENAME_PARAMETER, helios-services/src/main/java/com/spotify/helios/servicescommon/coordination/Check.java|EXTRACT_VARIABLE, helios-services/src/main/java/com/spotify/helios/servicescommon/statistics/MeterRates.java|RENAME_ATTRIBUTE, helios-services/src/main/java/com/spotify/helios/servicescommon/statistics/MeterRates.java|RENAME_PARAMETER, helios-services/src/main/java/com/spotify/helios/servicescommon/statistics/NoopMasterMetrics.java|RENAME_PARAMETER]
+11c8432dc693791140bc0aac7822c9639e54a465 15d5de67ced7ab8de15e8ff8d74006acf6ca5133    :[helios-service-registration/src/main/java/com/spotify/helios/serviceregistration/NopServiceRegistrar.java|RENAME_PARAMETER]
+597cfcc2197e5b69fced91811dc1eafcc582433b 11c8432dc693791140bc0aac7822c9639e54a465    :[helios-service-registration/src/main/java/com/spotify/helios/serviceregistration/NopServiceRegistrar.java|RENAME_PARAMETER]
+38a93d4c2d098780f1d2afc353697e1752306ae4 597cfcc2197e5b69fced91811dc1eafcc582433b    :[helios-service-registration/src/main/java/com/spotify/helios/serviceregistration/NopServiceRegistrar.java|RENAME_PARAMETER]
+b1ab98ef0dc90d0f3542a3e28d351baebe4cdd64 38a93d4c2d098780f1d2afc353697e1752306ae4    :[helios-service-registration/src/main/java/com/spotify/helios/serviceregistration/NopServiceRegistrar.java|RENAME_PARAMETER]
+ba1bf631def309801aaa4166c49bae8ac352aaf0 b1ab98ef0dc90d0f3542a3e28d351baebe4cdd64    :[helios-service-registration/src/main/java/com/spotify/helios/serviceregistration/NopServiceRegistrar.java|RENAME_PARAMETER]
+637a42cdc0338c685772fab88d6fc734ffdcbf88 ba1bf631def309801aaa4166c49bae8ac352aaf0    :[helios-service-registration/src/main/java/com/spotify/helios/serviceregistration/NopServiceRegistrar.java|RENAME_PARAMETER]
+08fa4fa9a2d2c78d156b78dca06aca9ab90376ea 637a42cdc0338c685772fab88d6fc734ffdcbf88    :
+88e2836e4cf347fa270e559c4b1bfdb63847d75f 08fa4fa9a2d2c78d156b78dca06aca9ab90376ea    :
+3cf5a4f60bfa669c239cdbfe18e3db90a9426ab9 88e2836e4cf347fa270e559c4b1bfdb63847d75f    :
+d83690079cb8c11ab7c402b8ff8a1e44cd5a082f 3cf5a4f60bfa669c239cdbfe18e3db90a9426ab9    :
+66624268c3cfb31d512e9b8828f7dc77dd3ef233 d83690079cb8c11ab7c402b8ff8a1e44cd5a082f    :
+b43d20eb8981557326ecdd106b80c54a20deeab1 66624268c3cfb31d512e9b8828f7dc77dd3ef233    :[helios-service-registration/src/main/java/com/spotify/helios/serviceregistration/NopServiceRegistrarFactory.java|RENAME_PARAMETER, helios-service-registration/src/main/java/com/spotify/helios/serviceregistration/ServiceRegistrar.java|RENAME_PARAMETER, helios-service-registration/src/main/java/com/spotify/helios/serviceregistration/ServiceRegistrarLoadingException.java|RENAME_PARAMETER, helios-service-registration/src/main/java/com/spotify/helios/serviceregistration/ServiceRegistration.java|EXTRACT_VARIABLE, helios-service-registration/src/main/java/com/spotify/helios/serviceregistration/ServiceRegistration.java|RENAME_ATTRIBUTE, helios-service-registration/src/main/java/com/spotify/helios/serviceregistration/ServiceRegistration.java|RENAME_PARAMETER]
+e5e33e18b2d0d4e1ddf5808ec230e3ef7885b2e7 b43d20eb8981557326ecdd106b80c54a20deeab1    :
+30db6e496b5872e9fb9d6065900440e9a1834be8 e5e33e18b2d0d4e1ddf5808ec230e3ef7885b2e7    :
+307f443aec6aeb18ec9672a777569c46d358d732 30db6e496b5872e9fb9d6065900440e9a1834be8    :
+196807bd47d59324d82a746914ab1a27aa52a27d 307f443aec6aeb18ec9672a777569c46d358d732    :
+a31b761eefc93d22b3ac74a643b1311ae1c94aee 196807bd47d59324d82a746914ab1a27aa52a27d    :
+f7417d3f823d3508208ba7d1fdb3ab68ba1b7bbc a31b761eefc93d22b3ac74a643b1311ae1c94aee    :
+a478e7e579f4492f3c0e06af2074672fc2625393 f7417d3f823d3508208ba7d1fdb3ab68ba1b7bbc    :
+b4c553caff889cf0794c6e6725cd452db63c9da6 a478e7e579f4492f3c0e06af2074672fc2625393    :
+781b4cd697de72e157dc47f67810fbbfe31bfb45 b4c553caff889cf0794c6e6725cd452db63c9da6    :
+3df7f005be63ec8c2229be92cfb581f0d1e0f519 781b4cd697de72e157dc47f67810fbbfe31bfb45    :
+b6ad77883fc176295d15120e3b8f8e999575b079 3df7f005be63ec8c2229be92cfb581f0d1e0f519    :
+e43f014660a31a93d5cf1443b8d9bfb20ce9381d b6ad77883fc176295d15120e3b8f8e999575b079    :
+c73ab4523d31bc1475bbe48e49061f736fe2c32b e43f014660a31a93d5cf1443b8d9bfb20ce9381d    :
+7e42382fcfcec764060f491869adfb128675221e c73ab4523d31bc1475bbe48e49061f736fe2c32b    :
+9c783d562f3bc06d88d09476a928684e4f3f99d0 7e42382fcfcec764060f491869adfb128675221e    :
+2aa85a56eae71b9f3d8fa68b597f02c107627245 9c783d562f3bc06d88d09476a928684e4f3f99d0    :
+899480c4827b336f064916e6870e141cfdb6cbea 2aa85a56eae71b9f3d8fa68b597f02c107627245    :[helios-client/src/main/java/com/spotify/helios/common/descriptors/DeploymentGroup.java|RENAME_VARIABLE]
+70999680bd0c079541ccf4cc3085b6688a315a31 899480c4827b336f064916e6870e141cfdb6cbea    :
+e50d14c902af2034ce6884640f9e529138abbc3e 70999680bd0c079541ccf4cc3085b6688a315a31    :[helios-client/src/main/java/com/spotify/helios/common/descriptors/DeploymentGroup.java|EXTRACT_VARIABLE]
+39d1d71f8d50c21248be7fd9f5eb6d62199a9ee5 e50d14c902af2034ce6884640f9e529138abbc3e    :
+fc1a983cf433229c47e50ae120cc16f0864d599c 39d1d71f8d50c21248be7fd9f5eb6d62199a9ee5    :
+f879bf1cffa86971d81690449755b312d47cabca fc1a983cf433229c47e50ae120cc16f0864d599c    :
+356644270127f33fa2b1e99534e46ef9617e6966 f879bf1cffa86971d81690449755b312d47cabca    :
+1d9a3f8a2ab7eaed053bd473c97458a64cddc51f 356644270127f33fa2b1e99534e46ef9617e6966    :
+7ed579ec07fa7916bfd42cb136586c16fd1d2c19 1d9a3f8a2ab7eaed053bd473c97458a64cddc51f    :
+43b6142bdcb44b755967f5801400de168b4dd71b 7ed579ec07fa7916bfd42cb136586c16fd1d2c19    :
+d9f41835b544239cfa313d752cd68a76f4a056e8 43b6142bdcb44b755967f5801400de168b4dd71b    :[helios-client/src/main/java/com/spotify/helios/common/descriptors/DeploymentGroup.java|EXTRACT_VARIABLE]
+b6c1f99e6f3efad368b05a966b4355dcebfedccb d9f41835b544239cfa313d752cd68a76f4a056e8    :
+f269de7d767b78de7adc012dddbfd8845c65128e b6c1f99e6f3efad368b05a966b4355dcebfedccb    :[helios-client/src/main/java/com/spotify/helios/common/descriptors/DeploymentGroup.java|EXTRACT_VARIABLE]
+bafe4d64a26ea0da66b4e43804a69c6d172b9e1e f269de7d767b78de7adc012dddbfd8845c65128e    :[helios-client/src/main/java/com/spotify/helios/common/descriptors/DeploymentGroup.java|RENAME_VARIABLE]

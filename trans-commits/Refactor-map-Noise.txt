@@ -1,0 +1,36 @@
+EXTRACT_VARIABLE
+ADD_PARAMETER
+MODIFY_CLASS_ANNOTATION
+ADD_PARAMETER_MODIFIER
+CHANGE_RETURN_TYPE
+NO_NOISE
+ADD_VARIABLE_MODIFIER
+REMOVE_VARIABLE_MODIFIER
+CHANGE_OPERATION_ACCESS_MODIFIER
+REPLACE_VARIABLE_WITH_ATTRIBUTE
+REPLACE_PIPELINE_WITH_LOOP
+LOCALIZE_PARAMETER
+RENAME_ATTRIBUTE
+RENAME_CLASS
+RENAME_PARAMETER
+ADD_METHOD_MODIFIER
+MOVE_CODE
+INLINE_VARIABLE
+PARAMETERIZE_VARIABLE
+REMOVE_PARAMETER
+REMOVE_METHOD_ANNOTATION
+RENAME_VARIABLE
+SPLIT_CONDITIONAL
+INVERT_CONDITION
+CHANGE_PARAMETER_TYPE
+REPLACE_ATTRIBUTE_WITH_VARIABLE
+CHANGE_CLASS_ACCESS_MODIFIER
+CHANGE_ATTRIBUTE_TYPE
+ADD_METHOD_ANNOTATION
+MERGE_CONDITIONAL
+REMOVE_ATTRIBUTE_MODIFIER
+CHANGE_VARIABLE_TYPE
+INLINE_OPERATION
+
+[NO_NOISE, [codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttCodecUtil.java|EXTRACT_VARIABLE, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttConnectMessage.java|RENAME_PARAMETER, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttConnectPayload.java|RENAME_ATTRIBUTE, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttConnectPayload.java|RENAME_PARAMETER, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttDecoder.java|ADD_METHOD_MODIFIER, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttDecoder.java|ADD_PARAMETER, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttDecoder.java|CHANGE_RETURN_TYPE, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttDecoder.java|CHANGE_VARIABLE_TYPE, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttDecoder.java|PARAMETERIZE_VARIABLE, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttMessageIdVariableHeader.java|EXTRACT_VARIABLE, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttPublishMessage.java|RENAME_PARAMETER, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttUnsubAckPayload.java|RENAME_ATTRIBUTE, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttUnsubAckPayload.java|RENAME_PARAMETER, codec-mqtt/src/main/java/io/netty/handler/codec/mqtt/MqttUnsubAckPayload.java|RENAME_VARIABLE], [codec-memcache/src/main/java/io/netty/handler/codec/memcache/binary/DefaultFullBinaryMemcacheRequest.java|RENAME_PARAMETER, codec-memcache/src/main/java/io/netty/handler/codec/memcache/binary/DefaultFullBinaryMemcacheRequest.java|RENAME_VARIABLE]]
+[NO_NOISE, [codec-redis/src/main/java/io/netty/handler/codec/redis/RedisDecoder.java|SPLIT_CONDITIONAL], NO_NOISE]
