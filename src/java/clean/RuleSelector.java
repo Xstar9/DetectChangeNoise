@@ -14,6 +14,7 @@ import java.util.regex.Pattern;
 import java.util.stream.Collectors;
 
 import static clean.CleanBlank.*;
+import static clean.detectRule.compareStringLists;
 import static gitop.utils.AccurateUtils.normalizeFqMethodName;
 import static gitop.utils.AccurateUtils.scanJavaFiles;
 
@@ -67,19 +68,19 @@ public class RuleSelector {
         change.setCmpId(oldId + " --> " + newId);
         GitDiffUtils util = new GitDiffUtils();
         GitDiffUtils.checkout2CommitId(localUrl, newId);
-        Map<String, Map<Integer, String>> diffMap = util.getDiffByJGit(localUrl, oldId, newId, "sss");
+        List<Map<String, Map<Integer, String>>> diffMapList = detectRule.getDiffByJGit(localUrl, oldId, newId, "sss");
         // diff 的 文件路径 url + diffMap.keySet()
         Map<Integer, String> lineContentMaps = new TreeMap<>();
-        if (diffMap.isEmpty()) {
+        if (diffMapList.get(0).isEmpty()) {
             return;
         }
-        for (String key : diffMap.keySet()) {
+        for (String key : diffMapList.get(0).keySet()) {
 //            Map<Integer,String> lineContentMap = diffMap.get(key)
 //                    .entrySet()
 //                    .stream()
 //                    .collect(Collectors.toMap(Map.Entry::getValue, Map.Entry::getKey));
-            lineContentMaps.putAll(diffMap.get(key));
-            List<ChangeNoise> changeNoiseList = process4BlankAndComment(diffMap.get(key));
+            lineContentMaps.putAll(diffMapList.get(0).get(key));
+            List<ChangeNoise> changeNoiseList = process4BlankAndComment(diffMapList.get(0).get(key));
 
             changeNoiseList = changeNoiseList.stream()
                     .filter(changeNoise -> !((changeNoise.getTypeId() == null) || changeNoise.getTypeId().isEmpty()))
@@ -98,8 +99,24 @@ public class RuleSelector {
             scanJavaFiles(file2, filePaths2);
         }
         Map<String, String> fileCodeMap2 = filePaths2.stream().collect(Collectors.toMap(path -> path, AccurateUtils::readFile));
-        Set<String> pureNoiseMethodList = detectNoiseChangeMethod(change, localUrl, localUrl, fileCodeMap2, fileCodeMap2, diffMap);
+        Set<String> pureNoiseMethodList = detectNoiseChangeMethod(change, localUrl, localUrl, fileCodeMap2, fileCodeMap2, diffMapList.get(0));
+        Set<String> result = new HashSet<>();
+        for (String key : diffMapList.get(0).keySet()){
+            List<String> a = new ArrayList<>(diffMapList.get(0).get(key).values());
+            if (diffMapList.get(1).containsKey(key)){
+                List<String> b = new ArrayList<>(diffMapList.get(1).get(key).values());
+                List<String> intersect =  new ArrayList<>(a);
+                List<String> intersect1 =  new ArrayList<>(b);
+//                        intersect.removeAll(b);
+//                        intersect1.removeAll(a);
+                result.addAll(compareStringLists(intersect, intersect1,0.50));
+//                        System.out.println(intersect);
+//                        System.out.println(intersect1);
+
+            }
+        }
         resultNoiseList.addAll(pureNoiseMethodList);
+        resultNoiseList.addAll(result);
         // 切换到原始版本
         GitDiffUtils.checkout2CommitId(localUrl, oldId);
     }
@@ -119,7 +136,6 @@ public class RuleSelector {
 //        }
         for (String key : diffMap.keySet()) {
             lineContentMaps.putAll(diffMap.get(key));
-
         }
         // 执行源工程目录重命名噪声检测
         CleanRefactor cleanRefactor = new CleanRefactor();

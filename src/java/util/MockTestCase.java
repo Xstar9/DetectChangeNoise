@@ -16,7 +16,7 @@ import java.util.stream.Collectors;
 import static spat.git.GitUtils.readFile;
 
 public class MockTestCase {
-    public static String projectPath = "E:\\project-DataSets1\\RuoYi";
+    public static String projectPath = "D:\\JavaProject\\range-test-benchmark";//"E:\\project-DataSets1\\RuoYi";
 
     public static void main(String[] args) {
         mockTestCase(projectPath);

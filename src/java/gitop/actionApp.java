@@ -21,7 +21,7 @@ import static gitop.utils.GitDiffUtils.getTime;
 public class actionApp {
     public static String startCommit = "badc19efbf9140b7dcff6de1613d936ac796cc25";//"5c98bbc738989bc1b12a7cce009e9fc4f707a495"; // Before commit5c98bbc738989bc1b12a7cce009e9fc4f707a495
     public static String endCommit = "c7c5f9b9582410ce39e5c9fb6b78173d01b3746c";//"1fbc115d1e94ae9d08dd933ddbe841cfb56f48e8"; // Newer Commitf25d488f40117f7caaedfb04f25086ae2857aa82
-    public static String project_dir = "E:\\project-DataSets20240920\\scribejava";//"D:\\JavaProject\\ForMyIdea\\homework\\tmp\\refactoring-toy-example";
+    public static String project_dir = "E:\\project-DataSets20240927\\scribejava";//"D:\\JavaProject\\ForMyIdea\\homework\\tmp\\refactoring-toy-example";
 
     public static void main(String[] args) throws InterruptedException, IOException {
         actionApp action = new actionApp();
@@ -29,17 +29,17 @@ public class actionApp {
         String latestSHA = list[0];
 //        for(int id=0; id<183; id++) {
 //            System.out.println(id);
-            RuleSelector.entry("ec5b39293b1c141a28b997b9bcb13de49f275430","2730b123e96dac9f9429c82e469ccaeeef89c8cd", project_dir,new HashSet<>()); // ("049001d1c0d5af5dd50676f7e2450375533d97fc","f34896a734e893759f1ca89930b0e3e30d75dca5",project_dir);
+            RuleSelector.entry("2d658e8123ecf362c20f9e2a7e0b1500ac49cc59","e99a5af0312bbeda6d42471d0fdbbeb84e83a365", project_dir,new HashSet<>()); // ("049001d1c0d5af5dd50676f7e2450375533d97fc","f34896a734e893759f1ca89930b0e3e30d75dca5",project_dir);
             Set<String> changeSet = new TreeSet<>();
             String time = getTime();
 //            System.out.println("---------------------------------------"+(id+1)+"--------------------------------------------------------------------------------------------------------------------------------------");
             // Step 1: get Diff
             GitDiffUtils util = new GitDiffUtils();
-            util.getDiffByJGit(project_dir,  "ec5b39293b1c141a28b997b9bcb13de49f275430","2730b123e96dac9f9429c82e469ccaeeef89c8cd",time);
+            util.getDiffByJGit(project_dir,  "2d658e8123ecf362c20f9e2a7e0b1500ac49cc59","e99a5af0312bbeda6d42471d0fdbbeb84e83a365",time);
 //            checkout2CommitId(project_dir,"9ee10efecf52ade6af3784105a159ec646edaf5b");
             System.out.println("------------------------------------Step 1: get Diff-------------------------------------------------------------------");
             // Step 2: get Change File And Lines
-            String file_dir = "E:\\project-DataSets20240920\\";
+            String file_dir = "E:\\project-DataSets20240927\\";
             String project_name = "scribejava\\";
             String prefix_path = file_dir + project_name;
             String diff_file = "diff_content/diff-" + time + ".diff"; //  diff-LocalTime.diff(or other,eg:.txt、.patch ...)

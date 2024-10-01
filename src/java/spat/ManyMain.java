@@ -1,5 +1,6 @@
 package spat;
 
+import cn.hutool.core.io.FileUtil;
 import com.opencsv.CSVWriter;
 import data.Project;
 import org.eclipse.jdt.core.JavaCore;
@@ -44,9 +45,9 @@ public class ManyMain {
 
     public static List<Integer> failedTransformCommit = new ArrayList<>();
 
-    public static String trans_commits_report_dir = "D:\\JavaProject\\SPAT\\trans-commits\\";
-    private static final String error_trans_file = trans_commits_report_dir + "trans-error-lists20240920.csv";
-    private static final String success_trans_file = trans_commits_report_dir + "trans-commits-datasets20240920.csv";
+    public static String trans_commits_report_dir = "D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\";
+    private static final String error_trans_file = trans_commits_report_dir + "trans-error-lists20240927.csv";
+    private static final String success_trans_file = trans_commits_report_dir + "trans-commits-datasets20240927.csv";
 
     // TODO：后续可以实现两次以上（最多5次）的转变，然后打乱数据集；因为一次转换影响的仅仅一个方法；剩下的就人工手动构造（10%-20%/或结合GPT）
 
@@ -59,22 +60,17 @@ public class ManyMain {
         // 选择基数据集（项目存储库-clone本地-包含一定量的关于源代码更改相关的提交）
         String[] gitRepositoryPathList =GitUtils.readFile(projectList).split("\n");
 //        String gitRepositoryPath = readFile(projectList).split("\n")[0];
-        for(int i = 1; i <= 1; i++){
+        for(int i = 1; i <= 8; i++){
             String gitRepositoryPath = gitRepositoryPathList[i].split(",")[0];
             currentDir = gitRepositoryPath.substring(gitRepositoryPath.lastIndexOf("/") + 1, gitRepositoryPath.length() - 4);
-//        String localPath = projectLocalPath + currentDir;
-//        currentDir = "webmagic";//"spring-hateoas";
-            String localPath = "E:\\project-DataSets20240920\\" + currentDir;
-
+            String localPath = "E:\\project-DataSets20240927\\" + currentDir;
             // 计算项目信息，类->函数->branch 路径数 -> 模拟用例关联数量
-//            GitUtils.fetchGit(gitRepositoryPath, "E:\\projectDataSet" , "");
             if(!GitUtils.getGitClone(gitRepositoryPath, localPath)){
 //                writeCloneErrorToCSV("D:\\JavaProject\\SPAT\\local_project_list.csv", new String[]{gitRepositoryPath,localPath});
-                writeCloneErrorToCSV(trans_commits_report_dir+"clone_fail_projects20240920.csv",new String[]{gitRepositoryPath});
+                writeCloneErrorToCSV(trans_commits_report_dir+"clone_fail_projects20240927.csv",new String[]{gitRepositoryPath});
                 continue;
             }
 
-//            checkout2CommitId(localPath,gitRepositoryPathList[i].split(",")[2]);
             Project project = MockTestCase.mockTestCase(localPath);
             projectCasesList.add(project);
             currentProject = project;
@@ -99,7 +95,7 @@ public class ManyMain {
                             .collect(Collectors.toList());
                     // 循环次数在使用random时，有效；不使用random选择规则进行调试时，则是一直重复这个规则。所以设置为1即可；
                     // TODO：先制作100-500条看效果和局部实验
-                    for (int j = 0; j < 66; j++) {
+                    for (int j = 0; j < 50; j++) {
                         args = new String[4];
                         count = j;
                         SecureRandom rand1 = new SecureRandom();// 18种转换规则
@@ -107,7 +103,7 @@ public class ManyMain {
 //            args[0] = "2";
                         args[0] = String.valueOf(random1); //		args[0] = String.valueOf(random1);
                         args[1] = javaDirectory.get(0); // "D:\\JavaProject\\jta\\tmp\\static-dynamic-diff\\src\\main\\java";
-                        args[2] = "D:\\JavaProject\\SPAT\\transform-output\\" + currentDir + "\\";
+                        args[2] = "D:\\JavaProject\\MyIdea\\DetectChangeNoise\\" + currentDir + "\\";
                         args[3] = "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\rt.jar";
                         // 规则转换---引入等价替换噪声（扰动）
                         // 1. 17种随机变换规则  单（原子）扰动添加--（0-n处）
@@ -121,7 +117,7 @@ public class ManyMain {
                             jre_rtPath.add(args[s]);
                         }
                         if(currentDir.equals("netty/buffer")&&args[0].equals("1")){
-                            System.out.println("跳过");
+                            System.out.println("skip...");
                             continue;
                         }
                         ParseFilesInDir(dirOfTheFiles, outputDir, Utils.ArryStr2priStrList(jre_rtPath), args[0]);
@@ -131,7 +127,7 @@ public class ManyMain {
                     System.out.println("failTransformCommit： "+failedTransformCommit);
                 }
             }else if(srcLocatedList.isEmpty()){
-                writeCloneErrorToCSV(trans_commits_report_dir+"clone_fail_projects20240920.csv",new String[]{gitRepositoryPath});
+                writeCloneErrorToCSV(trans_commits_report_dir+"clone_fail_projects20240927.csv",new String[]{gitRepositoryPath});
 //                continue;
             }else {
                 localPath = srcLocatedList.get(random0);
@@ -156,7 +152,7 @@ public class ManyMain {
 //            args[0] = "2";
                     args[0] = String.valueOf(random1); //		args[0] = String.valueOf(random1);
                     args[1] = javaDirectory.get(0); // "D:\\JavaProject\\jta\\tmp\\static-dynamic-diff\\src\\main\\java";
-                    args[2] = "D:\\JavaProject\\SPAT\\transform-output\\" + currentDir + "\\";
+                    args[2] = "D:\\JavaProject\\MyIdea\\DetectChangeNoise\\transform-output\\" + currentDir + "\\";
                     args[3] = "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\rt.jar";
                     // 规则转换---引入等价替换噪声（扰动）
                     // 1. 18种随机变换规则  单（原子）扰动添加--（0-n处） 2. （2-3）/17 种扰动复合转换  复合变更
@@ -169,11 +165,12 @@ public class ManyMain {
                         jre_rtPath.add(args[s]);
                     }
                     if(currentDir.equals("netty/buffer")&&args[0].equals("1")){
-                        System.out.println("跳过");
+                        System.out.println("skip");
                         continue;
                     }
                     ParseFilesInDir(dirOfTheFiles, outputDir, Utils.ArryStr2priStrList(jre_rtPath), args[0]);
                     System.out.println(currentDir+"      第"+j+"次");
+                    FileUtil.del("D:\\JavaProject\\MyIdea\\DetectChangeNoise\\transform-output");
                 }
                 System.out.println("successTransformCommit： "+successTransformCommit);
                 System.out.println("failTransformCommit： "+failedTransformCommit);
@@ -316,7 +313,7 @@ public class ManyMain {
                                 }else {
                                     defaultRelatedTestCaseNum += 1;
                                 }
-                                writeToFile("D:\\JavaProject\\SPAT\\trans-commits\\method-cases-map-log.txt",expandClassMapCases.toString());
+                                writeToFile("D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\method-cases-map-log.txt",expandClassMapCases.toString());
                             }
                         }
 //                        defaultRelatedTestCaseNum = currentProject.getTestCaseSum();

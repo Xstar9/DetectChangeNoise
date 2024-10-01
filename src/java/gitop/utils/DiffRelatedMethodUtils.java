@@ -105,21 +105,22 @@ public class DiffRelatedMethodUtils {
         List<String> change_segment = new ArrayList<>();
         List<String> change_file = new ArrayList<>();
         boolean cond = false;
-        StringBuilder content = new StringBuilder();
+        StringBuilder add_content = new StringBuilder();
+        StringBuilder del_content = new StringBuilder();
         for (String line : lines) {
             Matcher m = fileName_pattern.matcher(line);
             if (m.find()) {
-                if (content.length() > 0) {
-                    change_segment.add(content.toString());
+                if (add_content.length() > 0) {
+                    change_segment.add(add_content.toString());
 //                    log.info(content);
-                    content = new StringBuilder();
+                    add_content = new StringBuilder();
                 }
 //                cond = true;
                 String fileName = m.group(1);
                 if (!filter_not_java(fileName)) { // 是java 往下继续写
                     cond = true;
                     change_file.add(fileName);
-                    content.append(line).append("\n");
+                    add_content.append(line).append("\n");
                 } else {
                     cond = false; // 不是java 往下不操作
                 }
@@ -127,14 +128,14 @@ public class DiffRelatedMethodUtils {
                 //                log.info("Change File: "+fileName);
             } else if (cond) {
                 if (!line.isEmpty()) {
-                    content.append(line).append("\n"); // 继续写
+                    add_content.append(line).append("\n"); // 继续写
                     if (line.startsWith("+") && !line.startsWith("+++")) {
 //                        getChangeLinesOfMethodCall(changeSet,line);
                     }
                 }
             }
         }
-        change_segment.add(content.toString());
+        change_segment.add(add_content.toString());
         log.info(change_file.toString());
         Map<String, List<List<Integer>>> methodLocMap = new TreeMap<>();
 //        for (String seg :segment){

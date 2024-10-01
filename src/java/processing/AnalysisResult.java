@@ -18,17 +18,17 @@ import static java.lang.Math.abs;
 import static processing.LoadProject.extractMethods;
 
 public class AnalysisResult {
-    public static String[] resultPaths = {"D:\\JavaProject\\SPAT\\trans-commits\\result-20240920-2.csv", // 3组
-            "D:\\JavaProject\\SPAT\\trans-commits\\result-20240920-3.csv"}; // 1-3组随机
+    public static String[] resultPaths = {"D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\result-20240920-2.csv", // 3组
+            "D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\result-20240920-3.csv"}; // 1-3组随机
 
-    public static String[] dataPaths = {"D:\\JavaProject\\SPAT\\trans-commits\\trans-commits-datasets20240920.csv"};
+    public static String[] dataPaths = {"D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\trans-commits-datasets20240920.csv"};
 
 
     public static void countDetectResult() {
-        String[] resultPaths = {"D:\\JavaProject\\SPAT\\trans-commits\\result-20240920-2.csv", // 3组
-                "D:\\JavaProject\\SPAT\\trans-commits\\result-20240920-3.csv"}; // 1-3组随机
+        String[] resultPaths = {"D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\result-20240920-2.csv", // 3组
+                "D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\result-20240920-3.csv"}; // 1-3组随机
 
-        String[] dataPaths = {"D:\\JavaProject\\SPAT\\trans-commits\\trans-commits-datasets20240920.csv"};
+        String[] dataPaths = {"D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\trans-commits-datasets20240920.csv"};
 
         readCsvFile(resultPaths[1]);
 //        readCsvFilefromData(dataPaths[0]);
@@ -228,7 +228,7 @@ public class AnalysisResult {
         Map<String,List<Data>> dataMap =  prepareData1();
         int m = 0;
         Map<String,Project> projectMap = new HashMap<>();
-        try (Reader reader = Files.newBufferedReader(Paths.get("D:\\JavaProject\\SPAT\\trans-commits\\result-20240920-3.csv"));
+        try (Reader reader = Files.newBufferedReader(Paths.get("D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\result-20240920-3.csv"));
             CSVParser parser = new CSVParser(reader, CSVFormat.DEFAULT.withFirstRecordAsHeader())) {
             for (CSVRecord record : parser) {
                 // 本次变更影响的方法集
@@ -319,7 +319,7 @@ public class AnalysisResult {
         Map<String,List<Data>> dataMap =  prepareData1();
         List<String> noiseTypeList = new ArrayList<>();
         Map<String,Project> projectMap = new HashMap<>();
-        try (Reader reader = Files.newBufferedReader(Paths.get("D:\\JavaProject\\SPAT\\trans-commits\\result-20240920-3.csv"));
+        try (Reader reader = Files.newBufferedReader(Paths.get("D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\result-20240927.csv"));
              CSVParser parser = new CSVParser(reader, CSVFormat.DEFAULT.withFirstRecordAsHeader())) {
             for (CSVRecord record : parser) {
                 // 本次变更影响的方法集
@@ -420,7 +420,7 @@ public class AnalysisResult {
     public static Map<String,List<Data>> prepareData1() {
         Map<String,List<Data>> commitsMap = new HashMap<>();
         try (Reader reader = Files.newBufferedReader
-                (Paths.get("D:\\JavaProject\\SPAT\\trans-commits\\trans-commits-datasets20240920.csv"));
+                (Paths.get("D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\trans-commits-datasets20240927.csv"));
              CSVParser parser = new CSVParser(reader, CSVFormat.DEFAULT.withFirstRecordAsHeader())) {
             for (CSVRecord record : parser) {
                 String projectName = record.isMapped("projectName") ? record.get("projectName") : "N/A";

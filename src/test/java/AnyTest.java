@@ -55,7 +55,7 @@ public class AnyTest {
      */
     @Test
     public void test2() {
-        String projectPath = "E:\\project-DataSets1\\RuoYi";
+        String projectPath = "D:\\JavaProject\\range-test-benchmark";
         List<File> a = new ArrayList<>();
         for(String s : TestMethodCounter.findJavaSourceDirectories(projectPath)){
             TestMethodCounter.findTestFiles(new File(s),a);

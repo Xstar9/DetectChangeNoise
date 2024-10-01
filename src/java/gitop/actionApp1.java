@@ -27,17 +27,17 @@ public class actionApp1 {
         actionApp1 action = new actionApp1();
         List<String> projectsDir = new ArrayList<>();
         System.out.println("扫描被测数据集项目路径.....");
-        String[] interrupt_conn_project = {"scribejava","symja-parser","helios","spring-data-jpa","mybatis-3"};//"scribejava","symja-parser","netty","spring-data-jpa","RuoYi","WebGoat",};
-        for (File file:new File("E:\\project-DataSets20240920").listFiles()){
+//        String[] interrupt_conn_project = {"scribejava","symja-parser","helios","spring-data-jpa","mybatis-3"};//"scribejava","symja-parser","netty","spring-data-jpa","RuoYi","WebGoat",};
+        for (File file: Objects.requireNonNull(new File("E:\\project-DataSets20240927").listFiles())){
             projectsDir.add(Objects.requireNonNull(findGitDirectoryUpwards(file)).getAbsolutePath());
         }
-        Map<String, Integer> valueCountMap = countColumnValues1("D:\\JavaProject\\SPAT\\trans-commits\\trans-commits-datasets20240920.csv", 2);
+        Map<String, Integer> valueCountMap = countColumnValues1("D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\trans-commits-datasets20240927.csv", 2);
         for (String currentProject:projectsDir) {
 //            if(Arrays.stream(interrupt_conn_project).collect(Collectors.toList()).contains(currentProject.substring(currentProject.lastIndexOf("\\")+1)))
-            if("netty".equals(currentProject.substring(currentProject.lastIndexOf("\\")+1)))
-            {
-                continue;
-            }
+//            if("netty".equals(currentProject.substring(currentProject.lastIndexOf("\\")+1)))
+//            {
+//                continue;
+//            }
             project_dir = currentProject;
             String[] list = getCommitList();
             String latestSHA = list[0];
@@ -78,7 +78,7 @@ public class actionApp1 {
                     System.out.println(tripleChangeSetList);
                     tripleCommits.add(list[id+1]);
                     tripleCommits.add(list[id]);
-                    writeNoiseMatchingResult2CSV("D:\\JavaProject\\SPAT\\trans-commits\\result-20240920-2.csv",
+                    writeNoiseMatchingResult2CSV("D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\result-20240927.csv",
                             new String[]{currentProject,tripleCommits.toString(), RuleSelector.result1.toString(),tripleChangeSetList.toString()});
                     resultNoiseList.clear();
                     tripleChangeSetList.clear();
@@ -93,7 +93,7 @@ public class actionApp1 {
             }
             StringBuffer res = new StringBuffer();
             RuleSelector.result.forEach(s -> res.append(s).append("\n"));
-            writeFile("D:\\JavaProject\\SPAT\\trans-commits\\result0920-2.txt", res.toString());
+            writeFile("D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\result0927.txt", res.toString());
             checkout2CommitId(project_dir, latestSHA);
         }
     }

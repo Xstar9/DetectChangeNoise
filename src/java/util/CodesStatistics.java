@@ -171,7 +171,7 @@ public class CodesStatistics {
         Scanner sc = new Scanner(System.in);
 //        System.out.println("请输入需要查找代码的目录：");
 //        String s = sc.nextLine();
-        String s = "E:\\project-DataSets1\\symja-parser";
+        String s = "D:\\JavaProject\\range-test-benchmark";//"E:\\project-DataSets20240927\\spring-data-neo4j";
 
         File dir = new File(s);
         CodesStatistics cs = new CodesStatistics(dir);

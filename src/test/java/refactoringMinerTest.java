@@ -44,6 +44,34 @@ public class refactoringMinerTest {
         return valueCountMap;
     }
 
+    public static Map<String, Integer> countColumnValues2(String filePath, int columnIndex,String project) {
+        Map<String, Integer> valueCountMap = new HashMap<>();
+
+        try (BufferedReader br = new BufferedReader(new FileReader(filePath))) {
+            String line;
+            boolean isHeader = true;
+
+            while ((line = br.readLine()) != null) {
+                // Skip header line
+                if (isHeader) {
+                    isHeader = false;
+                    continue;
+                }
+
+                String values = line.replace("\"","").split(",")[columnIndex-1];
+                if(!valueCountMap.containsKey(values.split("/")[0])){
+                    valueCountMap.put(values.split("/")[0],1);
+                }else {
+                    valueCountMap.put(values.split("/")[0], valueCountMap.get(values.split("/")[0]) + 1);
+                }
+            }
+        } catch (IOException e) {
+            e.printStackTrace();
+        }
+
+        return valueCountMap;
+    }
+
     public static Map<String, Integer> countColumnValues1(String filePath, int columnIndex) {
         Map<String, Integer> valueCountMap = new HashMap<>();
 
@@ -93,10 +121,10 @@ public class refactoringMinerTest {
 //        }
 //        String localPath = srcLocatedList.get(random);
 //        System.out.println(localPath.substring(0, localPath.length() - 14));
-        String filePath = "D:\\JavaProject\\SPAT\\trans-commits\\trans-commits-datasets20240920.csv";//"D:\\JavaProject\\SPAT\\trans-commits\\trans-commits-datasets1.csv"; // 替换为实际CSV文件路径
-        int columnIndex = 4; // 替换为你要统计的列索引 (从0开始)
+        String filePath = "D:\\JavaProject\\MyIdea\\DetectChangeNoise\\trans-commits\\trans-commits-datasets20240927.csv";//"D:\\JavaProject\\SPAT\\trans-commits\\trans-commits-datasets1.csv"; // 替换为实际CSV文件路径
+        int columnIndex = 5; // 替换为你要统计的列索引 (从0开始)
         String project = "spring-data-neo4j";
-        Map<String, Integer> valueCountMap = countColumnValues1(filePath, 2);
+        Map<String, Integer> valueCountMap = countColumnValues1(filePath, 5);
 
         // 打印每个值及其出现次数
         for (Map.Entry<String, Integer> entry : valueCountMap.entrySet()) {
@@ -105,7 +133,7 @@ public class refactoringMinerTest {
 
         for (String entry : valueCountMap.keySet()){
             System.out.println(entry + ": ");
-            countColumnValues(filePath, columnIndex, entry).forEach((k, v) -> System.out.println("  " + k + ": " + v));
+            countColumnValues2(filePath, columnIndex, entry).forEach((k, v) -> System.out.println("  " + k + ": " + v));
         }
 //        String startingPath = "E:\\projectDataSet\\spring-data-jpa\\spring-data-jpa\\src"; // 替换为实际的目录路径
 //        File gitDir = findGitDirectoryUpwards(new File(startingPath));

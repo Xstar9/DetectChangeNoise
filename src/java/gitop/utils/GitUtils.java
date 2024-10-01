@@ -176,6 +176,21 @@ public class GitUtils {
                     }
                 }
                 continue;
+            }else if(line.startsWith("--- ")){
+                // 提取文件路径
+                String filePath = line.substring(line.indexOf('/') + 1).trim();
+                if (!filePath.isEmpty()) {
+                    if (!filter_not_java(filePath)) {
+                        isJava = true;
+                        currentFile = projectPath + "/" + filePath;
+                        Map<Integer, String> line4code = new TreeMap<>();
+                        fileMap.put(currentFile, line4code);
+//                        modifiedClass.add(currentFile);
+                    } else {
+                        isJava = false;
+                    }
+                }
+                continue;
             }
             if (isJava) {
                 int baseLine, delta;

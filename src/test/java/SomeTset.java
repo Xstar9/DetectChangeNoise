@@ -1,3 +1,4 @@
+import cn.hutool.core.io.FileUtil;
 import org.apache.commons.csv.CSVFormat;
 import org.apache.commons.csv.CSVParser;
 import org.apache.commons.csv.CSVRecord;
@@ -14,7 +15,8 @@ import java.util.Set;
 public class SomeTset {
     @Test
     public void test() {
-        readCsvFileFromResult("D:\\JavaProject\\SPAT\\trans-commits\\trans-commits-datasets20240920.csv");
+//        readCsvFileFromResult("D:\\JavaProject\\SPAT\\trans-commits\\trans-commits-datasets20240920.csv");
+        FileUtil.del("D:\\JavaProject\\MyIdea\\DetectChangeNoise\\ddd");
     }
 
     public static List<List<String>> readCsvFileFromResult(String filePath) {
@@ -51,4 +53,6 @@ public class SomeTset {
         }
         return changeSetTripleList;
     }
+
+
 }

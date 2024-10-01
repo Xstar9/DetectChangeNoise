@@ -160,7 +160,7 @@ public class Main {
 //		args[0] = String.valueOf(random);
 		args[0] = "0"; // transformType
 		args[1] = "D:\\下载\\static-dynamic-diff\\src\\main\\java";// "E:\\projectDataSet\\spring-hateoas\\src\\main\\java";
-		args[2] = "D:\\JavaProject\\SPAT\\transform-output\\static-dynamic-diff\\";
+		args[2] = "D:\\JavaProject\\MyIdea\\DetectChangeNoise\\transform-output\\static-dynamic-diff\\";
 		args[3] = "C:\\Program Files\\Java\\jdk1.8.0_271\\jre\\lib\\rt.jar";
 
 		Utils.maxTrans = maxTrans;
