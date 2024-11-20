@@ -6,11 +6,6 @@ import org.eclipse.jface.text.Document;
 
 import spat.rules.*;
 
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
-
 
 public class RuleSelector {
 	static final int LocalVarRenaming = 0;
@@ -20,7 +15,7 @@ public class RuleSelector {
 	static final int SingleIF2ConditionalExp  = 4;
 	static final int ConditionalExp2SingleIF  = 5;
 	static final int PP2AddAssignment = 6;
-	static final int AddAssignemnt2EqualAssignment = 7;
+	static final int AddAssignment2EqualAssignment = 7;
 	static final int InfixExpressionDividing = 8;
 	static final int IfDividing=9;
 	static final int StatementsOrderRearrangement = 10;
@@ -61,7 +56,7 @@ public class RuleSelector {
 			return new ConditionalExp2SingleIF(cu_, document_, outputDirPath_);
 		case PP2AddAssignment:
 			return new PP2AddAssignment(cu_, document_, outputDirPath_);
-		case AddAssignemnt2EqualAssignment:
+		case AddAssignment2EqualAssignment:
 			return new AddAssignemnt2EqualAssignment(cu_, document_, outputDirPath_);
 		case InfixExpressionDividing:
 			return new InfixExpressionDividing(cu_, document_, outputDirPath_);

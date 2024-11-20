@@ -18,7 +18,7 @@
         <slf4j-api.version>1.7.7</slf4j-api.version>
         <gumtree.version>2.0.0-SNAPSHOT</gumtree.version>
         <junit.version>4.12</junit.version>
-        <redis.version>2.8.1</redis.version>
+<!--        <redis.version>2.8.1</redis.version>-->
         <commons.version>1.3</commons.version>
 
     </properties>
